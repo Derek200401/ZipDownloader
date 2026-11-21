@@ -1,0 +1,32 @@
+{
+  "skins_name": "Fire Chief",
+  "release": "2017",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Electro Airbag",
+      "skill_desc": "When Johnson's HP drops below 30%, he gains a 300<font color=\"26e407\"> (+700% Total Physical Defense)</font> shield for 10s. Cooldown: 100s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Impact Wrench",
+      "skill_desc": "Johnson throws his wrench toward the target location, dealing 120<font color=\"26e407\"> (+220% Total Physical Defense)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path. Enemies around the landing point are stunned for 0.8s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Electromagnetic Waves",
+      "skill_desc": "Johnson raises his shield, continuously dealing 120<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a fan-shaped area in the target direction, reducing their Movement Speed and <font color=\"62f8fe\"><1070></font> by 10% (stacks up to 3 times) for 2s.\n\nWhile his shield is raised, Johnson can perform Basic Attacks and cast skills."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Full Throttle",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Johnson's <font color=\"fba51f\"><1060></font> is increased by 10%.\n<font color=\"a6aafb\">Active</font>: Johnson transforms into a car. Nearby allied heroes can use <font color=\"a6aafb\">Hop In</font> to ride with him (only 1 at a time). When the car hits an enemy hero, it explodes and deals 300<font color=\"26e407\"> (+240% Total Physical Defense)</font>–450<font color=\"26e407\"> (+360% Total Physical Defense)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies, stunning them for 0.5–1s (scales with driving time). It also creates an electrified zone at the location that continuously deals 60<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slows enemies within.\nJohnson's location is revealed to enemies for 3s when he casts this skill."
+    }
+  ]
+}

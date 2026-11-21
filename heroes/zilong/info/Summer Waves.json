@@ -1,0 +1,30 @@
+{
+  "skins_name": "Summer Waves",
+  "release": "2020",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "Summer",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Dragon Flurry",
+      "skill_desc": "After dealing damage 3 time(s) with Basic Attacks or skills, Zilong triggers <font color=\"a6aafb\">Dragon Flurry</font> on the next Basic Attack, hitting the target 3 time(s). Each hit deals 80<font color=\"fba51f\"> (+30% Total Physical Attack)</font> Basic Attack Damage and heals himself for 50<font color=\"fba51f\"> (+20% Total Physical Attack)</font> HP.\n\nZilong's Basic Attack deals 100<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nIf the target's HP is below 50%, all damage dealt by Zilong's skills and Basic Attacks is increased by 30."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Spear Flip",
+      "skill_desc": "Zilong flings the target enemy over his head, dealing 250<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Spear Strike",
+      "skill_desc": "Zilong lunges at the target enemy, dealing 250<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and reducing their <font color=\"fba51f\"><1060></font> by 15 for 2s.\n\nThe cooldown of <font color=\"a6aafb\">Spear Strike</font> is reset each time Zilong kills an enemy."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Supreme Warrior",
+      "skill_desc": "Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Attack Speed, and Slow Immunity for 7.5s.\n\nDuring this time, <font color=\"a6aafb\">Dragon Flurry</font> triggers every 2 attacks (instead of the previous 3)."
+    }
+  ]
+}

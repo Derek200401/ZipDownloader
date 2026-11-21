@@ -1,0 +1,37 @@
+{
+  "skins_name": "Crystallized Predator",
+  "release": "2017-11-29",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Decimation",
+      "skill_desc": "Upon death, Zhask summons a frenzied <font color=\"a6aafb\">Nightmaric Spawn</font> on the spot, which gradually loses HP over time until death."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Nightmaric Spawn",
+      "skill_desc": "Zhask summons a <font color=\"a6aafb\">Nightmaric Spawn</font> that inherits 55% of his <font color=\"26e407\"><1005></font>, <font color=\"26e407\"><1999></font>, and <font color=\"62f8fe\"><1030></font>. It automatically fires <font color=\"a6aafb\">Death Ray</font> at nearby enemies, dealing 55 (+ <font color=\"62f8fe\">20%<1030></font>) (+ <font color=\"26e407\">20% Extra Attack Speed</font>) <font color=\"7f62fe\">Magic Damage</font> and slowing them by up to 30%. It disappears when Zhask moves too far away.\n\n<font color=\"a6aafb\">Death Ray</font> is considered a Basic Attack but cannot Crit.\n\n<font color=\"a6aafb\">Fusion Enhanced</font>: <font color=\"a6aafb\">Nightmaric Spawn</font> deals 180% damage and can be repositioned."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Mind Eater",
+      "skill_desc": "Zhask fires a penetrating psychic beam in the target direction, dealing 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Afterward, the <font color=\"a6aafb\">Nightmaric Spawn</font> attacks enemies hit by <font color=\"a6aafb\">Mind Eater</font>, dealing 120<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and stunning them for 0.5s.\n\n<font color=\"a6aafb\">Fusion Enhanced</font>: <font color=\"a6aafb\">Mind Eater</font> damage is increased to 540<font color=\"62f8fe\"> (+180% Total Magic Power)</font>."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Hive Clones",
+      "skill_desc": "Zhask releases a swarm of <font color=\"a6aafb\">Hive Clones</font> in the target direction. The clones explode upon hitting an enemy, dealing 55<font color=\"62f8fe\"> (+18% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and reducing their Movement Speed by 80% for 1s.\nIf the <font color=\"a6aafb\">Hive Clones</font> hit no target, they burrow into the ground to ambush passing enemies.\n\n<font color=\"a6aafb\">Fusion Enhanced</font>: Zhask releases several swarms of <font color=\"a6aafb\">Hive Clones</font>.\nSubsequent damage to the same target decays to 20%."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Dominator's Descent",
+      "skill_desc": "Zhask selects a target area to summon an enhanced <font color=\"a6aafb\">Nightmaric Spawn</font> and fuses with it. <font color=\"a6aafb\">Nightmaric Spawn</font> can inherit 100% of his attributes and get extra attributes. His skills are enhanced during the fusion period.\n\n<font color=\"a6aafb\">Use Again</font>: Zhask immediately gets off the <font color=\"a6aafb\">Nightmaric Spawn</font> and loses enhancement."
+    }
+  ]
+}

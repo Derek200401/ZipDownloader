@@ -1,0 +1,37 @@
+{
+  "skins_name": "Celestial Outlaw",
+  "release": "2020",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "other": "S15 First Recharge"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Simian God",
+      "skill_desc": "Enemies hit by Sun or his Doppelgangers will have their <font color=\"fba51f\"><1060></font> reduced by 5% (stacks up to 6 times). Sun recovers HP equal to 75 plus 15% of the Doppelganger's Physical Attack each time a Doppelganger deals damage.\nSun or his Doppelgangers' Basic Attacks deal 65 extra damage to creeps."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Endless Variety",
+      "skill_desc": "Sun hurls his <font color=\"a6aafb\">Golden Staff</font> in the target direction, dealing 280<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path.\nUpon hitting an enemy hero or creep, or upon reaching maximum range, the <font color=\"a6aafb\">Golden Staff</font> transforms into a <font color=\"a6aafb\">Doppelganger</font> that pursues enemies. The <font color=\"a6aafb\">Doppelganger</font> inherits Sun's attributes, deals 60% of Sun's damage, and takes 150% damage for 5s.\nThis skill shares its level and cooldown with <font color=\"a6aafb\">Swift Exchange</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Swift Exchange",
+      "skill_desc": "Sun hurls his <font color=\"a6aafb\">Golden Staff</font> in the target direction, dealing 280<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path.\n\nHe conjures a <font color=\"a6aafb\">Doppelganger</font> at his location that inherits his attributes, deals 60% damage, and takes 150% damage for 5s.\nSun transforms into the <font color=\"a6aafb\">Golden Staff</font> and becomes concealed, reappearing at its maximum range."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Instantaneous Move",
+      "skill_desc": "Sun commands his Doppelgangers to strike at the target enemy with him, dealing 270<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing the target and enemies behind them by 25% (can be stacked) for 1.5s. This counts as Basic Attack damage and can trigger Attack Effects but cannot Crit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Clone Techniques",
+      "skill_desc": "Sun summons a <font color=\"a6aafb\">Doppelganger</font> that inherits his attributes, deals 80% damage, and takes 120% damage for 8s."
+    }
+  ]
+}

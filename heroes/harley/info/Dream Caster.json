@@ -1,0 +1,30 @@
+{
+  "skins_name": "Dream Caster",
+  "release": "2021-10",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Magic Master",
+      "skill_desc": "Harley's mastery of magic allows his Basic Attacks and skills to reduce the enemy's <font color=\"62f8fe\"><1070></font> by 2 and increase his Attack Speed by 5% - 10% (scales with hero level) for 3s on hit. This effect stacks up to 10 times.\nHarley's Basic Attacks deal 60<font color=\"fba51f\"> (+50% Total Physical Attack)</font><font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Poker Trick",
+      "skill_desc": "Harley throws 3 waves of cards, 3 cards per wave. Each card deals 120<font color=\"62f8fe\"> (+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies.\nAfter the same target is hit 3 time(s), the damage will decay to 50% on subsequent hits."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Space Escape",
+      "skill_desc": "Harley blinks in the designated direction, leaving a magic hat at his starting location. His Movement Speed increases by 60% for 2s, then rapidly decays to normal over 4s.\n\n<font color=\"a6aafb\">Use Again</font>: Return to the hat's location."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Deadly Magic",
+      "skill_desc": "Harley casts a magic ring of fire at an enemy hero, dealing 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and a 40% slow effect that decays to 15% after 1.5s. The ring will stay around the target, during which Harley can hit the ring to damage the target. The ring will explode after 4s, dealing <font color=\"7f62fe\">Magic Damage</font> equal to 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> plus 30% of the damage taken by the target while the ring was active."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Verdant Lancer",
+  "release": "2024-07-01",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "other": "S29 First Recharge"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Knightess' Resolve",
+      "skill_desc": "Silvanna's Basic Attacks deal 25<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"62f8fe\">(+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nSilvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their <font color=\"26e407\"><1999></font> by 3-6 (up to 5 stacks).\nSilvanna's skills and Basic Attacks deal 30% extra damage to enemy heroes with the max number of marks."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Cometic Lance",
+      "skill_desc": "Silvanna dashes forward. Upon reaching the max range or hitting a non-Minion enemy, she swings her lance, dealing 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and stunning them for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Spiral Strangling",
+      "skill_desc": "Silvanna thrusts her lance in the target direction and spins it 6 times while gaining a 350<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield. Each spin deals 165<font color=\"62f8fe\"> (+45% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 50% of extra Attack Speed she possesses.\n\nThe skill deals only 50% damage against Minions.\n\n<font color=\"a6aafb\">Spiral Strangling</font> counts as a Basic Attack but cannot Crit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Imperial Justice",
+      "skill_desc": "Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing 350<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area, slowing them by 40% for 1.5s, and restraining the closest enemy hero to the area for 3.5s. (This skill cannot be interrupted.)\n\nSilvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Black Swan",
+  "release": "2017-09-29",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Lakeshore Ambience",
+      "skill_desc": "For 8s after casting a skill, Odette's next Basic Attack gains extra range and bounces between enemies (or an enemy and herself), dealing 144-200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> per hit.\n\nOdette's skills also trigger this effect on hit (up to 3 stacks)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Avian Authority",
+      "skill_desc": "Odette releases a magic swan in the target direction, dealing 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30% for 2s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Blue Nova",
+      "skill_desc": "Odette releases a group of magic orbs in the target direction, dealing 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit and immobilizing them for 1.5s.\n\nWhen an orb hits an enemy, it creates another orb that attacks a nearby enemy, prioritizing enemy heroes, dealing 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and immobilizing them for 1.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Swan Song",
+      "skill_desc": "Odette channels a dance, gaining a 1200<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield and dealing up to 2000<font color=\"62f8fe\"> (+750% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies in a large area for 5s. During this time, her Movement Speed is reduced by 40%, but she can move freely.\n\n<font color=\"A4AAC7\">Use again to cancel. Only high-level control effects can interrupt this skill.</font>"
+    }
+  ]
+}

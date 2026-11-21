@@ -1,0 +1,33 @@
+{
+  "skins_name": "Lord Lava",
+  "release": "2022-02-22",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Grand Lord Lava",
+      "skill_desc": "Thamuz's Basic Attacks have a chance of 10%–60% (scaling with <font color=\"a6aafb\">Lava's Rage</font>) to conjure Lava Energy beneath the target that erupts after a brief delay, dealing 55<font color=\"ffe63c\"> (+60% Total Physical Attack)</font><font color=\"ffe63c\">(+8*Hero Level)</font> <font color=\"ffe63c\">True Damage</font>. Basic Attacks that don't trigger Lava Energy increase Thamuz's <font color=\"a6aafb\">Lava's Rage</font>.\n\nWhile Thamuz is without his <font color=\"a6aafb\">Scythes</font>, he gains 25% Movement Speed. After retrieving his <font color=\"a6aafb\">Scythes</font>, his next Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Molten Scythes",
+      "skill_desc": "Thamuz tosses <font color=\"a6aafb\">Scythes</font> in the target direction. After traveling a set distance or hitting the first enemy hero, they deal 120<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. The <font color=\"a6aafb\">Scythes</font> will then slow nearby enemies by 30% and deal 45<font color=\"fba51f\"> (+20% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> every 0.5s.\n\nAfter leaving Thamuz for a short time or reaching a set distance, the <font color=\"a6aafb\">Scythes</font> return to him, dragging enemies along their path toward Thamuz. Thamuz can move toward the <font color=\"a6aafb\">Scythes</font> or cast the skill again to retrieve them."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Chasm Trample",
+      "skill_desc": "Thamuz jumps to a designated area to deal 230<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slow the enemy units by 25% for 2s upon landing. \nIf the Scythes are still travelling, they will return to Thamuz and <font color=\"a6aafb\">Molten Scythes</font> will reset its CD instantly."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Cauterant Inferno",
+      "skill_desc": "Thamuz spouts the lava within, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and creating a <font color=\"a6aafb\">Cauterant Zone</font> around himself. The <font color=\"a6aafb\">Cauterant Zone</font> lasts 9s and deals 30<font color=\"fba51f\"> (+10% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> every 0.5s to enemies in the area.\n\nMeanwhile, Thamuz gains 800<font color=\"26e407\"> (+50% Extra Max HP)</font> <font color=\"26e407\"><1005></font>, immediately healing for the same amount, and gains 60% Attack Speed. Each time his Basic Attacks or <font color=\"a6aafb\">Scythes</font> deal damage, he recovers 1.5% Max HP."
+    }
+  ]
+}

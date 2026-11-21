@@ -1,0 +1,32 @@
+{
+  "skins_name": "Future Star",
+  "release": "2020-05-07",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Angry Gloom",
+      "skill_desc": "Lylia gains power from <font color=\"a6aafb\">Gloom</font>, increasing her Movement Speed by 15%. Each <font color=\"a6aafb\">Gloom</font> upgrade further increases this bonus by 5%.\n<font color=\"a6aafb\">Gloom</font> gains an upgrade each time he devours <font color=\"a6aafb\">Shadow Energy</font>, up to 5 times. Higher levels increase the detonation damage of <font color=\"a6aafb\">Shadow Energy</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Magic Shockwave",
+      "skill_desc": "Lylia sends out <font color=\"a6aafb\">Gloom</font> with a shockwave, dealing 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a line and slowing them by 30% for 1.5s.\nIf <font color=\"a6aafb\">Gloom</font> touches <font color=\"a6aafb\">Shadow Energy</font>, he will devour and detonate it."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Shadow Energy",
+      "skill_desc": "Lylia condenses <font color=\"a6aafb\">Shadow Energy</font> at the target area, dealing 90<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and briefly slowing them by 80%.\n<font color=\"a6aafb\">Shadow Energy</font> detonates when devoured by <font color=\"a6aafb\">Gloom</font>, dealing 220<font color=\"62f8fe\"> (+115% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies. Each <font color=\"a6aafb\">Gloom</font> upgrade increases the detonation damage by 20% (up to 80%).\n<font color=\"a6aafb\">Gloom</font> restores 20% of <font color=\"a6aafb\">Shadow Energy</font>'s recharge time upon hitting an enemy hero.\nLylia starts with the <font color=\"a6aafb\">Shadow Energy</font> skill, storing one charge every 6s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Black Shoes",
+      "skill_desc": "Lylia returns to the Black Shoes' location 4s ago, restoring her HP and Mana to their previous state and recovering an extra 10% <font color=\"26e407\"><1005></font>.\nShe also gains 20% Movement Speed for 2s."
+    }
+  ]
+}

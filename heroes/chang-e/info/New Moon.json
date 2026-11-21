@@ -1,0 +1,30 @@
+{
+  "skins_name": "New Moon",
+  "release": "2023-01-18",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "Lunar Festival",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Trouble Maker",
+      "skill_desc": "Each time Chang'e deals damage to an enemy, she leaves a mark on them that reduces their Movement Speed by 1% (up to 20%)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Starmoon Shockwave",
+      "skill_desc": "Chang'e sends an energy sphere in the target direction, dealing 350<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path and slowing them by 10% for 1.5s.\n\n<font color=\"a6aafb\">Crescent Moon</font>: The <font color=\"a6aafb\">Crescent Moon</font> sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The slow effect can stack (up to 20%)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Crescent Moon",
+      "skill_desc": "Chang'e summons the <font color=\"a6aafb\">Crescent Moon</font>, gaining a permanent 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield and 10% Movement Speed until the shield is broken. Each time she casts a skill, she gains an extra 50% Movement Speed that decays over 2.5s.\n<font color=\"a6aafb\">Crescent Moon</font>: Enhances her Basic Attacks to deal 20<font color=\"62f8fe\"> (+35% Total Magic Power)</font> extra <font color=\"7f62fe\">Magic Damage</font> 2 times.\n\nEach time Chang'e deals Magic Damage with her Basic Attacks or skills, this skill's cooldown is reduced by 0.2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Meteor Shower",
+      "skill_desc": "Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors in the target direction, each dealing 60<font color=\"62f8fe\"> (+21% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit. This skill deals 100% extra damage to minions and creeps.\n\n<font color=\"a6aafb\">Crescent Moon</font>: Fires meteors alongside Chang'e, each dealing 33% damage."
+    }
+  ]
+}

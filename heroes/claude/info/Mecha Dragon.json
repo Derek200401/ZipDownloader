@@ -1,0 +1,30 @@
+{
+  "skins_name": "Mecha Dragon",
+  "release": "2025-04-03",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Luckybox",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Battle Side-by-side",
+      "skill_desc": "<font color=\"a6aafb\">Dexter</font> assists Claude on each of his Basic Attacks, dealing 25<font color=\"fba51f\"> (+25% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the same target (inherits a portion of Attack Effects)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Art of Thievery",
+      "skill_desc": "Claude emits a disruption wave in the target direction, dealing 250<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area, reducing their Movement Speed by 20% and Attack Speed by 10%.\nFor each enemy hit, he gains 4% Movement and Attack Speed (doubled if hitting enemy heroes) for 6s (up to 5 stacks)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Battle Mirror Image",
+      "skill_desc": "Claude conjures a mirror image of <font color=\"a6aafb\">Dexter</font> at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attacks deal 25<font color=\"fba51f\"> (+25% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and trigger Claude's Attack Effects.\n<font color=\"a6aafb\">Use Again</font>: Claude switches places with the mirror image."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Blazing Duet",
+      "skill_desc": "Claude and <font color=\"a6aafb\">Dexter</font> rapidly fire at nearby enemies for 3s, dealing 40<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20<font color=\"fba51f\"> (+3% Total Physical Attack)</font> shield each time the Ultimate deals damage to an enemy."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins_name": "Dreambound Pixie",
+  "release": "2025-03-03",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "Epic",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Ancestral Guidance",
+      "skill_desc": "Mathilda gains <font color=\"a6aafb\">Ancestral Guidance</font> while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the target and granting her 80 extra Movement Speed that decays over 2.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Soul Bloom",
+      "skill_desc": "Mathilda resonates with the power of her ancestors for 4s, attracting wisps as her movement distance increases (up to 6 wisps).\n\nAt the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing 275<font color=\"62f8fe\"> (+125% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Guiding Wind",
+      "skill_desc": "Mathilda leaps in the target direction and creates a field around her, gaining a 350<font color=\"62f8fe\"> (+180% Total Magic Power)</font> shield and 25% extra Movement Speed for 3s. Allied heroes who come into contact with the field will receive a 50% shield and <font color=\"a6aafb\">Guiding Wind</font>. The first allied hero that triggers <font color=\"a6aafb\">Guiding Wind</font> will be guided to Mathilda, and both of them will gain the same Movement Speed boost.\n\nWhen casting this skill during <font color=\"a6aafb\">Circling Eagle</font>, Mathilda won't change her position.\n<font color=\"a6aafb\">Guiding Wind</font> expires 2s after the hero leaves Mathilda's field."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Circling Eagle",
+      "skill_desc": "Mathilda applies a <font color=\"a6aafb\">Soul Mark</font> to the target enemy hero and circles around them for up to 3.5s, during which her wisps will fly into nearby enemies, each dealing 40<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. The Soul Mark will also slow the target by 15% and <font color=\"a6aafb\">Soul Bloom</font> will prioritize the target with Soul Mark.\nWithin the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with <font color=\"a6aafb\">Soul Mark</font>, dealing 320<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> while knocking enemies in her path airborne for 0.6s, transferring the <font color=\"a6aafb\">Soul Mark</font> to the first enemy hero that she knocks airborne, and reducing the skill cooldown by 40%.\nMathilda gains Control Immunity and a 400<font color=\"62f8fe\"> (+180% Total Magic Power)</font> shield for the skill duration."
+    }
+  ]
+}

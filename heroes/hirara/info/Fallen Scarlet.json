@@ -1,0 +1,28 @@
+{
+  "skins_name": "Fallen Scarlet",
+  "release": "2026-06-17",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Twin Fans: Ukifune",
+      "skill_desc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30 (+4*Hero Level)% damage to minions."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Meisen-e",
+      "skill_desc": "Hirara rides the waves using <font color=\"a6aafb\">Meisen-e</font>, performing up to two <font color=\"a6aafb\">joystick dashes</font> (the first dash goes in her facing direction). She deals 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Kaerazu",
+      "skill_desc": "Hirara uses <font color=\"a6aafb\">Kaerazu</font> to unleash the <font color=\"a6aafb\">Crimson Maple</font>, dealing 165<font color=\"fba51f\"> (+42% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area.\n\nAfter a short delay, she deals damage again at the target location, dealing 2 times the initial <font color=\"a6aafb\">Crimson Maple</font> damage."
+    }
+  ]
+}

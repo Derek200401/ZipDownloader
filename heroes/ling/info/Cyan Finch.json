@@ -1,0 +1,33 @@
+{
+  "skins_name": "Cyan Finch",
+  "release": "2019-11-24",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Cloud Walker",
+      "skill_desc": "Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage.\n\nLing gains 1.6 times Crit Chance from all sources but only has 140% Crit Damage."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Finch Poise",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Ling's Crit Chance is increased by 2.5%.\n<font color=\"a6aafb\">Active</font>: Ling leaps onto the designated wall and enters the <font color=\"a6aafb\">Half-Stealth</font> state, restoring Lightness Points faster and gaining 30% Movement Speed. Taking damage causes him to leave <font color=\"a6aafb\">Half-Stealth</font>. Being controlled makes him fall to the ground and slows him by 30% for 2s. When he uses this skill to jump from one wall to another, it does not trigger cooldown and refreshes <font color=\"a6aafb\">Half-Stealth</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Defiant Sword",
+      "skill_desc": "Ling charges in the target direction and stabs nearby enemies, dealing them 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nIf Ling casts this skill when he's on the wall (no energy cost), he'll dash to the target location on the ground, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and slowing them by 30% for 1.5s. \n<font color=\"a6aafb\">Defiant Sword</font> is regarded as Basic Attack."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Tempest of Blades",
+      "skill_desc": "Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5s. He ignores obstacles when in the air. He then lands on the ground, dealing 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and slowing them by 40% for 1.5s, knocking those in the center airborne for 1s, and creating a Sword Field for 8s.\n\nFour <font color=\"a6aafb\">Tempest of Blades</font> will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of <font color=\"a6aafb\">Finch Poise</font> by 4s, reset the cooldown of <font color=\"a6aafb\">Defiant Sword</font>, and gain 25 Lightness Points."
+    }
+  ]
+}

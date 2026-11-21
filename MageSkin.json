@@ -1,0 +1,886 @@
+{
+  "Alice": [
+    {
+      "skins_name": "Queen of Blood"
+    },
+    {
+      "skins_name": "Spirit Woman"
+    },
+    {
+      "skins_name": "Wizardry Teacher"
+    },
+    {
+      "skins_name": "Divine Owl"
+    },
+    {
+      "skins_name": "Steam Glider"
+    },
+    {
+      "skins_name": "Jade Empress"
+    },
+    {
+      "skins_name": "Darknet Temptress"
+    },
+    {
+      "skins_name": "Dreaming Monarch"
+    }
+  ],
+  "Aurora": [
+    {
+      "skins_name": "Maiden of the Glacier"
+    },
+    {
+      "skins_name": "Nature's Throne"
+    },
+    {
+      "skins_name": "Heartbreak Empress"
+    },
+    {
+      "skins_name": "Foxy Lady"
+    },
+    {
+      "skins_name": "Aquarius"
+    },
+    {
+      "skins_name": "Kula Diamond"
+    },
+    {
+      "skins_name": "Veil of the Celestials"
+    },
+    {
+      "skins_name": "Candle's Vigil"
+    }
+  ],
+  "Bane": [
+    {
+      "skins_name": "Frozen King"
+    },
+    {
+      "skins_name": "Castle Master"
+    },
+    {
+      "skins_name": "Deep Sea Monster"
+    },
+    {
+      "skins_name": "Warlord"
+    },
+    {
+      "skins_name": "Underworld Outlaw"
+    },
+    {
+      "skins_name": "Soul Defiler"
+    },
+    {
+      "skins_name": "Lord of Scalding Seas"
+    }
+  ],
+  "Cecilion": [
+    {
+      "skins_name": "Embrace of Night"
+    },
+    {
+      "skins_name": "Wisteria Count"
+    },
+    {
+      "skins_name": "The Illusionist"
+    },
+    {
+      "skins_name": "Phantom Count"
+    },
+    {
+      "skins_name": "Stargazer"
+    },
+    {
+      "skins_name": "Crimson Wings"
+    },
+    {
+      "skins_name": "Hisoka"
+    }
+  ],
+  "Chang'e": [
+    {
+      "skins_name": "Tech Tensai"
+    },
+    {
+      "skins_name": "Moonglow Troupe"
+    },
+    {
+      "skins_name": "Golden Osmanthus"
+    },
+    {
+      "skins_name": "Moon Palace Immortal"
+    },
+    {
+      "skins_name": "Moonstruck"
+    },
+    {
+      "skins_name": "Crimson Moon"
+    },
+    {
+      "skins_name": "Floral Elfo"
+    },
+    {
+      "skins_name": "Lunar Magic"
+    },
+    {
+      "skins_name": "Strawberry Parfait"
+    },
+    {
+      "skins_name": "Vine Cradle"
+    },
+    {
+      "skins_name": "Moon Artist"
+    },
+    {
+      "skins_name": "New Moon"
+    }
+  ],
+  "Cyclops": [
+    {
+      "skins_name": "SpongeBob"
+    },
+    {
+      "skins_name": "Starsoul Magician"
+    },
+    {
+      "skins_name": "Exorcist"
+    },
+    {
+      "skins_name": "Super Adventurer"
+    },
+    {
+      "skins_name": "S.A.B.E.R. Enforcer"
+    },
+    {
+      "skins_name": "Deep Sea Rescuer"
+    },
+    {
+      "skins_name": "Zombie Bambino"
+    },
+    {
+      "skins_name": "Master Yoda"
+    },
+    {
+      "skins_name": "Straw Doll"
+    },
+    {
+      "skins_name": "Yokai Warlock"
+    }
+  ],
+  "Eudora": [
+    {
+      "skins_name": "Midnight's Allure"
+    },
+    {
+      "skins_name": "Lightning Weaver"
+    },
+    {
+      "skins_name": "Flame Red Lips"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Emerald Enchantress"
+    },
+    {
+      "skins_name": "Vivo Selfie Goddess"
+    },
+    {
+      "skins_name": "Countess Scarlet"
+    },
+    {
+      "skins_name": "Cosmic Voyage"
+    },
+    {
+      "skins_name": "Atomic Pop Eudora"
+    },
+    {
+      "skins_name": "Lightning Magister"
+    }
+  ],
+  "Faramis": [
+    {
+      "skins_name": "Soul Binder"
+    },
+    {
+      "skins_name": "Dark Necro"
+    },
+    {
+      "skins_name": "Royal Magus"
+    },
+    {
+      "skins_name": "Summer Sparks"
+    },
+    {
+      "skins_name": "Infernal Magister"
+    },
+    {
+      "skins_name": "Enigmatic Wayfarer"
+    }
+  ],
+  "Gord": [
+    {
+      "skins_name": "Professor of the Mystics"
+    },
+    {
+      "skins_name": "Professor of Hell"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Conqueror"
+    },
+    {
+      "skins_name": "No.1 Controller"
+    },
+    {
+      "skins_name": "New Baron"
+    },
+    {
+      "skins_name": "Cyber Hacker"
+    },
+    {
+      "skins_name": "Imperator Vitalis"
+    }
+  ],
+  "Harith": [
+    {
+      "skins_name": "Rebel Emberfang"
+    },
+    {
+      "skins_name": "Time Traveler"
+    },
+    {
+      "skins_name": "Savannah Cat"
+    },
+    {
+      "skins_name": "Stardust"
+    },
+    {
+      "skins_name": "Fashion Expert"
+    },
+    {
+      "skins_name": "Lightborn - Inspirer"
+    },
+    {
+      "skins_name": "EVOS Legends"
+    },
+    {
+      "skins_name": "Psychic"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Killua"
+    }
+  ],
+  "Harley": [
+    {
+      "skins_name": "Dreaming Koi"
+    },
+    {
+      "skins_name": "Mage Genius"
+    },
+    {
+      "skins_name": "Naughty Joker"
+    },
+    {
+      "skins_name": "Royal Magister"
+    },
+    {
+      "skins_name": "Referee"
+    },
+    {
+      "skins_name": "Great Inventor"
+    },
+    {
+      "skins_name": "V.E.N.O.M. Octopus"
+    },
+    {
+      "skins_name": "Dream Caster"
+    },
+    {
+      "skins_name": "Pulsar Prodigy"
+    },
+    {
+      "skins_name": "Star Magician"
+    }
+  ],
+  "Kadita": [
+    {
+      "skins_name": "Ocean Goddess"
+    },
+    {
+      "skins_name": "Atlantean Princess"
+    },
+    {
+      "skins_name": "White Robin"
+    },
+    {
+      "skins_name": "Anthem of Tides"
+    },
+    {
+      "skins_name": "Hydromancer"
+    },
+    {
+      "skins_name": "Heart of the Sea"
+    },
+    {
+      "skins_name": "Maiden of the Tide"
+    },
+    {
+      "skins_name": "Muse Of The Tide"
+    }
+  ],
+  "Kagura": [
+    {
+      "skins_name": "Jade Blossom"
+    },
+    {
+      "skins_name": "Lady Parasol"
+    },
+    {
+      "skins_name": "Feast of Eternity"
+    },
+    {
+      "skins_name": "Onmyouji Master"
+    },
+    {
+      "skins_name": "Flower Season"
+    },
+    {
+      "skins_name": "Cherry Witch"
+    },
+    {
+      "skins_name": "Summer Festival"
+    },
+    {
+      "skins_name": "Dragon Maiden"
+    },
+    {
+      "skins_name": "Rainy Walk"
+    },
+    {
+      "skins_name": "Water Lily"
+    },
+    {
+      "skins_name": "Exorcist Kagura"
+    },
+    {
+      "skins_name": "Beyond the Clouds Kagura"
+    },
+    {
+      "skins_name": "Soryu Maiden"
+    }
+  ],
+  "Kimmy": [
+    {
+      "skins_name": "Starbound Sentry"
+    },
+    {
+      "skins_name": "Hoverjet Outrider"
+    },
+    {
+      "skins_name": "Steam Researcher"
+    },
+    {
+      "skins_name": "Bio Frontier"
+    },
+    {
+      "skins_name": "Astrocat"
+    },
+    {
+      "skins_name": "Charge Leader"
+    },
+    {
+      "skins_name": "Frost Wing"
+    },
+    {
+      "skins_name": "First Order Jet Trooper"
+    },
+    {
+      "skins_name": "Rising Nova"
+    },
+    {
+      "skins_name": "High Seas Cadet"
+    }
+  ],
+  "Lunox": [
+    {
+      "skins_name": "Nature's Harmony"
+    },
+    {
+      "skins_name": "Quantum Polarity"
+    },
+    {
+      "skins_name": "Twilight Goddess"
+    },
+    {
+      "skins_name": "Bloody Mary"
+    },
+    {
+      "skins_name": "Cosmic Harmony"
+    },
+    {
+      "skins_name": "Ash Blossom"
+    },
+    {
+      "skins_name": "Libra"
+    },
+    {
+      "skins_name": "Butterfly Seraphim"
+    },
+    {
+      "skins_name": "Eyes of Eternity"
+    },
+    {
+      "skins_name": "Dawn Revelation"
+    },
+    {
+      "skins_name": "Divine Goddess"
+    }
+  ],
+  "Luo Yi": [
+    {
+      "skins_name": "Yin-yang Geomancer"
+    },
+    {
+      "skins_name": "Yin-yang Mage"
+    },
+    {
+      "skins_name": "Tenko"
+    },
+    {
+      "skins_name": "Dawning Fortune"
+    },
+    {
+      "skins_name": "Siren Priestess"
+    },
+    {
+      "skins_name": "Elysium Guardian"
+    },
+    {
+      "skins_name": "Oracle of Sol"
+    },
+    {
+      "skins_name": "Starborne Matron"
+    },
+    {
+      "skins_name": "Starborne Matron"
+    },
+    {
+      "skins_name": "Lady Dragon"
+    }
+  ],
+  "Lylia": [
+    {
+      "skins_name": "Little Witch"
+    },
+    {
+      "skins_name": "School Idol"
+    },
+    {
+      "skins_name": "Star Student"
+    },
+    {
+      "skins_name": "Future Star"
+    },
+    {
+      "skins_name": "Haunted Doll"
+    },
+    {
+      "skins_name": "Neobeast Lylia"
+    },
+    {
+      "skins_name": "Magitech Arsenal"
+    },
+    {
+      "skins_name": "Phantasmal Revelry"
+    },
+    {
+      "skins_name": "Little Wizard"
+    },
+    {
+      "skins_name": "Phantasmal Mischief"
+    }
+  ],
+  "Nana": [
+    {
+      "skins_name": "Sweet Leonin"
+    },
+    {
+      "skins_name": "Clockwork Maid"
+    },
+    {
+      "skins_name": "Graveyard Party"
+    },
+    {
+      "skins_name": "Slumber Party"
+    },
+    {
+      "skins_name": "Wind Fairy"
+    },
+    {
+      "skins_name": "Mecha Baby"
+    },
+    {
+      "skins_name": "Sundress"
+    },
+    {
+      "skins_name": "Aqua Pura"
+    },
+    {
+      "skins_name": "Cyclone Clash"
+    },
+    {
+      "skins_name": "Mistbender Nana"
+    },
+    {
+      "skins_name": "Stardust Dreamer"
+    },
+    {
+      "skins_name": "Summer Fun"
+    }
+  ],
+  "Novaria": [
+    {
+      "skins_name": "Star Rebel"
+    },
+    {
+      "skins_name": "Dark Star"
+    },
+    {
+      "skins_name": "Sugar Glaze"
+    },
+    {
+      "skins_name": "Dragonsworn"
+    },
+    {
+      "skins_name": "Aqua Glaze"
+    }
+  ],
+  "Odette": [
+    {
+      "skins_name": "Song of Devotion"
+    },
+    {
+      "skins_name": "Swan Princess"
+    },
+    {
+      "skins_name": "Black Swan"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Mermaid Princess"
+    },
+    {
+      "skins_name": "Butterfly Goddess"
+    },
+    {
+      "skins_name": "Virgo"
+    },
+    {
+      "skins_name": "Auspicious Charm"
+    },
+    {
+      "skins_name": "Sage of the Currents"
+    },
+    {
+      "skins_name": "Wisdom of the Stars"
+    },
+    {
+      "skins_name": "Butterfly Faerie"
+    },
+    {
+      "skins_name": "Wisdom Of Devotion"
+    }
+  ],
+  "Pharsa": [
+    {
+      "skins_name": "Neon Shingetsu"
+    },
+    {
+      "skins_name": "Neobeast Pharsa"
+    },
+    {
+      "skins_name": "Wings of Vengeance"
+    },
+    {
+      "skins_name": "Wings of Heaven"
+    },
+    {
+      "skins_name": "Peafowl's Dance"
+    },
+    {
+      "skins_name": "Indigo Aviatrix"
+    },
+    {
+      "skins_name": "Enchanting Witch"
+    },
+    {
+      "skins_name": "Empress Phoenix"
+    },
+    {
+      "skins_name": "Samba Muse"
+    },
+    {
+      "skins_name": "Peony Bloom"
+    },
+    {
+      "skins_name": "Hierophant"
+    }
+  ],
+  "Selena": [
+    {
+      "skins_name": "Curse of Cinder"
+    },
+    {
+      "skins_name": "Silverbolt Raiko"
+    },
+    {
+      "skins_name": "Abyssal Witch"
+    },
+    {
+      "skins_name": "Wasp Queen"
+    },
+    {
+      "skins_name": "Virus"
+    },
+    {
+      "skins_name": "Gemini - Shadow"
+    },
+    {
+      "skins_name": "Double Identity"
+    },
+    {
+      "skins_name": "Thunder Flash"
+    },
+    {
+      "skins_name": "Gothic Curse"
+    },
+    {
+      "skins_name": "S.T.U.N. Selena"
+    },
+    {
+      "skins_name": "Lady Vengeance"
+    }
+  ],
+  "Vale": [
+    {
+      "skins_name": "Windborne Waltz"
+    },
+    {
+      "skins_name": "Windtalker"
+    },
+    {
+      "skins_name": "Cerulean Winds"
+    },
+    {
+      "skins_name": "Blizzard Storm"
+    },
+    {
+      "skins_name": "Kannagi"
+    },
+    {
+      "skins_name": "Soaring Devata"
+    },
+    {
+      "skins_name": "Supernal Tempest"
+    },
+    {
+      "skins_name": "Keeper of the Winds"
+    },
+    {
+      "skins_name": "Concerto of Light"
+    },
+    {
+      "skins_name": "Gaara"
+    }
+  ],
+  "Valentina": [
+    {
+      "skins_name": "Prophetess of the Night"
+    },
+    {
+      "skins_name": "Twilight Charmer"
+    },
+    {
+      "skins_name": "Archmagister"
+    },
+    {
+      "skins_name": "Cyber Agent"
+    },
+    {
+      "skins_name": "Celestial Judicator"
+    },
+    {
+      "skins_name": "Dark Nexus"
+    },
+    {
+      "skins_name": "Grand Gala"
+    },
+    {
+      "skins_name": "Digital Enchantress"
+    }
+  ],
+  "Valir": [
+    {
+      "skins_name": "Arcane Seeker"
+    },
+    {
+      "skins_name": "Kyo Kusanagi"
+    },
+    {
+      "skins_name": "Son of Flames"
+    },
+    {
+      "skins_name": "Pale Flame"
+    },
+    {
+      "skins_name": "Shikigami Sumonner"
+    },
+    {
+      "skins_name": "Dictator"
+    },
+    {
+      "skins_name": "Draconic Flame"
+    },
+    {
+      "skins_name": "Demonlord"
+    },
+    {
+      "skins_name": "Infernal Blaze"
+    },
+    {
+      "skins_name": "Phoenix Ikki"
+    },
+    {
+      "skins_name": "Leo Ikki"
+    }
+  ],
+  "Vexana": [
+    {
+      "skins_name": "Eternal Vow"
+    },
+    {
+      "skins_name": "Shimmer of Hope"
+    },
+    {
+      "skins_name": "Lucent Beacon"
+    },
+    {
+      "skins_name": "Sanguine Rose"
+    },
+    {
+      "skins_name": "Cursed Shackle"
+    },
+    {
+      "skins_name": "Circus Magician"
+    },
+    {
+      "skins_name": "The Sun Empress"
+    },
+    {
+      "skins_name": "Twisted Fairytale"
+    },
+    {
+      "skins_name": "Twilight Star"
+    },
+    {
+      "skins_name": "Daybreak Halo"
+    }
+  ],
+  "Xavier": [
+    {
+      "skins_name": "Defier of Light"
+    },
+    {
+      "skins_name": "Verdict of Light"
+    },
+    {
+      "skins_name": "Satoru Gojo"
+    },
+    {
+      "skins_name": "Hardlight Artificer"
+    },
+    {
+      "skins_name": "Beyond the Clouds Xavier"
+    },
+    {
+      "skins_name": "Sunborn Monarch"
+    },
+    {
+      "skins_name": "Holotech Artificer"
+    }
+  ],
+  "Yve": [
+    {
+      "skins_name": "Astrowarden"
+    },
+    {
+      "skins_name": "Forest Hymn"
+    },
+    {
+      "skins_name": "Ruin Protectress"
+    },
+    {
+      "skins_name": "Flame Lotus"
+    }
+  ],
+  "Zetian": [
+    {
+      "skins_name": "Celestial Empress"
+    },
+    {
+      "skins_name": "Heavenly Splendor"
+    },
+    {
+      "skins_name": "Elysian Luminance"
+    },
+    {
+      "skins_name": "Sunset Luminance"
+    }
+  ],
+  "Zhask": [
+    {
+      "skins_name": "The King of Swarms"
+    },
+    {
+      "skins_name": "Crystallized Predator"
+    },
+    {
+      "skins_name": "Bone Flamen"
+    },
+    {
+      "skins_name": "Cancer"
+    },
+    {
+      "skins_name": "Extraterrestrial"
+    },
+    {
+      "skins_name": "Death's Shadow"
+    }
+  ],
+  "Zhuxin": [
+    {
+      "skins_name": "Beacon of Spirits"
+    },
+    {
+      "skins_name": "Ethereal Serenity"
+    },
+    {
+      "skins_name": "Emberwisp Mystic"
+    },
+    {
+      "skins_name": "P.ACE Zhuxin"
+    },
+    {
+      "skins_name": "Soulwisp Mystic"
+    }
+  ]
+}

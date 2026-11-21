@@ -1,0 +1,32 @@
+{
+  "skins_name": "Sacred Guard",
+  "release": "2018",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "other": "Mentoring Program"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Blessing of Wilderness",
+      "skill_desc": "Hilda recovers 2% HP per second while in the bush. Entering a bush enhances her next Basic Attack, which deals 110<font color=\"fba51f\"> (+130% Total Physical Attack)</font><font color=\"ffe63c\">(+12*Hero Level)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, reduces the target's Movement Speed by 40%, and deals 40<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"ffe63c\">(+10*Hero Level)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies behind the target. After using the enhanced Basic Attack, this effect enters a 6s cooldown.\n\nHilda's Basic Attack and skills apply a <font color=\"a6aafb\">Wilderness Mark</font> on hit, which lasts up to 4s and stacks up to 6 times. Each stack reduces the enemy hero's <font color=\"26e407\"><1999></font> by 3%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Combat Ritual",
+      "skill_desc": "Hilda gains 60% Movement Speed for 3s and receives a shield that absorbs damage equal to 10% <font color=\"26e407\"><1005></font>, lasting 3s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Art of Hunting",
+      "skill_desc": "Hilda locks onto an enemy target, dealing 200<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per hit. This skill can be cast up to 3 times. The 2nd attack deals extra damage to nearby enemies. The 3rd attack deals damage to the target and nearby enemies, knocking them back briefly."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Power of Wildness",
+      "skill_desc": "Hilda launches a powerful slash at the target enemy, dealing 600<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 0.2s. Nearby enemies take 60% of the damage.\n\nEach stack of <font color=\"a6aafb\">Wilderness Mark</font> increases <font color=\"a6aafb\">Power of Wildness</font>'s damage by 2.5% of the target's <font color=\"26e407\"><1005></font>. At max stacks, the extra damage increases to 20% of the target's <font color=\"26e407\"><1005></font>."
+    }
+  ]
+}

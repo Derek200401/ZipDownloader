@@ -1,0 +1,32 @@
+{
+  "skins_name": "Divine Owl",
+  "release": "2018",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Crimson Blood Banquet",
+      "skill_desc": "Alice gains 1 stack(s) of <font color=\"a6aafb\">Crimson</font> each time her skill hits an enemy, lasting 4s (up to 2 stacks). <font color=\"a6aafb\">Blood Banquet</font> activates at max stacks.\n\n<font color=\"a6aafb\">Blood Banquet</font>: Every 0.5s, Alice deals 25<font color=\"62f8fe\"> (+30% Total Magic Power)</font> (+ 0.5% - 2.5% target's <font color=\"26e407\"><1005></font>, scaling with level) <font color=\"7f62fe\">Magic Damage</font> to nearby enemies. She also recovers 10<font color=\"26e407\"> (+3% Extra Max HP)</font> HP and gains 8% Movement Speed. Its duration is refreshed when her skills hit an enemy hero.\nDamage to creeps is capped at 70 (+10*Hero Level) <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Crimson Gleam",
+      "skill_desc": "Alice shoots <font color=\"a6aafb\">Blood Energy</font> forward, dealing 100<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies.\n\n<font color=\"a6aafb\">Use Again</font>: Before <font color=\"a6aafb\">Blood Energy</font> dissipates, Alice can recast this skill as <font color=\"a6aafb\">Scarlet Shadow</font> to blink to its location."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Doom Waltz",
+      "skill_desc": "Alice performs a deadly dance, dealing 350<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and slowing them by 70% for 1s.\n\nIf <font color=\"a6aafb\">Blood Banquet</font> is active, the skill also scorches enemies, dealing 300% of <font color=\"a6aafb\">Blood Banquet</font>'s damage and recovering the same amount of HP."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Throne of Ruin",
+      "skill_desc": "Alice surrounds herself with blood, gaining Control Immunity and 50% Damage Reduction while slowing herself by 50%.\n\nAfter 1.5s, she descends from above, dealing 500<font color=\"62f8fe\"> (+200% Total Magic Power)</font><font color=\"26e407\"> (+20% Extra Max HP)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in range and immobilizing them for 1s.\n\nWhile charging her Ultimate, Alice cannot use any hero skills other than <font color=\"a6aafb\">Scarlet Shadow</font>."
+    }
+  ]
+}

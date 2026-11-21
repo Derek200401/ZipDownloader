@@ -1,0 +1,30 @@
+{
+  "skins_name": "Cosmic Finality",
+  "release": null,
+  "availability": "Limited",
+  "rarity": null,
+  "label": "PRIME",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Capriccio",
+      "skill_desc": "Granger's unique Demon Hunting <font color=\"a6aafb\">Gun</font> and <font color=\"a6aafb\">Cannon</font> are powered by Demonic Energy. Both his weapons start with 800 max Energy. His <font color=\"a6aafb\">Gun</font> restores 8% Energy per second while his <font color=\"a6aafb\">Cannon</font> restores 2% Energy per second. Killing a Minion / Creep permanently increases their max Energy by 6 / 6, and instantly restores their Energy by 5% / 5%, respectively. Each kill or assist on an enemy hero permanently increases both weapons' max Energy by 12 and instantly restores 10% Energy.\n\nEvery 1% Cooldown Reduction converts to 2 <font color=\"fba51f\"><1020></font>. Demonic Energy costs are not affected by Energy Cost Reduction."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Rhapsody",
+      "skill_desc": "Granger rapidly fires 6 shot(s) with his <font color=\"a6aafb\">Gun</font>, with each shot dealing 60<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and consuming 70 <font color=\"a6aafb\">Gun</font> Energy. The last shot is guaranteed to Crit. While firing, Granger's Movement Speed is increased by 10%.\n\nGranger stops firing when he runs out of Energy, or when the skill is cast again. <font color=\"a6aafb\">Rhapsody</font> has no cooldown and can be cast once his <font color=\"a6aafb\">Gun</font> Energy is over 420."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Rondo",
+      "skill_desc": "Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% Energy for his <font color=\"a6aafb\">Gun</font>.\n\n<font color=\"a6aafb\">Rondo</font> can be cast while channeling <font color=\"a6aafb\">Rhapsody</font>. Each time <font color=\"a6aafb\">Rhapsody</font> hits an enemy, <font color=\"a6aafb\">Rondo's</font> Cooldown is reduced by 0.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Death Sonata",
+      "skill_desc": "Granger fires his <font color=\"a6aafb\">Cannon</font> in the target direction, dealing 150<font color=\"fba51f\"> (+110% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hero hit and other targets in the blast radius. Targets hit will be briefly slowed. Granger can roll in the Joystick's direction after each shot.\n<font color=\"a6aafb\">Death Sonata</font> can be cast while firing <font color=\"a6aafb\">Rhapsody</font>. <font color=\"a6aafb\">Death Sonata</font> has a brief cooldown and consumes 250 of Granger's <font color=\"a6aafb\">Cannon</font> Energy per shot."
+    }
+  ]
+}

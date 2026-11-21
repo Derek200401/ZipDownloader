@@ -1,0 +1,30 @@
+{
+  "skins_name": "Adlaw's Chosen",
+  "release": "2024-01",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Homeland Defender",
+      "skill_desc": "Lapu-Lapu gains 10 <font color=\"a6aafb\">Bravery Blessing</font> each time he deals damage (halved against non-hero units).\n\nAt max <font color=\"a6aafb\">Bravery Blessing</font> stacks, he dashes toward the target with his next <font color=\"a6aafb\">Basic Attack</font>, dealing <font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (cannot Crit) and granting him a 250 (+65*Hero Level) shield for 2.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Justice Blades",
+      "skill_desc": "Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 140<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit on its way out and back.\n\nEnemies hit by both boomerangs take 50% damage from the second hit."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Jungle Warrior",
+      "skill_desc": "Lapu-Lapu dashes in the target direction, dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Bravest Fighter",
+      "skill_desc": "Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies upon landing and slowing them by 60% for 1s.\nLapu-Lapu gains 3 times the normal amount of <font color=\"a6aafb\">Bravery Blessing</font> from this skill and skills cast in the transformed state.\nLapu-Lapu then enters the <font color=\"a6aafb\">Great Sword</font> stance for 10s, gaining 30 <font color=\"26e407\"><1999></font>, enhancing all his skills, and increasing his Basic Attack damage to 120%.\nThis skill cannot be interrupted."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "skins_name": "Soul Binder",
+  "release": "2019-05-18",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Vicious Retrieval",
+      "skill_desc": "When Faramis's skills deal damage to enemy heroes and summoned units, they leave behind <font color=\"a6aafb\">Soul Fragments</font>. Absorbing a <font color=\"a6aafb\">Soul Fragment</font> recovers 100<font color=\"62f8fe\"> (+50% Total Magic Power)</font> HP and grants 2 <font color=\"62f8fe\"><1030></font> (up to 40 stacks).\nUpon death, he consumes the absorbed <font color=\"a6aafb\">Soul Fragments</font> to reduce the respawn timer, each reducing the timer by 3% (up to 90%).\nHe can gain up to 1 Soul Fragment from the same enemy hero using skills every 4s. Enemies that die around Faramis also have a chance to drop <font color=\"a6aafb\">Soul Fragments</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Shadow Stampede",
+      "skill_desc": "Faramis enters the Shadow state for 3s, gaining 70% Movement Speed, 25 <font color=\"26e407\"><1999></font>, and 20% Cooldown Reduction of this skill. He also gains the ability to move through terrain. Enemy heroes he touches take 250<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and are marked with a Nether Mark. Upon leaving the Shadow state, Faramis pulls all the marked enemy heroes toward him, dealing 250<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n<font color=\"a6aafb\">Use Again</font>: Ends the Shadow state early to pull marked enemy heroes toward him.\nSoul Fragment absorption range is increased while this skill is active."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ghost Bursters",
+      "skill_desc": "Faramis gathers Nether energy in a fan-shaped area ahead, dealing 330<font color=\"62f8fe\"> (+144% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within. The energy will then split and bounce to nearby enemies, dealing 200<font color=\"62f8fe\"> (+86% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> (splits up to 2 time(s) on enemy hero hits and 1 time(s) on non-enemy hero hits)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Nether Realm",
+      "skill_desc": "Faramis turns his surroundings into the <font color=\"a6aafb\">Nether Realm</font> for 6s. Allied heroes within (including himself) enter the <font color=\"a6aafb\">Specter</font> state, gaining 400 (+ 10<font color=\"62f8fe\"> (+5% Total Magic Power)</font>%) extra HP and 50% extra Movement Speed for 1s. When the <font color=\"a6aafb\">Specter</font> state breaks, heroes within clear all debuffs and enter a brief Resurrection state for 1.3s. The <font color=\"a6aafb\">Specter</font> state immediately ends if the allied hero leaves the <font color=\"a6aafb\">Nether Realm</font>."
+    }
+  ]
+}

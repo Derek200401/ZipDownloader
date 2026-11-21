@@ -1,0 +1,32 @@
+{
+  "skins_name": "Moonlight Sonata",
+  "release": "2018-04-17",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Dagger Specialist",
+      "skill_desc": "Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next Basic Attack to deal additional damage equal to 3% of the target's <font color=\"26e407\"><1005></font> and recover 50<font color=\"62f8fe\"> (+25% Total Magic Power)</font> HP for himself."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Sword Spike",
+      "skill_desc": "Gusion throws a dagger in the target direction, dealing 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit and marking them.\n\n<font color=\"a6aafb\">Use Again</font>: Gusion moves behind the marked enemy, dealing 200<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to them. This skill cannot be interrupted while Gusion is moving behind the marked enemy."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Shadowblade Slaughter",
+      "skill_desc": "Gusion throws a volley of daggers in the target direction, each dealing 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 6% for 2s (when hit by multiple daggers, the slow effect can stack up to 30%).\n\n<font color=\"a6aafb\">Use Again</font>: Gusion recalls the daggers, each dealing 65<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Incandescence",
+      "skill_desc": "Gusion dashes to the target location, resetting the cooldowns of <font color=\"a6aafb\">Sword Spike</font> and <font color=\"a6aafb\">Shadowblade Slaughter</font>. If <font color=\"a6aafb\">Shadowblade Slaughter</font> was cast once before the reset, Gusion can throw another five daggers on his next <font color=\"a6aafb\">Shadowblade Slaughter</font> cast, and recall a total of ten daggers afterward.\n\n<font color=\"a6aafb\">Use Again</font>: Gusion dashes a short distance in the target direction."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins_name": "Shura",
+  "release": "2021-11",
+  "availability": "Limited",
+  "rarity": "Grand",
+  "label": "Double 11",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Ninjutsu: Trace of Shadow",
+      "skill_desc": "Hayabusa's attacks apply a stack of <font color=\"a6aafb\">Shadow Mark</font> on hit (up to 4 stacks). Each stack lasts 6s and increases Hayabusa's damage to the enemy by 5%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ninjutsu: Phantom Shuriken",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Hayabusa permanently gains 3% Spell Vamp.\n<font color=\"a6aafb\">Active</font>: Hayabusa throws three returning shurikens in the target direction, each dealing 220<font color=\"fba51f\"> (+75% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 35% for 2s. Subsequent hits on the same enemy deal 70% less damage (only 50% less to creeps). He also restores 10 Energy when hitting non-minion enemies."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ninjutsu: Quad Shadow",
+      "skill_desc": "Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing 130<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 40% for 2s. Hayabusa will immediately stop if he hits an enemy hero during the dash.\n\n<font color=\"a6aafb\">Use Again</font>: Hayabusa teleports to a phantom's location and reduces the cooldown of <font color=\"a6aafb\">Ninjutsu: Phantom Shuriken</font> by 1s. If the phantom is attached to an enemy hero, he also deals 130<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the enemy."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Ougi: Shadow Kill",
+      "skill_desc": "Hayabusa blends into the shadows and launches 6 single-target attacks on enemies in the area, each dealing 130<font color=\"fba51f\"> (+30% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nThe attacks prioritize enemies with <font color=\"a6aafb\">Shadow Mark</font> and each will consume a mark to deal 90<font color=\"fba51f\"> (+40% Extra Physical Attack)</font> extra <font color=\"fb1f1f\">Physical Damage</font>. Shadow Kill does not apply <font color=\"a6aafb\">Shadow Mark</font>."
+    }
+  ]
+}

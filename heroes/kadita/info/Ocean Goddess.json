@@ -1,0 +1,33 @@
+{
+  "skins_name": "Ocean Goddess",
+  "release": "2018-12-18",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Thalassophobia",
+      "skill_desc": "Kadita gains the <font color=\"a6aafb\">Blessing of the Ocean</font> every 30s. Taking damage from an enemy hero activates the Blessing for 4s.\n\nWhen the Blessing ends, she recovers 65% of the HP lost during this period (damage from minions and creeps does not activate this effect).\n\nWhile in the River, Kadita gains 10% extra Movement Speed."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ocean Ode",
+      "skill_desc": "Kadita summons an ocean wave to carry herself in the target direction and back, dealing 250<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.\n\n<font color=\"a6aafb\">Use Again</font>: Kadita exits the wave without interrupting the wave's movement."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Breath of the Ocean",
+      "skill_desc": "After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and knocking them airborne for 1s.\n\nKadita can cast this skill during <font color=\"a6aafb\">Ocean Ode</font> to summon an ocean wave beneath her with a shorter eruption delay."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Rough Waves",
+      "skill_desc": "Kadita dives into the ground and sends ocean waves in all directions, each dealing 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a delay, the waves return to Kadita, each dealing 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit.\n\nWhile underground, Kadita becomes untargetable and gains 60% Movement Speed.\nThis skill can only be interrupted by Suppression."
+    }
+  ]
+}

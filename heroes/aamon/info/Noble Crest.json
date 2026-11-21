@@ -1,0 +1,32 @@
+{
+  "skins_name": "Noble Crest",
+  "release": "2022-07-12",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Invisible Armor",
+      "skill_desc": "Each time Aamon hits an enemy with a skill, he enters <font color=\"a6aafb\">Camouflage</font>, becoming untargetable, recovering HP equal to 25<font color=\"62f8fe\"> (+15% Total Magic Power)</font> (+ 3% of his <font color=\"26e407\"><1998></font>) every 0.5s, and gaining 80% Movement Speed that rapidly decays over 3s.\n\nUpon leaving the <font color=\"a6aafb\">Camouflage</font> state, Aamon immediately resets his Basic Attack's cooldown and enhances his Basic Attacks for 3s. Each enhanced Basic Attack deals 70<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+115% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. The first attack after manually leaving <font color=\"a6aafb\">Camouflage</font> instead deals 84<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"62f8fe\">(+138% Total Magic Power)</font> damage and reduces all skill cooldowns by 1s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Soul Shards",
+      "skill_desc": "<font color=\"a6aafb\">Passive:</font> Aamon charges his armor through enhanced Basic Attacks or while camouflaged. At 5 charges, Aamon throws 6 shards at the target on his next attack, each shard dealing 50<font color=\"62f8fe\"> (+15% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. The shards will then scatter around the target.\n\n<font color=\"a6aafb\">Active:</font> Aamon throws a shard at a nearby enemy, dealing 175<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Slayer Shards",
+      "skill_desc": "Aamon throws a shard forward, dealing 120<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing enemies hit by 50% for 2s. The shard returns to Aamon after a short delay, granting him the <font color=\"a6aafb\">Camouflage</font> state.\n\nIf the shard hits a non-minion enemy, it returns immediately."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Endless Shards",
+      "skill_desc": "Aamon throws all shards at a designated enemy and slows them by 30% for 1.5s. After a short delay, the shards will fly to the enemy's location again, each dealing 35<font color=\"62f8fe\"> (+10% Total Magic Power)</font>-70<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nThe number of shards increases with Aamon's armor charges and the shards on the ground (8-25).\nThe damage dealt increases with the target's <font color=\"26e407\">lost <1997></font>, to the max when the target's HP is below 30%."
+    }
+  ]
+}

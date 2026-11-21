@@ -1,0 +1,32 @@
+{
+  "skins_name": "Matrix Maverick",
+  "release": "2025-07-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2025/07 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Demonic Force",
+      "skill_desc": "Phoveus's next Basic Attack charges at the enemy, knocking them back, dealing extra <font color=\"7f62fe\">Magic Damage</font> equal to 4% - 6% of the enemy's <font color=\"26e407\"><1005></font> (scales with level), and gaining a 8% - 12% <font color=\"26e407\"><1005></font> shield. Cooldown: 26s-14s (based on <font color=\"a6aafb\">Infernal Pursuit</font>'s level).\n\n<font color=\"a6aafb\">Astaros' Gaze</font>: Whenever an enemy hero blinks, dashes, or is displaced within 8 units, reduces the cooldown of <font color=\"a6aafb\">Demonic Force</font> by 20% and other skills by 0.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Demonic Impact",
+      "skill_desc": "Phoveus slams his monolith into the ground, dealing 200<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and slowing them by 70% for 0.5s. If this skill hits an enemy, Phoveus's next <font color=\"a6aafb\">Demonic Impact</font> will leave behind an <font color=\"a6aafb\">Astaros Eye</font>.\n\n<font color=\"a6aafb\">Astaros Eye</font>: Implodes after a short delay, dealing 100<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"7f62fe\">Magic Damage</font> to the enemies."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Dark Wave",
+      "skill_desc": "Phoveus lowers his monolith and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Infernal Pursuit",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: <font color=\"a6aafb\">Demonic Force</font>, <font color=\"a6aafb\">Astaros Eye</font>, and <font color=\"a6aafb\">Dark Wave</font> apply <font color=\"a6aafb\">Sinner's Mark</font> to enemy heroes hit.\n\n<font color=\"a6aafb\">Active</font>: Phoveus leaps into the air and smashes down with his monolith at the enemy hero with <font color=\"a6aafb\">Sinner's Mark</font>, dealing 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> (+ 5% target's <font color=\"26e407\"><1005></font>) <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and recovering <font color=\"26e407\">50 (+ 6% of his <1998>)</font>.\n\n<font color=\"A4AAC7\">Infernal Pursuit can only be used when there are enemies with Sinner's Mark nearby. HP recovered is reduced by 80% when multiple enemies are hit.</font>"
+    }
+  ]
+}

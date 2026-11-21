@@ -1,0 +1,30 @@
+{
+  "skins_name": "Marvelous Maestro",
+  "release": "2024-09-27",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "8th Anniversary",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Tai Chi",
+      "skill_desc": "Akai gains a 25<font color=\"26e407\"> (+5% Max HP)</font> shield for 4s on each skill cast.\n\nHis skills apply a <font color=\"a6aafb\">Mark</font> to targets. His next Basic Attack against a marked target deals 35<font color=\"26e407\"> (+6% Max HP)</font> extra <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Headbutt",
+      "skill_desc": "Akai charges in the target direction, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way.\n\nUpon hitting an enemy hero, he knocks them airborne for 0.5s and can roll once in the joystick's direction.\n\nAkai can cast <font color=\"a6aafb\">Headbutt</font> during <font color=\"a6aafb\">Heavy Spin</font> to quickly reposition himself."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Body Slam",
+      "skill_desc": "Akai slams his body into the ground, dealing 270<font color=\"26e407\"> (+6% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slowing them by 45% for 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Heavy Spin",
+      "skill_desc": "Akai spins for 4s, continuously dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and knocking them back. Knocked-back enemy heroes also knock back any enemy heroes they collide with.\n\nUpon casting, Akai removes all debuffs and gains slow immunity. While spinning, his Movement Speed gradually increases to 70%.\n\nThis skill can only be interrupted by <font color=\"a6aafb\">Suppression</font>."
+    }
+  ]
+}

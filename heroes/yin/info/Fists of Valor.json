@@ -1,0 +1,32 @@
+{
+  "skins_name": "Fists of Valor",
+  "release": "2022-01-18",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Leave It to Me",
+      "skill_desc": "If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Charged Punch",
+      "skill_desc": "Yin gains 60% extra Movement Speed (decays over 3s).\nDuring this time, his next Basic Attack will be enhanced, dealing 25<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. If the enhanced Basic Attack hits an enemy, Yin throws a charged punch forward, dealing 360<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path.\nSuccessfully throwing the charged punch reduces the skill's cooldown by 35%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Instant Blast",
+      "skill_desc": "Yin dashes forward, leaving a <font color=\"a6aafb\">Golden Ring</font> behind while dealing 75<font color=\"fba51f\"> (+35% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way. He gains 30% extra Damage Reduction for 4s if an enemy hero is hit.\nAfter 1s, the <font color=\"a6aafb\">Golden Ring</font> will catch up with Yin, dealing 150<font color=\"fba51f\"> (+70% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies it passes through and stunning them for 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "My Turn",
+      "skill_desc": "After a short delay, Yin locks onto an enemy hero (<font color=\"a6aafb\">cannot lock onto pets or clones</font>) and pulls them into a domain for up to 8s and turns into <font color=\"a6aafb\">Lieh</font>. When in the domain, the two cannot be affected by other heroes' skills.\n\n<font color=\"a6aafb\">Lieh</font> has stronger skills and 50 extra <font color=\"fba51f\"><1060></font> and <font color=\"62f8fe\"><1070></font> that last 8s.\nThe domain will end early if either of the two is killed. If <font color=\"a6aafb\">Lieh</font> successfully kills the enemy, he'll recover 20% of his Max HP, leave the domain with the cooldowns of <font color=\"a6aafb\">Frenzy Strike</font> and <font color=\"a6aafb\">Instant Blast</font> reset, and continue to fight as <font color=\"a6aafb\">Lieh</font> for 8s.\nIf Yin fails to pull his target into the domain, the skill will enter a 3s cooldown."
+    }
+  ]
+}

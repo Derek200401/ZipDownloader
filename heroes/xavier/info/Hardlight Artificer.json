@@ -1,0 +1,32 @@
+{
+  "skins_name": "Hardlight Artificer",
+  "release": "2024-12-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2024/12 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Transcendence",
+      "skill_desc": "When Xavier's skills hit enemy heroes, he gains 60% Movement Speed for 1.2s (decays over time) and 1 energy charge. At 3 charges, his next skill triggers the Transcendence state.\n\n<font color=\"a6aafb\">Transcendence:</font> In this state, Xavier's Skills 1 and 2 have their cooldowns reduced by 4s, and his Ultimate by 36s. Transcendence lasts 5s and can be extended by 1s each time his skills hit enemies."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Infinite Extension",
+      "skill_desc": "Xavier fires a Mystic Bullet that deals 480<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies it passes through.\n\nThe Bullet's flying distance increases each time it hits an enemy or the <font color=\"a6aafb\">Mystic Barrier</font> (up to 5 times)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Mystic Field",
+      "skill_desc": "Xavier summons a <font color=\"a6aafb\">Mystic Barrier</font> that lasts 5s. Enemies touching the Barrier are slowed by 50%, while allies gain 50% extra Movement Speed (decays over 1.2s).\n\nWhen hit by Xavier's other skills, the Barrier expands into a <font color=\"a6aafb\">Mystic Field</font> for 3s, dealing 440<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and immobilizing them for 0.8s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Dawning Light",
+      "skill_desc": "Xavier unleashes a beam of Mystic magic in the target direction, dealing 600<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies along its path.\n\nOnce cast, he also directly enters the <font color=\"a6aafb\">Transcendence</font> state and resets the state's duration."
+    }
+  ]
+}

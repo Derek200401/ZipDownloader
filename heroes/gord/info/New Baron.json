@@ -1,0 +1,32 @@
+{
+  "skins_name": "New Baron",
+  "release": "2021",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S21",
+  "price": {
+    "other": "Season 21"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mystic Favor",
+      "skill_desc": "After Gord hits the same target 4 times with skills in quick succession, his next skill deals 120 (+8*Hero Level) <font color=\"62f8fe\"> (+40% Total Magic Power)</font> extra <font color=\"ffe63c\">True Damage</font> and slows them by 20% for 1s (the slow effect stacks up to 2 times)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Mystic Projectile",
+      "skill_desc": "Gord conjures a Mystic Orb that bounces in the target direction and explodes on the first enemy hit, dealing 225<font color=\"62f8fe\"> (+65% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area, while stunning them and revealing their locations for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Mystic Injunction",
+      "skill_desc": "Gord creates an energy field in the target area, dealing 30<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.25s to enemies within (up to 16 times)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Mystic Gush",
+      "skill_desc": "Gord unleashes an energy beam in the target direction, dealing 90<font color=\"62f8fe\"> (+32% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit every 0.2s (up to 16 times).\n\nThe direction of the beam can be adjusted using the Joystick."
+    }
+  ]
+}

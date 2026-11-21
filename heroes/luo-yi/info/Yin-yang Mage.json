@@ -1,0 +1,32 @@
+{
+  "skins_name": "Yin-yang Mage",
+  "release": "2020-05-16",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Duality",
+      "skill_desc": "Luo Yi's skills can create <font color=\"a6aafb\">Sigils of Yin/Yang</font> on the battlefield. Each Sigil lasts up to 6s.\nSigils of opposite attributes will trigger <font color=\"a6aafb\">Yin-Yang Reaction</font> when they are within a certain distance, dealing 300 (+25*Hero Level) <font color=\"62f8fe\">(+190% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the marked enemies, stunning them for 0.3s, and pulling them toward each other.\nEach time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10*Hero Level) <font color=\"62f8fe\">(+150% Total Magic Power)</font> shield (up to 3 stacks) and 50% extra Movement Speed that decays over 2s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Dispersion",
+      "skill_desc": "Luo Yi casts the energy of <font color=\"a6aafb\">Yin/Yang</font> in the target direction, dealing 285<font color=\"62f8fe\"> (+135% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit and those behind them in a fan-shaped area. Enemy heroes hit are marked with a <font color=\"a6aafb\">Sigil of Yin/Yang</font>.\nLuo Yi stores up to 4 <font color=\"a6aafb\">Dispersion</font> charges and gains 1 charge every 8s. She also immediately gains 1 charge each time <font color=\"a6aafb\">Yin-Yang Reaction</font> is triggered.\nThe state of this skill changes on each cast."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Rotation",
+      "skill_desc": "Luo Yi summons <font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> at the target location, dealing 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 60% for 0.5s.\n<font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> then remains at the location for 6s, dealing 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.7s to nearby enemies. It can also trigger <font color=\"a6aafb\">Yin-Yang Reaction</font> with Sigils of opposite attributes.\nThe state of this skill changes on each cast."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Diversion",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Luo Yi's Cooldown Reduction is increased by 6%.\n<font color=\"a6aafb\">Active</font>: Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes within the Circle will be teleported to the location."
+    }
+  ]
+}

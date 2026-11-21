@@ -1,0 +1,32 @@
+{
+  "skins_name": "Wyrmslayer",
+  "release": "2018",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S10",
+  "price": {
+    "other": "Season 10"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Fearless",
+      "skill_desc": "Tigreal gains 1 stack of <font color=\"a6aafb\">Fearless</font> each time he is hit by a Basic Attack. At 4 stacks, he consumes them to block the next incoming Basic Attack (including attacks from Turrets).\nHe also gains 1 stack of <font color=\"a6aafb\">Fearless</font> each time he casts a skill.\n\nDamage from minions does not add or consume <font color=\"a6aafb\">Fearless</font> stacks."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Attack Wave",
+      "skill_desc": "Tigreal smashes the ground with his hammer, sending a shockwave that erupts 3 times in a fan-shaped area. Each eruption deals 270<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slows them by 20% / 40% / 60% for 1.5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Sacred Hammer",
+      "skill_desc": "Tigreal charges in the target direction, dealing <font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way and pushing them to the end of the charge.\n\n<font color=\"a6aafb\">Use Again</font>: Tigreal can use this skill again within 4s, dealing 280<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in front of him and knocking them airborne for 0.6s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Implosion",
+      "skill_desc": "Tigreal unleashes the power of his hammer, pulling nearby enemies to him, dealing 600<font color=\"fba51f\"> (+130% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 1.8s.\n\nThe first half of the channeling can be interrupted by control effects, while the second half can only be interrupted by <font color=\"a6aafb\">Suppression</font>."
+    }
+  ]
+}

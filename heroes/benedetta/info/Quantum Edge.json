@@ -1,0 +1,32 @@
+{
+  "skins_name": "Quantum Edge",
+  "release": "2024-03-13",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "MPL",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Elapsed Daytime",
+      "skill_desc": "Hold the <font color=\"a6aafb\">Basic Attack</font> button to enter the <font color=\"a6aafb\">Swordout</font> state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in <font color=\"a6aafb\">the direction she's facing</font> and dash forward, dealing <font color=\"fba51f\"> (+215% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps).\n\nBenedetta can only cast Swordout Slash when her Sword Intent is full and she is in the <font color=\"a6aafb\">Swordout</font> state.\n\nBenedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Phantom Slash",
+      "skill_desc": "Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing the enemies by 60% for 0.5s.\n\nMeanwhile, Benedetta dashes forward to slash, dealing 75<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)"
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "An Eye for An Eye",
+      "skill_desc": "Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nIf Benedetta successfully fends off any damage while defending, she will gain full <font color=\"a6aafb\">Sword Intent</font>. If she fends off any control effects, her subsequent stab stuns the target for 1.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Alecto: Final Blow",
+      "skill_desc": "Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560<font color=\"fba51f\"> (+1105% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within and slows them by 50%."
+    }
+  ]
+}

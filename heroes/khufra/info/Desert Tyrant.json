@@ -1,0 +1,33 @@
+{
+  "skins_name": "Desert Tyrant",
+  "release": "2019-03-12",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Spell Curse",
+      "skill_desc": "Khufra activates the <font color=\"a6aafb\">Spell Curse</font> left by Esmeralda every 8s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals 100<font color=\"fba51f\"> (+120% Total Physical Attack)</font> (+ 6% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font>. He also slows the target by 30% for 1.5s and recovers 8% of his <font color=\"26e407\"><1005></font> on hit.\n\nEach time Khufra applies a control effect to an enemy hero with his skill, the cooldown of <font color=\"a6aafb\">Spell Curse</font> is reduced by 4s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Tyrant's Revenge",
+      "skill_desc": "Khufra pulls the bandages on his arms to launch himself in the specified direction, dealing 50 (+ 7<font color=\"fba51f\"> (+1.5% Extra Physical Attack)</font>% of his <font color=\"26e407\"><1005></font>) <font color=\"fb1f1f\">Physical Damage</font> to all enemies on the path. When blinking to the furthest distance or encountering the first enemy hero, Khufra will immediately stop, dealing 50 (+ 7<font color=\"fba51f\"> (+1.5% Extra Physical Attack)</font>% of his <font color=\"26e407\"><1005></font>) <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and knocking them airborne for up to 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Bouncing Ball",
+      "skill_desc": "Khufra uses bandages to wrap himself into a <font color=\"a6aafb\">Bouncing Ball</font>, increasing his <font color=\"26e407\"><1999></font> by 30%. Enemies trying to use mobility skills to move across Khufra will be knocked airborne.\n\nEach time the <font color=\"a6aafb\">Bouncing Ball</font> hits the ground, it deals 50 (+ 3<font color=\"fba51f\"> (+2% Extra Physical Attack)</font>% of his <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and slows them by 80% for 0.2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Tyrant's Rage",
+      "skill_desc": "Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them down for 1.25s. If the enemies are knocked against walls, extra <font color=\"fb1f1f\">Physical Damage</font> equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed."
+    }
+  ]
+}

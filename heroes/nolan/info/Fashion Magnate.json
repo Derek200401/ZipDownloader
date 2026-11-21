@@ -1,0 +1,30 @@
+{
+  "skins_name": "Fashion Magnate",
+  "release": "",
+  "availability": "",
+  "rarity": null,
+  "label": null,
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Dimensional Rift",
+      "skill_desc": "Nolan's skills will leave a <font color=\"a6aafb\">Rift</font>. When a rift comes into contact with another rift, they will <font color=\"a6aafb\">activate</font> and pull enemies to their center and deal 240<font color=\"fba51f\"> (+140% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> after a short delay. Each time a rift activation hits an enemy, Nolan will gain 25 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%.\n<font color=\"a6aafb\">Cosmic Leap</font>: If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing <font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and leaving a <font color=\"a6aafb\">Rift</font>. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)"
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Expansion",
+      "skill_desc": "Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and leaving a <font color=\"a6aafb\">Rift</font> at the first enemy hit."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Gauge",
+      "skill_desc": "Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70<font color=\"fba51f\"> (+13% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and leaving a <font color=\"a6aafb\">Rift</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Fracture",
+      "skill_desc": "Nolan slashes at the target location 3 times, dealing 120<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins_name": "Galaxy Dominator",
+  "release": "2017X",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Luckybox",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Scripture of the Moon Elf",
+      "skill_desc": "<font color=\"a6aafb\">Scripture of the Moon Elf</font> gradually charges energy into Estes. Upon reaching 100 stacks, Estes' next Basic Attack is enhanced, dealing 250<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the target. The enhanced attack also bounces to nearby enemies, dealing 125<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and slowing them by 60% for 1.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Moonlight Immersion",
+      "skill_desc": "Estes immediately recovers 200<font color=\"62f8fe\"> (+110% Total Magic Power)</font> HP for the target allied hero and links himself with them for 5s.\nWhile linked, both heroes gain 15<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"26e407\"><1999></font>, and the target slowly recovers 360<font color=\"62f8fe\"> (+90% Total Magic Power)</font> HP. The link increases Estes' Movement Speed by 15% and the energy charge rate of the <font color=\"a6aafb\">Scripture of the Moon Elf</font>.\nThe link breaks if Estes moves too far from the target."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Domain of Moon Goddess",
+      "skill_desc": "Estes calls down a flood of moonlight on the target area, dealing 350<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemy units within it.\n\nThe area then becomes a <font color=\"a6aafb\">Domain of Moon Goddess</font>, revealing enemies within. Enemies that touch the domain's edge are slowed by 90% for 1.5s. The slow effect decays over time."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Blessing of Moon Goddess",
+      "skill_desc": "Estes casts an enhanced <font color=\"a6aafb\">Moonlight Immersion</font> on himself and all nearby allied heroes, refreshing <font color=\"a6aafb\">Moonlight Immersion</font> on them and enhancing it for 8s.\nEnhanced <font color=\"a6aafb\">Moonlight Immersion</font>: Doubles the Instant Basic Healing and <font color=\"26e407\"><1999></font> Increase, and heals the target for 1020<font color=\"62f8fe\"> (+225% Total Magic Power)</font> HP over time."
+    }
+  ]
+}

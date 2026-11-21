@@ -1,0 +1,32 @@
+{
+  "skins_name": "Christmas Carnival",
+  "release": "2018",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "Christmas",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Power of Einherjar",
+      "skill_desc": "Freya gains 1 <font color=\"a6aafb\">Sacred Orb</font> stack(s) with each Basic Attack (up to 6 stacks). Consuming 1 stack(s) of <font color=\"a6aafb\">Sacred Orb</font> grants Freya 100% Attack Speed for her next Basic Attack and recovers 20 (+3*Hero Level)<font color=\"fba51f\"> (+20% Total Physical Attack)</font> HP (up to 6 stacks).\n\nWhile out of combat, <font color=\"a6aafb\">Sacred Orb</font> stacks are gradually restored."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Leap of Faith",
+      "skill_desc": "Freya leaps to the target area and strikes the ground with her shield, gaining 500<font color=\"fba51f\"> (+100% Total Physical Attack)</font> shield and dealing 200<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within while knocking them airborne for 0.4s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Valkyrie Slash",
+      "skill_desc": "Freya charges forward and slashes, dealing 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing enemies by 30% for 0.5s. This skill has no base cooldown but consumes 2 <font color=\"a6aafb\">Sacred Orbs</font> per cast.\n\nThis skill deals 50% damage to creeps."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Valkyrie Descent",
+      "skill_desc": "Freya dives toward the target area, gaining Control Immunity. She deals 300<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along her path and in the landing area. Enemies hit are slowed by 40% for 2s.\nUpon landing, Freya enters the <font color=\"a6aafb\">Valkyrie</font> state for 10s and gains 30 Movement Speed. Her Basic Attacks deal 100<font color=\"fba51f\"> (+70% Total Physical Attack)</font> illustrations Damage (only the bonus Physical Damage can Crit)."
+    }
+  ]
+}

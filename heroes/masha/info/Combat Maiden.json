@@ -1,0 +1,32 @@
+{
+  "skins_name": "Combat Maiden",
+  "release": "2020-02-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2020/02 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Primal Pact",
+      "skill_desc": "<font color=\"a6aafb\">Bear's Blessing</font>: Masha has 3 HP bars, each inheriting 50% of her Equipment HP bonuses. Each time an HP bar breaks, she removes control effects on herself and blocks one instance of damage. Dealing damage to enemy heroes or creeps builds <font color=\"a6aafb\">Feral</font>, which converts into HP after she leaves combat.\n<font color=\"a6aafb\">Power of Wildness</font>: When Masha's skills damage an enemy hero, a <font color=\"a6aafb\">Wound</font> appears on a random side of the target. Breaking a <font color=\"a6aafb\">Wound</font> with a Basic Attack puts her into the <font color=\"a6aafb\">Feral</font> state.\n<font color=\"a6aafb\">Feral State</font>: For 3s, Masha gains 15<font color=\"ffe63c\"> (+1*Hero Level)</font>% Resilience, Attack Speed, and Movement Speed. Her next 3 Basic Attacks become fan-shaped claw strikes, dealing extra <font color=\"fb1f1f\">Physical Damage</font> equal to 3<font color=\"fba51f\"> (+0.5% Extra Physical Attack)</font> <font color=\"ffe63c\">(+0.2*Hero Level)</font>% <font color=\"26e407\"><1005></font> to enemies in the area (not against Turrets) and recovering 4<font color=\"ffe63c\"> (+0.4*Hero Level)</font>% HP.\n[C8Breaking another <font color=\"a6aafb\">Wound</font> during the <font color=\"a6aafb\">Feral</font> state refreshes the state's duration. Up to 6 claw strikes can be stored.]"
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Feral Swipe",
+      "skill_desc": "Masha releases energy forward, dealing 250<font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path. It deals 150% damage to minions."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Claw Strike",
+      "skill_desc": "Masha dashes in the target direction, dealing 120<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and reducing enemy heroes' Movement Speed by 50% for 1s on hit.\n\n[C8Whenever an HP bar is depleted, the cooldown of <font color=\"a6aafb\">Claw Strike</font> resets.]"
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Savage Maul",
+      "skill_desc": "Masha charges toward an enemy hero, dealing 300<font color=\"26e407\"> (+50% Extra Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 1s while knocking back nearby enemies."
+    }
+  ]
+}

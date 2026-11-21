@@ -1,0 +1,33 @@
+{
+  "skins_name": "Contractor",
+  "release": "2018-07-24",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Contract: Transform",
+      "skill_desc": "Every 8s, Aldous gains a shield equal to 350 (+ 3 per <font color=\"a6aafb\">Soul Steal</font> stack) for 3s on his next Basic Attack. He also gains 60% Movement Speed for 1s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Contract: Soul Steal",
+      "skill_desc": "Aldous enhances his next Basic Attack to deal 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font> (+ 3 per <font color=\"a6aafb\">Soul Steal</font> stack) <font color=\"fb1f1f\">Physical Damage</font>.\n\nKilling a siege minion with this attack grants 12 <font color=\"a6aafb\">Soul Steal</font> stacks; killing any other non-hero unit grants 5 stacks. Hitting an enemy hero grants an extra 5 stack(s), while killing one grants 12 (up to 1000 stacks).\n\nThis attack deals 300% extra Base Damage to minions and creeps. Aldous also gains 6 stack(s) when allied units eliminate a nearby enemy siege minion, and 2 stack(s) when they eliminate any other nearby non-hero unit.\n\nAldous gains 20% Movement Speed while moving toward enemy heroes during this skill."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Contract: Explosion",
+      "skill_desc": "Aldous assumes a defensive stance, gaining 30% Damage Reduction for 2s or until canceled.\nHe then deals 200<font color=\"fba51f\"> (+20% Total Physical Attack)</font>-400<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and stuns them for 0.5-1s (scales with defensive stance duration)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Contract: Chase Fate",
+      "skill_desc": "Aldous gains vision of all enemy heroes for 5s.\n<font color=\"a6aafb\">Use Again</font>: During this time, he dashes toward an enemy hero, dealing 250 (+ 8% target's <font color=\"26e407\"><1005></font>) <font color=\"fb1f1f\">Physical Damage</font> and knocking the target back for 1s.\nAldous can interrupt the target's Recall while dashing."
+    }
+  ]
+}

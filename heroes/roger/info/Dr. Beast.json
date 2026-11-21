@@ -1,0 +1,30 @@
+{
+  "skins_name": "Dr. Beast",
+  "release": "2017-10-02",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Luckybox",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Full Moon Curse",
+      "skill_desc": "Roger can freely switch between human and wolf forms.\nIn human form, Roger's attack deals extra damage equal to 4% of the target's <font color=\"26e407\">current <1005></font>. In wolf form, his attack deals extra damage equal to 4% of the target's [lost C6<1997>].\nExtra damage against creeps is capped at 60."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Open Fire",
+      "skill_desc": "Roger fires two quick shots in the target direction, dealing a total of 250<font color=\"fba51f\"> (+125% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the enemy hit.\nThe first shot is a hunter net that slows the enemy by 80% for 1.5s.\nThe second is a bullet that reduces the enemy's <font color=\"fba51f\"><1060></font> by 10 for 5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Hunter's Steps",
+      "skill_desc": "Roger gains 20% Movement Speed and 20% Attack Speed for 2.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Wolf Transformation",
+      "skill_desc": "Roger lunges in the target direction and turns into wolf form, dealing 150<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 90% for 0.8s.\n\n<font color=\"a6aafb\">Passive</font>: In wolf form, Roger gains 20 <font color=\"26e407\"><1999></font> and 25 Movement Speed."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "skins_name": "Akuma Ninja",
+  "release": "2022-02-22",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Ame no Habakiri",
+      "skill_desc": "Damage dealt by Hanzo's Basic Attacks and skills inflicts a stack of <font color=\"a6aafb\">Dark Ninjutsu</font> on the target, up to 5 stacks. <font color=\"a6aafb\">Ninjutsu: Demon Feast</font> can only be cast on targets with full stacks of <font color=\"a6aafb\">Dark Ninjutsu</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ninjutsu: Demon Feast",
+      "skill_desc": "The skill can only be used on targets with max stacks of <font color=\"a6aafb\">Dark Ninjutsu</font>. When targeting a creep, Hanzo will immediately devour it and digest it over a period of time to recover 20% HP.\nWhen targeting the Turtle, Lord, or enemy heroes, he deals 600<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, recovers 150<font color=\"fba51f\"> (+80% Total Physical Attack)</font> HP, and reduces this skill's cooldown by 60%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ninjutsu: Dark Mist",
+      "skill_desc": "Hanzo dashes in the target direction, leaving <font color=\"a6aafb\">dark mist</font> in front that deals 90<font color=\"fba51f\"> (+45% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area every 0.5s, up to 5 times (this damage counts as Basic Attack damage but cannot Crit).\nThe <font color=\"a6aafb\">dark mist</font> slows enemies in the area by 40% and grants Hanzo 20% Movement Speed."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Kinjutsu: Pinnacle Ninja",
+      "skill_desc": "Hanzo charges into battle as <font color=\"a6aafb\">Hanekage</font>, consuming 170 Energy per second. He gains 20 Energy when a non-hero unit dies nearby and 200 Energy when it's a hero. He gains 15 Energy when attacking a hero, and 45 Energy when attacking the Turtle or the Lord. When Energy runs out, Hanzo's body will be slowly drawn to <font color=\"a6aafb\">Hanekage</font>'s position.\n\nWhile in <font color=\"a6aafb\">Hanekage</font> form, Hanzo's body is invincible, while <font color=\"a6aafb\">Hanekage</font> ignores obstacles and gains 50% Movement Speed and 30% Attack Speed.\n\n<font color=\"a6aafb\">Use Again or Upon Death</font>: <font color=\"a6aafb\">Hanekage</font> returns to Hanzo's body, recovering 360<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> HP and becoming untargetable during the return. If <font color=\"a6aafb\">Hanekage</font> is killed, Hanzo will be slowed by 50% and revealed for 6s, and the skill's cooldown will be doubled."
+    }
+  ]
+}

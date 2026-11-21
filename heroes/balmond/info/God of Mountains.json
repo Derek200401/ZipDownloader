@@ -1,0 +1,30 @@
+{
+  "skins_name": "God of Mountains",
+  "release": "2021-08",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Bloodthirst",
+      "skill_desc": "Balmond recovers 5% <font color=\"26e407\"><1005></font> upon killing a minion or creep, and 10% <font color=\"26e407\"><1005></font> upon a hero kill or assist."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Soul Lock",
+      "skill_desc": "Balmond charges in the target direction, dealing 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way.\nHe stops upon hitting an enemy hero, knocking them back and slowing them by 40% for 3s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Cyclone Sweep",
+      "skill_desc": "Balmond gains 15% Movement Speed and spins with his axe for 3s, dealing 30<font color=\"26e407\"> (+1.3% Max HP)</font> <font color=\"fba51f\"> (+25% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per hit to nearby enemies up to 14 times.\n\nEach hit reduces the target's <font color=\"fba51f\"><1060></font> by 5% (up to 40%)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Lethal Counter",
+      "skill_desc": "Balmond unleashes a powerful strike in a target direction, dealing 150<font color=\"fba51f\"> (+70% Total Physical Attack)</font> (+ 30% of the target's <font color=\"26e407\">lost <1997></font>) as <font color=\"ffe63c\">True Damage</font>. This skill can only be interrupted by <font color=\"a6aafb\">Suppression</font>.\n\nDamage dealt to non-hero units is capped at 1000 <font color=\"ffe63c\">True Damage</font>."
+    }
+  ]
+}

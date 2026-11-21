@@ -1,0 +1,37 @@
+{
+  "skins_name": "Biohazard",
+  "release": "2020-12-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2020/12 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Cursing Touch",
+      "skill_desc": "Yu Zhong applies <font color=\"a6aafb\">Sha Residue</font> to enemy heroes each time he damages them.\n\n<font color=\"a6aafb\">Sha Residue</font> erupts upon reaching 5 stacks on a target. Then it begins consuming 1 stack every 0.4s to deal <font color=\"fb1f1f\">Physical Damage</font> equal to 20<font color=\"fba51f\"> (+20% Extra Physical Attack)</font> (+ 2.5% of target's <font color=\"26e407\"><1998></font>) to the target. Each stack consumed recovers 6% of Yu Zhong's <font color=\"26e407\"><1998></font>. Yu Zhong also gains 30% Movement Speed for 3s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Dragon Tail",
+      "skill_desc": "Yu Zhong infuses his power into his cloak and turns it into a weapon, which starts to attack nearby enemies after a short delay. The inner area of the cloak deals 220<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, whereas the sharpened edge deals 275% damage and applies 2 stacks of <font color=\"a6aafb\">Sha Residue</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Soul Grip",
+      "skill_desc": "Yu Zhong unleashes the Dragon Soul, dealing 150<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to all enemies in front and slowing them by 60% for 1s. \n\nUpon hitting an enemy, Yu Zhong's next Basic Attack will be enhanced, dealing 108<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Upon hitting multiple enemies, the enhanced Basic Attack will apply multiple stacks of <font color=\"a6aafb\">Sha Residue</font> and deal up to 200% damage."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Furious Dive",
+      "skill_desc": "Yu Zhong leaps towards the designated area with his full strength, dealing 180<font color=\"fba51f\"> (+90% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. He is able to dash one more time in the movement direction. \nAfter a short delay, enemies within the area of effect will be knocked airborne for 0.6s and take 180<font color=\"fba51f\"> (+90% Extra Physical Attack)</font> additional <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Black Dragon Form",
+      "skill_desc": "After channeling for 0.6s, Yu Zhong transforms into his Black Dragon Form. For up to 7s, he cannot use other skills but can move freely and will knock back enemy heroes in his path while dealing 180<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. He also gains 1000<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"26e407\"><1005></font>, becomes immune to control effects, and ignores obstacles in this form.\nUpon exiting the Black Dragon Form, Yu Zhong enters <font color=\"a6aafb\">Dragonoid Form</font>, gaining increased range on all of his skills for 10s."
+    }
+  ]
+}

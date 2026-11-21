@@ -1,0 +1,30 @@
+{
+  "skins_name": "Elysian Luminance",
+  "release": "2026-04",
+  "availability": null,
+  "rarity": null,
+  "label": "StarLight",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Celestial Armament",
+      "skill_desc": "<font color=\"a6aafb\">Phoenix Crown</font>: When Zetian hits enemy heroes with <font color=\"a6aafb\">Phoenix Strike</font> or <font color=\"a6aafb\">Phoenix Descent</font>, she gains 1% Spell Vamp for 5s (up to 10 stacks).\n\n<font color=\"a6aafb\">Celestial Robe</font>: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who approaches her, dealing 90 (+10*Hero Level)<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. She also gains a 300 (+20*Hero Level)<font color=\"62f8fe\"> (+50% Total Magic Power)</font> shield for 3s. Cooldown: 120s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Phoenix Strike",
+      "skill_desc": "Zetian unleashes a <font color=\"a6aafb\">Phoenix Wave</font> in the target direction. If it hits an enemy, she automatically casts another wave (up to 3 times). Zetian can cast other skills during this time.\n\nThe waves deal 150<font color=\"62f8fe\"> (+50% Total Magic Power)</font>, 150<font color=\"62f8fe\"> (+50% Total Magic Power)</font>, and 360<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, respectively. The 3rd wave has a larger area and pulls enemies toward the cast direction (not considered a control effect).\n\nThe Spell Vamp ratio against minions is only 65%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Phoenix Descent",
+      "skill_desc": "Zetian summons a <font color=\"a6aafb\">Phoenix Spirit</font> at the target location, dealing 150<font color=\"62f8fe\"> (+45% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and applying a brief 50% slow effect to enemies in the area. The <font color=\"a6aafb\">Phoenix Spirit</font> hovers at the location for 3s, dealing 20<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.5s and reducing enemies' <font color=\"62f8fe\"><1070></font> by 10% while revealing their surrounding area.\nWhile the <font color=\"a6aafb\">Phoenix Spirit</font> is active, Zetian can use this skill again to command it to charge toward a designated location, dealing 150<font color=\"62f8fe\"> (+45% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and applying a brief 50% slow effect upon arrival."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Fury of the Phoenix",
+      "skill_desc": "Zetian calls upon her divine mandate and the hearts of her people, granting all allied heroes 40% Movement Speed that gradually decays over 3s, while bringing divine retribution upon all enemy heroes, dealing 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and stunning them for 0.8s. Zetian gains vision of all enemy heroes during this time.\nZetian can cast other skills while channeling this skill."
+    }
+  ]
+}

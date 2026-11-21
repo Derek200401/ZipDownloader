@@ -1,0 +1,33 @@
+{
+  "skins_name": "Firaga Armor",
+  "release": "2019-08-09",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Firaga Armor",
+      "skill_desc": "Firaga Armor inherits 160% of X.Borg's <font color=\"26e407\"><1005></font> and absorbs all incoming damage when it's active. When destroyed, X.Borg rolls in the direction of the Joystick (he is invincible during this process). The Armor's energy will gradually regenerate while X.Borg is in the Armorless State. At full energy, X.Borg re-equips the Armor and restores it to 30% HP.\nX.Borg's attacks cause enemies to enter the <font color=\"a6aafb\">Overheated</font> state. Enemies in the <font color=\"a6aafb\">Overheated</font> state will drop Firaga Supplies when they take damage from X.Borg. Picking up supplies restores 10% of the Armor's HP (or 10 Energy while in the Armorless State).\nX.Borg's skills deal <font color=\"ffe63c\">True Damage</font> to enemies in the <font color=\"a6aafb\">Overheated</font> state."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Fire Missiles",
+      "skill_desc": "X.Borg sprays fire, dealing 25<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"62f8fe\">(+40% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> 7 times over 2s to enemies in front of him (75% damage to minions). \n\nArmorless State: The attack area becomes narrower but longer, while the damage is reduced to 60%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Fire Stake",
+      "skill_desc": "X.Borg fires 5 Fire Stakes forward and recalls them after 1.7s. Each stake deals 50<font color=\"fba51f\"> (+20% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and pulls enemies and Firaga Supplies along its path back to him.\n\nArmorless State: X.Borg adjusts the Fire Stake launcher, making the stakes travel farther and closer together."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Last Insanity",
+      "skill_desc": "X.Borg charges in the target direction while spinning and spraying fire (cannot pick up Firaga Supplies during this time), dealing 90<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"62f8fe\">(+45% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> 12 times and slowing enemies hit by 25%. He stops upon touching an enemy hero and will slow them by an additional 40%.\nAfter 3s, his mecha suit detonates, dealing 300 (+ 15% target's <font color=\"26e407\"><1005></font>) <font color=\"ffe63c\">True Damage</font>. If his armor is destroyed, it will immediately explode, but damage drops to 50%. The detonation destroys his armor, removes all control effects, and collects all nearby Firaga Supplies. Cannot be used in <font color=\"a6aafb\">Armorless State</font>.\n\n<font color=\"a6aafb\">Use Again</font>: Immediately stop spraying fire and detonate early."
+    }
+  ]
+}

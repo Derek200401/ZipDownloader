@@ -1,0 +1,32 @@
+{
+  "skins_name": "Jungle Watcher",
+  "release": "2019-09-21",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S13",
+  "price": {
+    "other": "Season 13"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Thickened Blood",
+      "skill_desc": "Hylos gains 1 extra Max Mana for every 2.5 <font color=\"26e407\">Extra <1005></font> gained.\nWhen out of Mana, he can consume HP to cast skills."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Law and Order",
+      "skill_desc": "Hylos gains 50% Movement Speed and causes his next Basic Attack within 3s to deal 300<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the target, knocking back and stunning them for 1s.\n\n<font color=\"A4AAC7\">The extra Movement Speed rapidly decays over the duration and vanishes after the next Basic Attack.</font>"
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ring of Punishment",
+      "skill_desc": "Hylos releases the <font color=\"a6aafb\">Ring of Punishment</font>, dealing 100<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies per second while slowing them by 4% and reducing their Attack Speed by 7.5% for 2.5s (up to 8 stacks). Each stack also increases the enemy's damage taken from the <font color=\"a6aafb\">Ring of Punishment</font> by 5%. The <font color=\"a6aafb\">Ring of Punishment</font> consumes 30 Mana per second when it's active.\n\n<font color=\"a6aafb\">Use Again</font>: Hylos cancels the <font color=\"a6aafb\">Ring of Punishment</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Glorious Pathway",
+      "skill_desc": "Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1s. The pathway lasts 6s.\nWhen on the pathway, Hylos gains Slow Immunity and recovers 3% <font color=\"26e407\"><1005></font> per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25%."
+    }
+  ]
+}

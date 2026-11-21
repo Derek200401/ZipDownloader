@@ -1,0 +1,30 @@
+{
+  "skins_name": "Soryu Maiden",
+  "release": "",
+  "availability": "",
+  "rarity": null,
+  "label": null,
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Yin Yang Gathering ",
+      "skill_desc": "Upon retrieving the <font color=\"a6aafb\">Seimei Umbrella</font>, Kagura gains a 450<font color=\"62f8fe\"> (+80% Total Magic Power)</font> shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Seimei Umbrella Open ",
+      "skill_desc": "Kagura sends the <font color=\"a6aafb\">Seimei Umbrella</font> to the target location, dealing 365<font color=\"62f8fe\"> (+105% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path and slowing them by 60% for 0.5s. The Umbrella will automatically return to Kagura when she's too far away.\nThis skill deals 130% damage to non-hero enemies."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Rasho Umbrella Flee",
+      "skill_desc": "Kagura removes all debuffs on her and leaps in the target direction, while leaving the <font color=\"a6aafb\">Seimei Umbrella</font> behind."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Yin Yang Overturn",
+      "skill_desc": "Kagura invokes the power of the <font color=\"a6aafb\">Seimei Umbrella</font>, dealing 250<font color=\"62f8fe\"> (+95% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies, knocking them back, and slowing them by 60% for 0.5s."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Floral Knight",
+  "release": "2019-11-02",
+  "availability": "Available",
+  "rarity": "Deluxe",
+  "label": "Epic",
+  "price": {
+    "dm": "899"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Soul Cutter",
+      "skill_desc": "Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Puncture",
+      "skill_desc": "Lancelot charges in the target direction, dealing 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and marking the first unmarked enemy hit with <font color=\"a6aafb\">Sword Mark</font> for 3s.\n\nIf a new <font color=\"a6aafb\">Sword Mark</font> is applied, this skill's cooldown resets."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Thorned Rose",
+      "skill_desc": "Lancelot strikes in the target direction 3 times, each time dealing 220<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The slow effect can stack."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Phantom Execution",
+      "skill_desc": "After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350<font color=\"fba51f\"> (+170% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. He is invincible throughout the process."
+    }
+  ]
+}

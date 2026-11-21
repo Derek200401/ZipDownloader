@@ -1,0 +1,33 @@
+{
+  "skins_name": "Star Rebel",
+  "release": "2023-05-16",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Star Trail",
+      "skill_desc": "<font color=\"a6aafb\">Astral Sphere</font> continuously slows nearby enemies by 20% and reveals their position."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Astral Meteor",
+      "skill_desc": "Novaria summons an <font color=\"a6aafb\">Astral Sphere</font> at the target location, dealing 75<font color=\"62f8fe\"> (+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.33s and continuously slowing enemies (up to 2.5 times). After 2s, the <font color=\"a6aafb\">Astral Sphere</font> explodes, dealing 260<font color=\"62f8fe\"> (+50% Total Magic Power)</font> (+ 4% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> and slowing enemies by 2.5 times."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Astral Recall",
+      "skill_desc": "<font color=\"a6aafb\">First Cast</font>: Novaria summons an <font color=\"a6aafb\">Astral Sphere</font> at a distance and draws it toward her. She gains 80% Movement Speed (decays to 30%) and can pass through obstacles.\n\n<font color=\"a6aafb\">Use Again</font>: Upon catching the <font color=\"a6aafb\">Astral Sphere</font>, she can cast <font color=\"a6aafb\">Star Shatter</font> to launch it in the target direction within 5s. Upon hitting an enemy hero, it deals 260<font color=\"62f8fe\"> (+95% Total Magic Power)</font> (+ 5% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> to them and nearby heroes. The damage will increase based on the <font color=\"a6aafb\">Astral Sphere</font>'s travel distance (draw + launch), up to 2.2 times the original damage."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Astral Echo",
+      "skill_desc": "Novaria scatters <font color=\"a6aafb\">Astral Echo</font> in the target direction, briefly slowing enemy heroes hit by 50% and applying <font color=\"a6aafb\">Astral Ring</font> on them. This increases their hitbox by 2.5 times and reveals their position for 5s."
+    }
+  ]
+}

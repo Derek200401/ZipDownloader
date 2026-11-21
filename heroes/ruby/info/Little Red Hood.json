@@ -1,0 +1,33 @@
+{
+  "skins_name": "Little Red Hood",
+  "release": "2017-08-11",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Let's Dance!",
+      "skill_desc": "Ruby's skills have a 75% Spell Vamp Ratio (her Basic Attacks cannot trigger Lifesteal). For every 1% HP lost, her Spell Vamp Ratio increases by 1%, up to 150%.\n\nAfter each skill cast, Ruby can dash to another location and gain 8-25 <font color=\"26e407\"><1999></font> (scales with level) for 4s (stacks up to 3 times)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Be Good!",
+      "skill_desc": "Ruby swings her scythe, dealing 280<font color=\"fba51f\"> (+110% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. She then unleashes a shockwave in the same direction, dealing 140<font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 40% for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Don't Run, Wolf King!",
+      "skill_desc": "Ruby swings her scythe around herself twice, each swing dealing 60<font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies, stunning them for 0.5s, and slowly pulling them toward her."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "I'm Offended!",
+      "skill_desc": "Ruby sweeps her scythe in the target direction, dealing 600<font color=\"fba51f\"> (+200% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit, pulling them toward her, and stunning them for 0.5s."
+    }
+  ]
+}

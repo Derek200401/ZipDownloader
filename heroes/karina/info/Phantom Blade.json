@@ -1,0 +1,32 @@
+{
+  "skins_name": "Phantom Blade",
+  "release": "2016",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "399"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Shadow Combo",
+      "skill_desc": "Karina's third consecutive attack against the same enemy deals 100 (+ 5<font color=\"62f8fe\"> (+2.5% Total Magic Power)</font>% target's <font color=\"26e407\">Lost <1997></font>) extra <font color=\"ffe63c\">True Damage</font>.\n\nIf the target is an enemy hero, this attack also reduces the cooldowns of her non-Ultimate skills by 1.5s.\nDamage dealt to creeps is capped at 2000 <font color=\"ffe63c\">True Damage</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Dance of Blades",
+      "skill_desc": "Karina enters the <font color=\"a6aafb\">Dance of Blades</font> state for up to 3.5s, gaining 45% Movement Speed and blocking all Basic Attacks. Blocked attacks trigger a counterattack that deals 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the attacker (firing a <font color=\"a6aafb\">Shadowblade</font> at ranged attackers or triggering <font color=\"a6aafb\">Dance of Blades</font> against melee attackers).\nThis effect has a 0.4s cooldown).\n\nCasting a Basic Attack or <font color=\"a6aafb\">Shadow Assault</font> ends the <font color=\"a6aafb\">Dance of Blades</font> state, empowering Karina's next Basic Attack to deal 160<font color=\"62f8fe\"> (+60% Total Magic Power)</font> critical <font color=\"7f62fe\">Magic Damage</font> and slow the target by 45% for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Dance of Death",
+      "skill_desc": "Karina launches a spinning slash, dealing 375<font color=\"62f8fe\"> (+125% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Shadow Assault",
+      "skill_desc": "Karina dashes to the enemy hero, dealing 350<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, applying a <font color=\"a6aafb\">Shadow Sigil</font> to the target, and leaving a <font color=\"a6aafb\">Shadowform</font> behind them.\n\nThe <font color=\"a6aafb\">Shadow Sigil</font> and <font color=\"a6aafb\">Shadowform</font> both last 5s. If the target dies during this time, this skill's cooldown resets immediately.\n\n<font color=\"a6aafb\">Use Again</font>: Karina dashes back to the <font color=\"a6aafb\">Shadowform</font>'s location, dealing 150<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way."
+    }
+  ]
+}

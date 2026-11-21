@@ -1,0 +1,33 @@
+{
+  "skins_name": "Shifting Cloud",
+  "release": "2025-12-18",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mystic Surge",
+      "skill_desc": "Sora can ascend to <font color=\"a6aafb\">Thunder</font> or <font color=\"a6aafb\">Torrent</font> by using his Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of <font color=\"a6aafb\">Cloudstep</font>. Upon reaching 5 stacks, he unlocks his True Art.\n\n<font color=\"a6aafb\">Thunder</font>: Adopts an assassin style, converting 30% <font color=\"26e407\"><1005></font> into <font color=\"fba51f\"><1020></font> (Equal to 10% of <font color=\"26e407\"><1005></font>).\n<font color=\"a6aafb\">Torrent</font>: Adopts a tank style, converting 30% <font color=\"fba51f\"><1020></font> into <font color=\"26e407\"><1005></font> (Gains 10 HP for every 1 Attack)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Sundering Strike",
+      "skill_desc": "Sora strikes twice, dealing 140<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, then lunges forward, dealing 240<font color=\"26e407\"> (+5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font>. He can dash after striking."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Windstride",
+      "skill_desc": "Sora leaps forward, dealing 140<font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional 140<font color=\"26e407\"> (+8% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 40% for 0.5s. Successful hits reduce the cooldown by 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Shifting Skies",
+      "skill_desc": "Swipe left to ascend into <font color=\"a6aafb\">Thunder</font> for 10s. Sora gains a brief bonus Movement Speed and becomes untargetable. He then summons lightning to strike nearby enemies 3 time(s), each dealing 140<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\nSwipe right to ascend into <font color=\"a6aafb\">Torrent</font> for 10s. Sora gains Control Immunity. After a short delay, he pulls nearby enemies in and deals 250<font color=\"26e407\"> (+8% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    }
+  ]
+}

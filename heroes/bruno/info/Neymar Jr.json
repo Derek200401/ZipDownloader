@@ -1,0 +1,32 @@
+{
+  "skins_name": "Neymar Jr",
+  "release": "2022",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "Neymar Jr",
+  "price": {
+    "other": "MLBB X Neymar Jr Collab Events"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mecha Legs",
+      "skill_desc": "Bruno gains 2.5% extra Crit Chance each time he deals damage with his skills (up to 8 stacks).\n\nBruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Volley Shot",
+      "skill_desc": "Bruno kicks a <font color=\"a6aafb\">Powerball</font> on his next Basic Attack, gaining 1 Movement Speed for 48%s. It deals 75<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, and slows them by 30% for 0.5s.\n\nThe <font color=\"a6aafb\">Powerball</font> then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the <font color=\"a6aafb\">Powerball</font> for another attack and reduce the cooldown of <font color=\"a6aafb\">Slide</font> by 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Slide",
+      "skill_desc": "Bruno slides forward, briefly stunning enemies along the way, and gaining a Powerball at the end of the dash."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Worldie",
+      "skill_desc": "Bruno kicks an <font color=\"a6aafb\">Energy Ball</font> at a target hero, dealing 200<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. It knocks them back to the edge of Bruno's attack range, stuns them for 0.5s, and slows them by 80% for 2s.\n\nThe <font color=\"a6aafb\">Energy Ball</font> then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals 100<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    }
+  ]
+}

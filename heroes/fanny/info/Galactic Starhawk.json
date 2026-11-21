@@ -1,0 +1,30 @@
+{
+  "skins_name": "Galactic Starhawk",
+  "release": null,
+  "availability": "Limited",
+  "rarity": null,
+  "label": "Legend",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Air Superiority",
+      "skill_desc": "While flying, Fanny deals 10%-20% extra damage to enemies hit based on her flying speed and applies 1 stack of <font color=\"a6aafb\">Prey Mark</font> with each hit (up to 2 stacks).\n\nHer subsequent skill hits on marked enemy heroes restore 8 energy per stack. Energy restoration is reduced when multiple enemy heroes are hit within a short period."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Tornado Strike",
+      "skill_desc": "Fanny whirls her blades, dealing 275<font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Steel Cable",
+      "skill_desc": "Fanny shoots a cable in the target direction, pulling herself toward the first obstacle it hits. She can recast this skill within 2s as long as she has enough energy. Each successive cast during this period costs 2 less energy.\n\nWhile flying, Fanny automatically casts <font color=\"a6aafb\">Tornado Strike</font> when she hits an enemy if she has enough Energy."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Cut Throat",
+      "skill_desc": "Fanny leaps at the target enemy hero or Creep with her blades, dealing 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Each stack of <font color=\"a6aafb\">Prey Mark</font> on the target increases this damage by 30%."
+    }
+  ]
+}

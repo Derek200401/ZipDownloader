@@ -1,0 +1,32 @@
+{
+  "skins_name": "Draconic Flame",
+  "release": "2019-07-27",
+  "availability": "Available",
+  "rarity": "Deluxe",
+  "label": "Dragon Tamer",
+  "price": {
+    "dm": "899"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Ashing",
+      "skill_desc": "Valir's skills apply a stack of <font color=\"a6aafb\">Ablaze</font> to enemies hit, dealing them <font color=\"7f62fe\">Magic Damage</font> equal to 1<font color=\"62f8fe\"> (+0.2% Total Magic Power)</font>% of their <font color=\"26e407\"><1005></font> per second for 3s.\n\nAt 3 stacks, the fire detonates, dealing <font color=\"7f62fe\">Magic Damage</font> equal to 5<font color=\"62f8fe\"> (+1% Total Magic Power)</font>% of the target's <font color=\"26e407\"><1005></font> and stunning them for 1s.\nA target can only be stunned by Valir's skills once every 7s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Burst Fireball",
+      "skill_desc": "Valir launches a fireball that explodes upon hitting the first target, dealing 235<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing them by 30% for 1s. The flame on the ground explodes after 1s, dealing 118<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nValir recharges 1 fireball every 9s (up to 2 charges). Hitting an enemy hero or legend creep with this skill immediately restores 1 charge, while hitting a minion restores 4s of the recharge time.\n\n<font color=\"a6aafb\">Vengeance Flame</font>: Increases the cast range of <font color=\"a6aafb\">Burst Fireball</font> by 30%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Searing Torrent",
+      "skill_desc": "Valir unleashes a torrent of flames in the target direction, dealing 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and knocking them back to the end of its path.\n\n<font color=\"a6aafb\">Vengeance Flame</font>: The torrent forms a firewall at the end of its path that lasts 4s, dealing 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies every 1s.\n\nEnemies hit by the torrent or the firewall are slowed by 25% for 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Vengeance Flame",
+      "skill_desc": "Valir removes all debuffs on himself and gains 40% Movement Speed that decays over 3s. Meanwhile, he conjures 4 <font color=\"a6aafb\">Vengeance Flames</font> that enhance <font color=\"a6aafb\">Burst Fireball</font> and <font color=\"a6aafb\">Searing Torrent</font> for 9s."
+    }
+  ]
+}

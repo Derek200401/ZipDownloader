@@ -1,0 +1,32 @@
+{
+  "skins_name": "Lethal Fang",
+  "release": "2021-12-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2021/12 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Abyss Corrosion",
+      "skill_desc": "With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his Basic Attacks (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed Bonus. Each Basic Attack deals <font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"ffe63c\">(+45*Hero Level)</font> <font color=\"fb1f1f\">Physical Damage</font> (of which the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2s), and applies 1 stack of <font color=\"a6aafb\">Abyss Mark</font> on the enemy, capped at 4 stacks.\nEach stack of <font color=\"a6aafb\">Abyss Mark</font> increases Brody's damage against the target by 5% and his Movement Speed by 5%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Abyss Impact",
+      "skill_desc": "Brody launches a shockwave in the target direction, dealing 200<font color=\"fba51f\"> (+170% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing enemies by 30% for 1.2s while applying one stack of <font color=\"a6aafb\">Abyss Mark</font>.\n\nFor each enemy hit by the shockwave, they take an extra 5% slow and one extra <font color=\"a6aafb\">Abyss Mark</font> stack (capped at 45% slow and 4 stacks)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Corrosive Strike",
+      "skill_desc": "Brody dashes to an enemy, dealing 200<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, stunning the target for 0.8s, and applying 1 stack of <font color=\"a6aafb\">Abyss Mark</font> on the target.\nUpon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Torn-Apart Memory",
+      "skill_desc": "Brody locks onto all enemies within 8 unit(s), dealing 216<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to them.\nFor each target with <font color=\"a6aafb\">Abyss Mark</font> stacks, all stacks are consumed, dealing additional <font color=\"fb1f1f\">Physical Damage</font> equal to 94<font color=\"fba51f\"> (+72% Extra Physical Attack)</font> (+ 4% of the target's <font color=\"26e407\">lost <1997></font>) per stack."
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "Aamon": [
+    {
+      "skins_name": "Duke of Shards"
+    },
+    {
+      "skins_name": "Night's Edge"
+    },
+    {
+      "skins_name": "Noble Crest"
+    },
+    {
+      "skins_name": "Cyber Assassin"
+    },
+    {
+      "skins_name": "Vessel of Deceit"
+    },
+    {
+      "skins_name": "Soul Reaver"
+    }
+  ],
+  "Alucard": [
+    {
+      "skins_name": "Demon Hunter"
+    },
+    {
+      "skins_name": "Lone Hero"
+    },
+    {
+      "skins_name": "Fiery Inferno"
+    },
+    {
+      "skins_name": "Child of the Fall"
+    },
+    {
+      "skins_name": "Viscount"
+    },
+    {
+      "skins_name": "Romantic Fantasy"
+    },
+    {
+      "skins_name": "Obsidian Blade"
+    },
+    {
+      "skins_name": "Empire Agent"
+    },
+    {
+      "skins_name": "Lightborn - Striker"
+    },
+    {
+      "skins_name": "Obi-Wan Kenobi"
+    },
+    {
+      "skins_name": "Demon's Bane"
+    }
+  ],
+  "Arlott": [
+    {
+      "skins_name": "Lone Lancer"
+    },
+    {
+      "skins_name": "Wandering Spear"
+    },
+    {
+      "skins_name": "Fury of the Deep"
+    },
+    {
+      "skins_name": "Aeon of Twilight"
+    }
+  ],
+  "Benedetta": [
+    {
+      "skins_name": "Shadow Ranger"
+    },
+    {
+      "skins_name": "Honor Blade"
+    },
+    {
+      "skins_name": "Street Thrasher"
+    },
+    {
+      "skins_name": "Death Oath"
+    },
+    {
+      "skins_name": "Moonblade"
+    },
+    {
+      "skins_name": "Panigale V4S Rider"
+    },
+    {
+      "skins_name": "Quantum Edge"
+    },
+    {
+      "skins_name": "Phantom Mirage"
+    },
+    {
+      "skins_name": "Street Blow"
+    }
+  ],
+  "Fanny": [
+    {
+      "skins_name": "Blade of Kibou"
+    },
+    {
+      "skins_name": "Heart Afloat"
+    },
+    {
+      "skins_name": "Mikasa"
+    },
+    {
+      "skins_name": "Galactic Starhawk"
+    },
+    {
+      "skins_name": "P.ACE Fanny"
+    },
+    {
+      "skins_name": "Blade Dancer"
+    },
+    {
+      "skins_name": "Campus Youth"
+    },
+    {
+      "skins_name": "Punk Princess"
+    },
+    {
+      "skins_name": "Skylark"
+    },
+    {
+      "skins_name": "Royal Cavalry"
+    },
+    {
+      "skins_name": "Lifeguard"
+    },
+    {
+      "skins_name": "Lightborn - Ranger"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Imperial Warrior"
+    }
+  ],
+  "Gusion": [
+    {
+      "skins_name": "Soul Revelation"
+    },
+    {
+      "skins_name": "Dimension Walker"
+    },
+    {
+      "skins_name": "Desert Spider"
+    },
+    {
+      "skins_name": "Minato Namikaze"
+    },
+    {
+      "skins_name": "Holy Blade"
+    },
+    {
+      "skins_name": "Moonlight Sonata"
+    },
+    {
+      "skins_name": "Hairstylist"
+    },
+    {
+      "skins_name": "Cyber Ops"
+    },
+    {
+      "skins_name": "Dangerous Liaison"
+    },
+    {
+      "skins_name": "V.E.N.O.M. Emperor Scorpion"
+    },
+    {
+      "skins_name": "K'"
+    },
+    {
+      "skins_name": "Cosmic Gleam"
+    },
+    {
+      "skins_name": "Night Owl"
+    }
+  ],
+  "Hanzo": [
+    {
+      "skins_name": "Akuma Ninja"
+    },
+    {
+      "skins_name": "The Pale Phantom"
+    },
+    {
+      "skins_name": "Undead King"
+    },
+    {
+      "skins_name": "Insidious Tutor"
+    },
+    {
+      "skins_name": "Soulfire Netherlord"
+    },
+    {
+      "skins_name": "Fangs of Slaughter"
+    }
+  ],
+  "Harley": [
+    {
+      "skins_name": "Dreaming Koi"
+    },
+    {
+      "skins_name": "Mage Genius"
+    },
+    {
+      "skins_name": "Naughty Joker"
+    },
+    {
+      "skins_name": "Royal Magister"
+    },
+    {
+      "skins_name": "Referee"
+    },
+    {
+      "skins_name": "Great Inventor"
+    },
+    {
+      "skins_name": "V.E.N.O.M. Octopus"
+    },
+    {
+      "skins_name": "Dream Caster"
+    },
+    {
+      "skins_name": "Pulsar Prodigy"
+    },
+    {
+      "skins_name": "Star Magician"
+    }
+  ],
+  "Hayabusa": [
+    {
+      "skins_name": "Exorcist Hayabusa"
+    },
+    {
+      "skins_name": "Kakashi Hatake"
+    },
+    {
+      "skins_name": "Kitsune's Shadow"
+    },
+    {
+      "skins_name": "Crimson Shadow"
+    },
+    {
+      "skins_name": "Spacetime Shadow"
+    },
+    {
+      "skins_name": "Future Enforcer"
+    },
+    {
+      "skins_name": "Sushi Master"
+    },
+    {
+      "skins_name": "Experiment 21"
+    },
+    {
+      "skins_name": "Shadow of Obscurity"
+    },
+    {
+      "skins_name": "Biological Weapon"
+    },
+    {
+      "skins_name": "Shura"
+    },
+    {
+      "skins_name": "Techie Ninja"
+    }
+  ],
+  "Helcurt": [
+    {
+      "skins_name": "Shadowbringer"
+    },
+    {
+      "skins_name": "Exoracial Executer"
+    },
+    {
+      "skins_name": "Ice Scythe"
+    },
+    {
+      "skins_name": "Evolved Predator"
+    },
+    {
+      "skins_name": "Scorpio"
+    },
+    {
+      "skins_name": "Dream Prowler"
+    },
+    {
+      "skins_name": "Kaiju of the Deep"
+    }
+  ],
+  "Hilda": [
+    {
+      "skins_name": "Power of Megalith"
+    },
+    {
+      "skins_name": "Power of Wildness"
+    },
+    {
+      "skins_name": "Flower of the Wastes"
+    },
+    {
+      "skins_name": "Sacred Guard"
+    },
+    {
+      "skins_name": "Aries"
+    },
+    {
+      "skins_name": "Bass Craze"
+    },
+    {
+      "skins_name": "Guardian Battalion"
+    }
+  ],
+  "Hirara": [
+    {
+      "skins_name": "Fallen Scarlet"
+    },
+    {
+      "skins_name": "Gilded Embers"
+    }
+  ],
+  "Joy": [
+    {
+      "skins_name": "Flash of Miracle"
+    },
+    {
+      "skins_name": "Feline Ranger"
+    },
+    {
+      "skins_name": "Royal Protector"
+    },
+    {
+      "skins_name": "Exostar Scout"
+    },
+    {
+      "skins_name": "ONIC PH"
+    }
+  ],
+  "Julian": [
+    {
+      "skins_name": "Scarlet Raven"
+    },
+    {
+      "skins_name": "Silent Edge"
+    },
+    {
+      "skins_name": "Megumi Fushiguro"
+    },
+    {
+      "skins_name": "Meowkin Tracker"
+    },
+    {
+      "skins_name": "Kurapika"
+    },
+    {
+      "skins_name": "Itachi Uchiha"
+    }
+  ],
+  "Kadita": [
+    {
+      "skins_name": "Ocean Goddess"
+    },
+    {
+      "skins_name": "Atlantean Princess"
+    },
+    {
+      "skins_name": "White Robin"
+    },
+    {
+      "skins_name": "Anthem of Tides"
+    },
+    {
+      "skins_name": "Hydromancer"
+    },
+    {
+      "skins_name": "Heart of the Sea"
+    },
+    {
+      "skins_name": "Maiden of the Tide"
+    },
+    {
+      "skins_name": "Muse Of The Tide"
+    }
+  ],
+  "Karina": [
+    {
+      "skins_name": "Shadow Blade"
+    },
+    {
+      "skins_name": "Phantom Blade"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Black Pearl"
+    },
+    {
+      "skins_name": "Spider Lily"
+    },
+    {
+      "skins_name": "Doom Duelist"
+    },
+    {
+      "skins_name": "Leona"
+    },
+    {
+      "skins_name": "Gemini - Halo"
+    },
+    {
+      "skins_name": "Blood Moon"
+    },
+    {
+      "skins_name": "Keyforged Champion"
+    }
+  ],
+  "Lancelot": [
+    {
+      "skins_name": "Empyrean Flame"
+    },
+    {
+      "skins_name": "Marques of Blades"
+    },
+    {
+      "skins_name": "Guardian of the Shrine"
+    },
+    {
+      "skins_name": "Blade of Devotion"
+    },
+    {
+      "skins_name": "Blade of Roses"
+    },
+    {
+      "skins_name": "Masked Knight"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Royal Matador"
+    },
+    {
+      "skins_name": "Dark Earl"
+    },
+    {
+      "skins_name": "Pisces"
+    },
+    {
+      "skins_name": "Floral Knight"
+    },
+    {
+      "skins_name": "Swordmaster"
+    },
+    {
+      "skins_name": "Bren Esports"
+    }
+  ],
+  "Lesley": [
+    {
+      "skins_name": "Hawk-eyed Sniper"
+    },
+    {
+      "skins_name": "Deadeye Spectre"
+    },
+    {
+      "skins_name": "Meowkin Hunter"
+    },
+    {
+      "skins_name": "Duchess of Tides"
+    },
+    {
+      "skins_name": "Deadly Sniper"
+    },
+    {
+      "skins_name": "Royal Musketeer"
+    },
+    {
+      "skins_name": "General Rosa"
+    },
+    {
+      "skins_name": "Cheergunner"
+    },
+    {
+      "skins_name": "Stellaris Ghost"
+    },
+    {
+      "skins_name": "Dangerous Love"
+    },
+    {
+      "skins_name": "Angelic Agent"
+    },
+    {
+      "skins_name": "Lethal Lady"
+    },
+    {
+      "skins_name": "Falcon Mistress"
+    },
+    {
+      "skins_name": "Duchess Of Depths"
+    }
+  ],
+  "Ling": [
+    {
+      "skins_name": "Neobeast Ling"
+    },
+    {
+      "skins_name": "Cyan Finch"
+    },
+    {
+      "skins_name": "Fiery Dance"
+    },
+    {
+      "skins_name": "Street Punk"
+    },
+    {
+      "skins_name": "Night Shade"
+    },
+    {
+      "skins_name": "Cosmo Guard"
+    },
+    {
+      "skins_name": "Serene Plume"
+    },
+    {
+      "skins_name": "M-World Ling"
+    },
+    {
+      "skins_name": "Lord Shen"
+    },
+    {
+      "skins_name": "Phantom Current"
+    }
+  ],
+  "Mathilda": [
+    {
+      "skins_name": "Swift Plume"
+    },
+    {
+      "skins_name": "Unrestrained Delight"
+    },
+    {
+      "skins_name": "Floral Crown"
+    },
+    {
+      "skins_name": "Dream Groove"
+    },
+    {
+      "skins_name": "Arcane Verdict"
+    },
+    {
+      "skins_name": "Dreambound Pixie"
+    }
+  ],
+  "Natalia": [
+    {
+      "skins_name": "Bright Claw"
+    },
+    {
+      "skins_name": "Glass Blade"
+    },
+    {
+      "skins_name": "Phantom Dancer"
+    },
+    {
+      "skins_name": "Deadly Mamba"
+    },
+    {
+      "skins_name": "Midnight Raven"
+    },
+    {
+      "skins_name": "Grim Strangler"
+    },
+    {
+      "skins_name": "Cyber Spectre"
+    },
+    {
+      "skins_name": "Warrioress Paragon"
+    },
+    {
+      "skins_name": "Soul Huntress"
+    }
+  ],
+  "Nolan": [
+    {
+      "skins_name": "Cosmic Wayfinder"
+    },
+    {
+      "skins_name": "Voidwalker"
+    },
+    {
+      "skins_name": "Fashion Mogul"
+    },
+    {
+      "skins_name": "The Navigator"
+    },
+    {
+      "skins_name": "Fashion Magnate"
+    },
+    {
+      "skins_name": "Spectral Strider"
+    }
+  ],
+  "Paquito": [
+    {
+      "skins_name": "The Heavenly Fist"
+    },
+    {
+      "skins_name": "Death Blow"
+    },
+    {
+      "skins_name": "Manny Pacquiao"
+    },
+    {
+      "skins_name": "Underground Boxer"
+    },
+    {
+      "skins_name": "Fulgent Punch"
+    },
+    {
+      "skins_name": "Fist of Light"
+    },
+    {
+      "skins_name": "Blazing Tiger"
+    },
+    {
+      "skins_name": "Terry Bogard"
+    },
+    {
+      "skins_name": "Fist of Glory"
+    },
+    {
+      "skins_name": "Ryu (Outfit 2)"
+    }
+  ],
+  "Saber": [
+    {
+      "skins_name": "Wandering Sword"
+    },
+    {
+      "skins_name": "Golden Flash"
+    },
+    {
+      "skins_name": "Force Warrior"
+    },
+    {
+      "skins_name": "Codename - Storm"
+    },
+    {
+      "skins_name": "Fullmetal Ronin"
+    },
+    {
+      "skins_name": "S.A.B.E.R. Regulator"
+    },
+    {
+      "skins_name": "Onimaru"
+    },
+    {
+      "skins_name": "Silver Edge"
+    },
+    {
+      "skins_name": "Iron Hound"
+    }
+  ],
+  "Selena": [
+    {
+      "skins_name": "Curse of Cinder"
+    },
+    {
+      "skins_name": "Silverbolt Raiko"
+    },
+    {
+      "skins_name": "Abyssal Witch"
+    },
+    {
+      "skins_name": "Wasp Queen"
+    },
+    {
+      "skins_name": "Virus"
+    },
+    {
+      "skins_name": "Gemini - Shadow"
+    },
+    {
+      "skins_name": "Double Identity"
+    },
+    {
+      "skins_name": "Thunder Flash"
+    },
+    {
+      "skins_name": "Gothic Curse"
+    },
+    {
+      "skins_name": "S.T.U.N. Selena"
+    },
+    {
+      "skins_name": "Lady Vengeance"
+    }
+  ],
+  "Sora": [
+    {
+      "skins_name": "Shifting Cloud"
+    },
+    {
+      "skins_name": "Azure Cloud"
+    }
+  ],
+  "Suyou": [
+    {
+      "skins_name": "Mask of the Immortal"
+    },
+    {
+      "skins_name": "Venerated Vigilance"
+    },
+    {
+      "skins_name": "Sasuke Uchiha"
+    }
+  ],
+  "Yi Sun-shin": [
+    {
+      "skins_name": "Paenlong Legend"
+    },
+    {
+      "skins_name": "Major General"
+    },
+    {
+      "skins_name": "Apocalypse Agent"
+    },
+    {
+      "skins_name": "Roguish Ranger"
+    },
+    {
+      "skins_name": "Astral Wanderer"
+    },
+    {
+      "skins_name": "Azure Sentry"
+    },
+    {
+      "skins_name": "Fleet Warden"
+    },
+    {
+      "skins_name": "Surging Torrent"
+    },
+    {
+      "skins_name": "Wavebreaker"
+    }
+  ],
+  "Yin": [
+    {
+      "skins_name": "Martial Genius"
+    },
+    {
+      "skins_name": "Fists of Valor"
+    },
+    {
+      "skins_name": "M-World Yin"
+    },
+    {
+      "skins_name": "Yuji Itadori"
+    },
+    {
+      "skins_name": "Eternal Guardian"
+    },
+    {
+      "skins_name": "Eren"
+    },
+    {
+      "skins_name": "Immortal Guardian"
+    }
+  ],
+  "Zilong": [
+    {
+      "skins_name": "Empyrean Paladin"
+    },
+    {
+      "skins_name": "Storm Rider"
+    },
+    {
+      "skins_name": "Dragon of Prosperity"
+    },
+    {
+      "skins_name": "Ascendant of Flame"
+    },
+    {
+      "skins_name": "Spear of Dragon"
+    },
+    {
+      "skins_name": "Elite Warrior"
+    },
+    {
+      "skins_name": "Glorious General"
+    },
+    {
+      "skins_name": "Eastern Warrior"
+    },
+    {
+      "skins_name": "Blazing Lancer"
+    },
+    {
+      "skins_name": "Changbanpo Commander"
+    },
+    {
+      "skins_name": "Christmas Carnival"
+    },
+    {
+      "skins_name": "Loyal Spear"
+    },
+    {
+      "skins_name": "Summer Waves"
+    }
+  ]
+}

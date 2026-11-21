@@ -1,0 +1,30 @@
+{
+  "skins_name": "Sasuke Uchiha",
+  "release": "2025-05-02",
+  "availability": "Limited",
+  "rarity": "Grand",
+  "label": "Naruto",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Transient Immortal",
+      "skill_desc": "<font color=\"a6aafb\">Tap-casting</font> any skill puts Suyou in <font color=\"a6aafb\">Mortal Form</font>, granting 40 Movement Speed and reducing the interval between his Basic Attacks.\n<font color=\"a6aafb\">Hold-casting</font> any skill puts Suyou in <font color=\"a6aafb\">Immortal Form</font>, increasing his Basic Attack damage to 125% and granting 20% Physical Damage Reduction.\nIn this form, Suyou gains 1% Physical Damage Reduction for every 20 <font color=\"fba51f\">extra <1020></font> he has, up to 40%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Blade Surge",
+      "skill_desc": "<font color=\"a6aafb\">Tap</font>: Suyou throws his weapon in the target direction, dealing 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path. Suyou then blinks to the weapon's location, catches it, and performs a slash in the opposite direction, dealing 375<font color=\"fba51f\"> (+150% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n<font color=\"a6aafb\">Hold</font>: Suyou channels the Immortal's power and charges in the target direction, dealing 250<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the path. When hitting an enemy hero, he stops and stuns enemies in a rectangular area in front for 0.6s. The charge distance increases with the hold time.\n<font color=\"A4AAC7\">Suyou can be controlled while charging, but the skill cannot be interrupted</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Soul Sever",
+      "skill_desc": "<font color=\"a6aafb\">Tap</font>: Suyou performs a sweeping attack with his weapon, dealing <font color=\"fb1f1f\">Physical Damage</font> equal to 280<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> (+ 15% of target's <font color=\"26e407\">lost <1997></font>) to enemies in a fan-shaped area.\n\n<font color=\"a6aafb\">Hold</font>: Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 225<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each, while the final strike deals 360<font color=\"fba51f\"> (+128% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and recovers 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> HP for himself."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Evil Queller",
+      "skill_desc": "<font color=\"a6aafb\">Tap</font>: Suyou glides backward and swings his weapon in the target direction, dealing 420<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s.\n<font color=\"a6aafb\">Hold</font>: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target hit. The range increases with the hold time. \n<font color=\"A4AAC7\">Suyou can be controlled while charging, but the skill cannot be interrupted</font>."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "skins_name": "Quantum Polarity",
+  "release": "2025-09-26",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "MPL",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Dreamland Twist",
+      "skill_desc": "Lunox is twisted by the powers of Chaos and Order.\nWhen Lunox uses <font color=\"a6aafb\">Power of Order</font>, she gains 10% Spell Vamp. When she uses <font color=\"a6aafb\">Power of Chaos</font>, she gains 10% <font color=\"7f62fe\">Magic Penetration</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Starlight Pulse",
+      "skill_desc": "Lunox summons a rain of starlight upon nearby enemies, dealing 200<font color=\"62f8fe\"> (+110% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. The starlight then returns to Lunox, each recovering 75<font color=\"62f8fe\"> (+30% Total Magic Power)</font> HP to her (doubled when hitting enemy heroes).\n\nThis skill shares a cooldown with <font color=\"a6aafb\">Chaos Assault</font>. It grants <font color=\"a6aafb\">Power of Order</font> and ends the <font color=\"a6aafb\">Power of Chaos</font> state."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Chaos Assault ",
+      "skill_desc": "Lunox unleashes <font color=\"a6aafb\">Chaos Energy</font> at a target enemy, dealing 250<font color=\"62f8fe\"> (+120% Total Magic Power)</font> (+ 3.5% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> (+ 2.1% against creeps).\n\nThis skill shares its cooldown with <font color=\"a6aafb\">Starlight Pulse</font>. Using it grants <font color=\"a6aafb\">Power of Chaos</font> and ends the <font color=\"a6aafb\">Power of Order</font> state."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Cosmic Fission",
+      "skill_desc": "Lunox channels the power of Order and Chaos in the target direction, dealing 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path and slowing them by 40% for 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Order & Chaos",
+      "skill_desc": "Lunox is twisted by the powers of Chaos and Order.\n\nWhen <font color=\"a6aafb\">Power of Order</font> is dominant, she can cast <font color=\"a6aafb\">Brilliance</font> to become invincible and deal continuous damage to nearby enemies.\nWhen <font color=\"a6aafb\">Power of Chaos</font> is dominant, she can cast <font color=\"a6aafb\">Darkening</font> to blink in a target direction and greatly reduce the cooldown of <font color=\"a6aafb\">Chaos Assault</font> for a brief period."
+    }
+  ]
+}

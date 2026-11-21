@@ -1,0 +1,32 @@
+{
+  "skins_name": "Ruins Scavenger",
+  "release": "2019-12-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2019/12 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Wrath of the Abyss",
+      "skill_desc": "When Dyrroth's Rage reaches 50%, he enhances <font color=\"a6aafb\">Burst Strike</font> and <font color=\"a6aafb\">Spectre Step</font>.\n\nAfter every 2 Basic Attacks, Dyrroth releases a Circle Strike, dealing<font color=\"fba51f\"> (+150% Total Physical Attack)</font>-<font color=\"fba51f\"> (+180% Total Physical Attack)</font> (scales with level) <font color=\"fb1f1f\">Physical Damage</font> to enemies in the circle (enhanced damage does not apply to turrets), and recovering <font color=\"26e407\">7%</font>-<font color=\"26e407\">10%</font> <font color=\"26e407\"><1005></font> (scales with level, halved against minions or turrets). This strike does not trigger Attack Effect.\nEach time he damages an enemy, the cooldown of <font color=\"a6aafb\">Burst Strike</font> and <font color=\"a6aafb\">Spectre Step</font> is reduced by 1s.\n\nDyrroth recovers 2% - 5% Rage per second (scales with level)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Burst Strike",
+      "skill_desc": "Dyrroth releases a burst strike in a designated direction. Each burst deals 240<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies and slows them by 25% for 1.5s. (The damage decays against the same target and decreases to only 75% on minions.)\n\n<font color=\"a6aafb\">Abyss Enhanced</font>: Burst Strike has a longer range, deals 140% of the original damage, and its Slowing Effect is doubled."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Spectre Step",
+      "skill_desc": "Dyrroth dashes in the target direction. He stops upon reaching the max distance or hitting an enemy hero or creep, dealing 230<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slightly knocking them back.\n\n<font color=\"a6aafb\">Use Again</font>: Dyrroth locks onto a target and unleashes a Fatal Strike, dealing 345<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and reducing their <font color=\"fba51f\"><1060></font> by 40% for 4s.\n\n<font color=\"a6aafb\">Abyss Enhanced</font>: Fatal Strike reaches further and deals 150% of the original damage, slows the target by an extra 90%, and reduces their <font color=\"fba51f\"><1060></font> by 60% for 4s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Abysm Strike",
+      "skill_desc": "After a short delay, Dyrroth launches a destructive strike in the target direction, dealing 650<font color=\"fba51f\"> (+250% Extra Physical Attack)</font> (+ 25% of the target's <font color=\"26e407\">lost <1997></font>) as <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path, and slowing them by 55% for 0.8s.\nThis skill can only be interrupted by <font color=\"a6aafb\">Suppression</font>.\nDamage dealt to non-hero enemies is capped at 1500.  "
+    }
+  ]
+}

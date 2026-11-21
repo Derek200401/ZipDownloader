@@ -1,0 +1,30 @@
+{
+  "skins_name": "Soulwisp Mystic",
+  "release": "",
+  "availability": "",
+  "rarity": null,
+  "label": null,
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Crimson Butterflies",
+      "skill_desc": "Every time Zhuxin channels <font color=\"a6aafb\">Lantern Flare</font>, she converts the Mana spent into up to 15 <font color=\"a6aafb\">Crimson Butterflies</font> to follow her <font color=\"a6aafb\">Spirit Lantern</font>. After Zhuxin stops channeling <font color=\"a6aafb\">Lantern Flare</font>, the <font color=\"a6aafb\">Crimson Butterflies</font> will gradually disappear, each restoring 5% of her Max Mana.\nZhuxin has a naturally high base Max Mana, but it doesn't scale with her level."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Fluttering Grace",
+      "skill_desc": "Zhuxin deals 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in a fan-shaped area and applies 1 stack(s) of <font color=\"a6aafb\">Soul Snare</font>. Zhuxin also slows all enemy heroes hit by 20% and gains 20% of extra Movement Speed herself for 1.5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Lantern Flare",
+      "skill_desc": "<font color=\"a6aafb\">Hold</font>: Hold the skill button to move the <font color=\"a6aafb\">Spirit Lantern</font>. It deals 35<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in range every 0.33s (Magic Bonus increases to 60% against minions) and applies <font color=\"a6aafb\">Soul Snare</font> to enemy heroes hit. When an enemy hero reaches 10 stacks of <font color=\"a6aafb\">Soul Snare</font>, the <font color=\"a6aafb\">Crimson Butterflies</font> capture them, pulling them airborne for 1s.\n\n<font color=\"a6aafb\">Release</font>: Throw all captured enemies to the target location, dealing 200<font color=\"62f8fe\"> (+150% Total Magic Power)</font> (+ 10% captured target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area. If an enemy is hit multiple times, subsequent damage decays by 80%.\n\nAfter a target is captured, <font color=\"a6aafb\">Soul Snare</font> cannot stack on them again for 4s. During this time, this skill deals 15% extra damage to that target."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Crimson Beacon",
+      "skill_desc": "Zhuxin blinks to the target location, gaining a 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> shield and creating a field for 6s. The field deals 30<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and applies 1 stack of <font color=\"a6aafb\">Soul Snare</font> to nearby enemies every 0.5s."
+    }
+  ]
+}

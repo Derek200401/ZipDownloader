@@ -1,0 +1,33 @@
+{
+  "skins_name": "Abyssal Witch",
+  "release": "2018-07-24",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Symbiosis",
+      "skill_desc": "Selena can switch freely between her two forms.\n<font color=\"a6aafb\">Elven Form</font>: Selena applies <font color=\"a6aafb\">Abyssal Mark</font> when her skills deal damage. Marks last 8s and can stack up to 2 times.\n<font color=\"a6aafb\">Abyssal Form</font>: Selena's Basic Attacks become melee and deal <font color=\"62f8fe\"> (+25% Total Magic Power)</font> additional <font color=\"7f62fe\">Magic Damage</font>. Her skills deal 240-450<font color=\"62f8fe\"> (+40% Total Magic Power)</font> additional <font color=\"7f62fe\">Magic Damage</font> to enemies with <font color=\"a6aafb\">Abyssal Mark</font> and consume their mark stacks by 1. This damage is increased to 250% against Creeps and Minions."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Abyssal Trap",
+      "skill_desc": "Selena summons an Abyssal Devil to lurk underground. The Abyssal Devil will attach itself to any enemy that approaches, inflicting a stack of <font color=\"a6aafb\">Abyssal Mark</font> and reducing their Movement Speed by 50% for 1s. The Abyssal Devil then explodes, dealing 350<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area and reducing their Movement Speed by 50% for 1s.\n\nEach additional Abyssal Devil on an enemy increases the final damage by 50%.\n\nEach Abyssal Devil can lurk up to 60s and up to 3 Abyssal Devils can exist at the same time."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Abyssal Arrow",
+      "skill_desc": "Selena fires an abyssal wraith in the target direction that stops when it hits an enemy hero, Creep, or Summon, dealing 250<font color=\"62f8fe\"> (+20% Total Magic Power)</font> to 500<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the target hit and stunning them for 0.5s to 2.5s while revealing their locations (the damage and stun duration increase with the wraith's travel distance).\n\nThe wraith will pick up <font color=\"a6aafb\">Abyssal Trap</font> as it travels over it and will apply the <font color=\"a6aafb\">trap</font> to the enemy target upon stunning them.\n\nIf the wraith stuns an enemy for 0.9s or longer, Selena will gain 60% Movement Speed for 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Primal Darkness",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Selena gains 5 <font color=\"62f8fe\"><1030></font>.\n<font color=\"a6aafb\">Active</font>: Selena enters <font color=\"a6aafb\">Abyssal Form</font> and gains 20% Movement Speed for 0.8s. This also immediately resets the cooldown of <font color=\"a6aafb\">Soul Eater</font> and <font color=\"a6aafb\">Garotte</font>."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "skins_name": "Dark Angel",
+  "release": "2017-09-29",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Warmonger",
+      "skill_desc": "<font color=\"a6aafb\">Malice Energy</font> grants Argus an initial Crit Chance of 30%. Instead of dealing normal critical damage, Argus's Crits are converted into <font color=\"a6aafb\">Demonic Slash</font>, which ignores 30% of the target's <font color=\"fba51f\"><1060></font>, deals 90<font color=\"fba51f\"> (+25% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, and recovers 140 HP.\n\n<font color=\"a6aafb\">Demonic Slash</font> cannot Crit, but can still trigger Crit-related effects."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Demonic Grip",
+      "skill_desc": "<font color=\"a6aafb\">First Cast</font>: Argus extends a demonic hand in the target direction, dealing 125<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hero or creep hit and stunning them for 0.7s. Argus and the target are pulled toward each other, and the target is slowed by 40% for 2s. If no enemy is hit, Argus is pulled to the hand's endpoint instead.\n\n<font color=\"a6aafb\">Use Again</font>: Argus dashes forward and performs a wide slash, dealing 175<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Meteoric Sword",
+      "skill_desc": "After a short charge, Argus thrusts his <font color=\"a6aafb\">Meteoric Sword</font> in the target direction, dealing 120<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target.\nIf this hits an enemy hero, Argus stuns them for 0.3s and gains 30% Attack Speed for 3s. Meteoric Sword's damage also gains a 40% boost to Crit Chance and Crit Damage.\n\n<font color=\"a6aafb\">Meteoric Sword</font> counts as a Basic Attack and can trigger Attack Effects. Attack Speed shortens the charge time."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Eternal Evil",
+      "skill_desc": "Argus removes all control effects, gains <font color=\"a6aafb\">Death Immunity</font> for 4s, and deals 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies. This damage increases as Argus's <font color=\"26e407\">Current <1005></font> decreases, reaching 150% when it falls below 30%. When <font color=\"a6aafb\">Death Immunity</font> ends, Argus recovers HP equal to all damage dealt to enemy heroes during its duration.\n\n<font color=\"a6aafb\">Passive</font>: If Argus takes fatal damage while <font color=\"a6aafb\">Eternal Evil</font> is not on cooldown, he removes all control effects and automatically enters <font color=\"a6aafb\">Death Immunity</font> without triggering AOE Damage."
+    }
+  ]
+}

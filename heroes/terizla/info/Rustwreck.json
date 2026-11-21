@@ -1,0 +1,32 @@
+{
+  "skins_name": "Rustwreck",
+  "release": "2023-11-01",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S22",
+  "price": {
+    "other": "Season 22"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Body of Smith",
+      "skill_desc": "Terizla gains 1% extra Damage Reduction (up to 20 (+1*Hero Level)%) for every 2.5% HP lost.\nHe cannot gain extra Attack Speed and will convert every 1% extra Attack Speed into 1 <font color=\"fba51f\"><1020></font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Revenge Strike",
+      "skill_desc": "Terizla strikes the ground with his hammer, sending a fissure forward that deals 300<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Upon hitting its first target, the fissure burrows into them, slowing them by 15%. Terizla also gains 15% Movement Speed for 3.5s.\n\nThe fissure then explodes, dealing 300<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> (+ 20% of the target's <font color=\"26e407\">lost <1997></font>) <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Execution Strike",
+      "skill_desc": "Terizla swings his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal 90<font color=\"fba51f\"> (+135% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each, while the third deals 225<font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Enemies hit will also be slowed by 20% for 1.25s (the Slowing Effect can stack).\nDeals only 80% damage to Minions."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Penalty Zone",
+      "skill_desc": "Terizla jumps to the designated area, dealing 300<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each time."
+    }
+  ]
+}

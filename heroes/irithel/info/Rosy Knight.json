@@ -1,0 +1,30 @@
+{
+  "skins_name": "Rosy Knight",
+  "release": "",
+  "availability": "",
+  "rarity": null,
+  "label": null,
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Jungle Heart",
+      "skill_desc": "Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal <font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per bolt (inherits a portion of Attack Effects).\nMoving will build up <font color=\"a6aafb\">Jungle Heart</font>, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Strafe",
+      "skill_desc": "Irithel launches a volley of arrows on the target area, dealing 330<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within and reducing their <font color=\"fba51f\"><1060></font> by 15 for 3s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Force of The Queen",
+      "skill_desc": "Leo lets out a piercing roar, dealing 200<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slowing them by 40% for 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Heavy Crossbow",
+      "skill_desc": "Irithel commands Leo to leap in the target direction and empowers her crossbow for 10s.\nDuring this time, she gains 30 Movement Speed, generates <font color=\"a6aafb\">Jungle Heart</font> faster, and fires heavy bolts with her Basic Attacks, dealing 100<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby units."
+    }
+  ]
+}

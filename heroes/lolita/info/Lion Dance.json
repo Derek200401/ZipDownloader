@@ -1,0 +1,32 @@
+{
+  "skins_name": "Lion Dance",
+  "release": "2019-02",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "Lunar Festival",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Noumenon Energy Core",
+      "skill_desc": "Every 6s to 3s (scales with <font color=\"a6aafb\">Noumenon Blast</font> level), the Noumenon Energy Core grants Lolita 20<font color=\"26e407\"> (+2.5% Max HP)</font> <font color=\"62f8fe\">(+20% Total Magic Power)</font> shield. When Lolita casts a skill, the Noumenon Energy Core grants Lolita and nearby allied heroes an extra shield. This shield can stack up to 3 times and lasts 30s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Power Charge",
+      "skill_desc": "Lolita dashes in the target direction. Her next Basic Attack within 4s will perform a short dash to the target, dealing 400<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 0.5s. This damage is doubled against Minions."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Guardian's Reflection",
+      "skill_desc": "Lolita raises her shield and reflects all incoming ranged Basic Attacks and <font color=\"a6aafb\">Projectiles</font> in the direction of the shield for 3s. The shield will break after taking 1000<font color=\"26e407\"> (+15% Max HP)</font> damage.\n\nThe damage and effects from the Unique Passives of an attacker's equipment will not apply to the shield and will not be reflected. This skill can be interrupted by high level control effects."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Noumenon Blast",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Reduces the interval of <font color=\"a6aafb\">Noumenon Energy Core</font> by 1s each time this skill is upgraded.\n\n<font color=\"a6aafb\">Active</font>: Lolita begins charging for 2s while slowing enemies in a fan-shaped area by 60%. When the charging is complete or is stopped, Lolita slams her hammer on the ground, dealing up to 600<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and stunning them for up to 2s (damage and stun duration scale with charge time).\n\n<font color=\"a6aafb\">Use Again</font>: Lolita immediately stops charging and slams her hammer on the ground."
+    }
+  ]
+}

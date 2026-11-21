@@ -1,0 +1,32 @@
+{
+  "skins_name": "Locomotive",
+  "release": "2018",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S9",
+  "price": {
+    "other": "Season 9"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Wasteland Force",
+      "skill_desc": "If Franco takes no damage for 5s, he gains 10% Movement Speed, recovers 1% <font color=\"26e407\"><1005></font> per second, and begins gaining <font color=\"a6aafb\">Wasteland Force</font> (up to 10 stacks).\nFranco's next skill consumes all <font color=\"a6aafb\">Wasteland Force</font> stacks, increasing its damage by up to 150%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Iron Hook",
+      "skill_desc": "Franco launches an <font color=\"a6aafb\">Iron Hook</font> in the target direction. The hook snags the first enemy unit hit, dealing 400<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and dragging them to him."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Fury Shock",
+      "skill_desc": "Franco lashes out, dealing 300 (+ 4% of his <font color=\"26e407\"><1005></font>) <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies, slowing them by 70% for 1.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Bloody Hunt",
+      "skill_desc": "Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    }
+  ]
+}

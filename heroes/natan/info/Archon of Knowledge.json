@@ -1,0 +1,30 @@
+{
+  "skins_name": "Archon of Knowledge",
+  "release": "2025-07-18",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "MSC 2025",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Theory of Everything",
+      "skill_desc": "Natan gains a stack of <font color=\"a6aafb\">Entanglement</font> each time he or his <font color=\"a6aafb\">Reverse-Clone</font> hits an enemy with a skill (up to 6 stacks). Each stack lasts 2.5s and grants 7.5% Attack Speed and 5% Movement Speed.\nNatan's Basic Attack projectiles will return to Natan after reaching the maximum range, dealing an extra 30<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way (inherits a portion of Attack Effects). Hitting an enemy refreshes <font color=\"a6aafb\">Entanglement</font>'s duration."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Superposition",
+      "skill_desc": "Natan shoots a dense mass of energy in the target direction, dealing 225<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Interference!",
+      "skill_desc": "Natan launches a Gravitational Attractor in the target direction, dealing 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path and knocking them back.\nThe Attractor detonates upon reaching the maximum range, dealing 30<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"62f8fe\">(+12% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and knocking them back."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Entropy?",
+      "skill_desc": "Natan summons a <font color=\"a6aafb\">Reverse-Clone</font> that lasts 10s at 6 units away. The <font color=\"a6aafb\">Reverse-Clone</font> copies his moves and attacks in reverse and inherits 35% of his Basic Attack and skill damage.\n<font color=\"a6aafb\">Use Again</font>: Natan switches places with the <font color=\"a6aafb\">Reverse-Clone</font>.\n\nEach cast reduces other skills' remaining cooldowns by 50%. The <font color=\"a6aafb\">Reverse-Clone</font> will disappear if Natan is too far away."
+    }
+  ]
+}

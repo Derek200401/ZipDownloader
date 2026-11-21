@@ -1,0 +1,32 @@
+{
+  "skins_name": "Constellation",
+  "release": "2019-05-07",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Young Again",
+      "skill_desc": "Upon death, Diggie reverses time and returns to egg form, allowing him to move and use a new set of skills. He is untargetable in egg form and revives at his current location."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Auto Alarm Bomb",
+      "skill_desc": "Diggie flings an owl alarm to the target location that remains stationary for 25s or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals 350<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slows them by 30%.\n\nDiggie gains 2 stacks of <font color=\"a6aafb\">Dangerous Sparks</font> each time an enemy hero is hit by the explosion (up to 60 stacks), each stack increasing the skill's damage by 1%. He loses half the stacks upon death, but can gain 1 stack of <font color=\"a6aafb\">Dangerous Sparks</font> each time his skill hits an enemy hero when in egg form.\n\nUp to 5 owl alarms can exist at the same time."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Reverse Time",
+      "skill_desc": "Diggie marks the target enemy hero for 4s and pulls them back to their previous location after the duration ends, dealing 150<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and briefly slowing them by 80%.\n\nIf the enemy moves out of the circle, the pull will be triggered early."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Time Journey",
+      "skill_desc": "Diggie removes all debuffs on nearby allied heroes (including himself) and grants them a 650<font color=\"62f8fe\"> (+300% Total Magic Power)</font> shield and Control Immunity for 2s. He also gains 50% Movement Speed for 0.5s."
+    }
+  ]
+}

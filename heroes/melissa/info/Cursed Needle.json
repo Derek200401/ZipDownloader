@@ -1,0 +1,33 @@
+{
+  "skins_name": "Cursed Needle",
+  "release": "2022-02-22",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Doll Buster",
+      "skill_desc": "\"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\"\n\n(Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)"
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Falling!",
+      "skill_desc": "\"Watch me slide forward and boost Attack Speed for 2.5 seconds— Ah, that was just boring…\"\n\n\"<font color=\"a6aafb\">Muddles</font>, go that way!\"\n\"<font color=\"a6aafb\">Cuddles</font>, come here!\""
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Eyes on You!",
+      "skill_desc": "\"The plan goes like this: Throw <font color=\"a6aafb\">Muddles</font> out to pin down the bad guys, and then... I take center stage!\"\n\"I pierce the bad guys while <font color=\"a6aafb\">Giggles</font> hits <font color=\"a6aafb\">Muddles</font> to give them a beating too! Hee, fantastic!\"\n\n(<font color=\"a6aafb\">Muddles</font> deals 175<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60%, decaying over 1.5s. They can break the link by moving out of range. <font color=\"a6aafb\">Muddles</font> returns to Melissa early if no enemies are nearby, or immediately if Melissa moves too far away. When <font color=\"a6aafb\">Muddles</font> is present, attack it directly. Attacking it this way cannot trigger multi-hit damage. <font color=\"a6aafb\">Giggles</font> only hits <font color=\"a6aafb\">Muddles</font> when Melissa has a Basic Attack target. Each hit on <font color=\"a6aafb\">Muddles</font> deals 50% of that damage to linked enemies.)"
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Go Away!",
+      "skill_desc": "\"<font color=\"a6aafb\">Cuddles</font>, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!\"\n\n(Upon activation, Melissa gains a 300<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> shield and knocks back enemies in the area, dealing 500<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Enemies attempting to enter the field are knocked back, taking 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowed briefly. Movement skills are interrupted unless the target has Control Immunity.\nThe field will move with Melissa once, when she's about to move out of the boundary.)"
+    }
+  ]
+}

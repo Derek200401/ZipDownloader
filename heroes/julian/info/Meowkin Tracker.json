@@ -1,0 +1,30 @@
+{
+  "skins_name": "Meowkin Tracker",
+  "release": "2025-08-06",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "Mystic Meow",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Smith's Legacy",
+      "skill_desc": "After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level).\nAfter casting any skill, his Basic Attacks for the next 2s will deal 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and pull the target toward him (deals 85% damage to Creeps). Casting another skill extends the duration.\nJulian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Scythe",
+      "skill_desc": "Julian hurls a flying scythe in the target direction, dealing 420<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way and slowing them by 30% for 1s.\nThe scythe disappears upon hitting a non-minion enemy."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Sword",
+      "skill_desc": "Julian summons a flying sword and dashes in the target direction, dealing 400<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Chain",
+      "skill_desc": "Julian casts chains at the target location, dealing 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit after a short delay and immobilizing them for 1.2s."
+    }
+  ]
+}

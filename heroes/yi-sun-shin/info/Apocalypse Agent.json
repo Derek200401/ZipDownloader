@@ -1,0 +1,32 @@
+{
+  "skins_name": "Apocalypse Agent",
+  "release": "2017",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Heavenly Vow",
+      "skill_desc": "Yi Sun-shin attacks with his <font color=\"a6aafb\">longbow</font> or <font color=\"a6aafb\">glaive</font> based on his distance from the target.\n<font color=\"a6aafb\">Weapon Mastery</font>: After each weapon swap, his next 2 Basic Attacks gain extra Attack Speed and deal 70% and 55% Crit Damage respectively. He also gains 15% Movement Speed for 1s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Traceless",
+      "skill_desc": "Yi Sun-shin dashes forward and slashes with his glaive, dealing 150<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and gaining Control Immunity for 0.4s.\nEach <font color=\"a6aafb\">Weapon Mastery</font> triggered reduces the cooldown of <font color=\"a6aafb\">Traceless</font> by 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Blood Floods",
+      "skill_desc": "<font color=\"a6aafb\">Tap</font>: Yi Sun-shin slashes swiftly with his glaive, dealing 240<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n<font color=\"a6aafb\">Hold</font>: Yi Sun-shin shoots a powerful arrow forward, dealing 240<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target (damage scales with hold time, up to 200%).\nCasting this skill immediately triggers <font color=\"a6aafb\">Weapon Mastery</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Mountain Shocker",
+      "skill_desc": "Yi Sun-shin summons a turtle ship and reveals the whole map for 2s. The turtle ship lasts up to 10s, during which he gains 70% burst Movement Speed (decays to 20% over 2s).\n\n<font color=\"a6aafb\">Use Again</font>: Yi Sun-shin commands the turtle ship to ram the target area, dealing 160<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the center and stunning them for 0.8s. Meanwhile, he commands the naval fleet to launch 3 waves of cannon attacks over a larger area. Each wave deals 160<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slows enemies by 30%.\nCasting this skill immediately triggers <font color=\"a6aafb\">Weapon Mastery</font>."
+    }
+  ]
+}

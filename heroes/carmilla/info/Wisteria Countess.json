@@ -1,0 +1,32 @@
+{
+  "skins_name": "Wisteria Countess",
+  "release": "2020-01-17",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Vampire Pact",
+      "skill_desc": "Each time Carmilla deals damage to an enemy hero, she steals 6-13 <font color=\"26e407\"><1999></font> (scales with level) from them. The stolen <font color=\"26e407\"><1999></font> can stack up to 5 times and lasts 5s. However, Carmilla can only steal defense from the same enemy hero once every 3s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Crimson Flower",
+      "skill_desc": "Carmilla summons three Crimson Flowers that circle around her for 5s, dealing 85<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> each time they hit an enemy and slowing them by 6% for 0.8s (the slow effect stacks up to 30%).\n\nCarmilla recovers 45<font color=\"62f8fe\"> (+21% Total Magic Power)</font> HP each time a Crimson Flower deals damage (only recovers 30% of that amount when hitting minions)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Bloodbath",
+      "skill_desc": "Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5s.\n\n<font color=\"a6aafb\">Use Again</font>: Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing 150<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and stunning them for 0.6s. The damage and stun duration scale with the accumulation time (up to 100%)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Curse of Blood",
+      "skill_desc": "Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8s, enemies still within the area will take 450<font color=\"62f8fe\"> (+130% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, and will be immobilized for 1s, slowed by 30% and linked for 5s.\n\nWhen a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link."
+    }
+  ]
+}

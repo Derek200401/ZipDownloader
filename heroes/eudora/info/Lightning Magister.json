@@ -1,0 +1,30 @@
+{
+  "skins_name": "Lightning Magister",
+  "release": "",
+  "availability": "",
+  "rarity": null,
+  "label": null,
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Superconductor",
+      "skill_desc": "Eudora's skills inflict <font color=\"a6aafb\">Superconductor</font> for 5s on non-minion units hit and can trigger additional effects against enemies affected by <font color=\"a6aafb\">Superconductor</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Forked Lightning",
+      "skill_desc": "Eudora casts Forked Lightning in a fan-shaped area, dealing 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> (increased to 200% against minions) to enemies within.\n\nWhen hitting targets affected by <font color=\"a6aafb\">Superconductor</font>, Eudora forms a lightning chain with the target, gaining 40% Movement Speed during the chain for up to 1s.\nThe lightning chain deals 10<font color=\"62f8fe\"> (+4% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> over time and an additional 275<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> when it ends. If this hit lands, it reduces this skill's cooldown by 50%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ball Lightning",
+      "skill_desc": "Eudora hurls an orb of lightning at the target enemy, reducing their <font color=\"62f8fe\"><1070></font> by 10 for 1.8s, dealing 300<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, and stunning them for 1s.\n\nIf the target is affected by <font color=\"a6aafb\">Superconductor</font>, the lightning orb reduces nearby enemies' <font color=\"62f8fe\"><1070></font>, deals AOE damage centered on the target, and stuns all nearby enemies."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Thunder’s Wrath",
+      "skill_desc": "Eudora calls down lightning on the target area, dealing 540<font color=\"62f8fe\"> (+145% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to targets at the center. A second strike then deals 270<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the outer area.\n\nWhen <font color=\"a6aafb\">Thunder's Wrath</font> hits a target affected by <font color=\"a6aafb\">Superconductor</font>, it triggers a <font color=\"a6aafb\">Thunderburst</font> at the target's location after a short delay, dealing 300<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to them."
+    }
+  ]
+}

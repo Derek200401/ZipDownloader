@@ -1,0 +1,32 @@
+{
+  "skins_name": "Bursting Yama",
+  "release": "2016",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "399"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Rage Incarnate",
+      "skill_desc": "After casting a skill, Minotaur gains <font color=\"a6aafb\">Motivation</font>, recovering HP equal to 5 (+1*Hero Level)% of damage taken from enemy heroes for 3s.\n\n<font color=\"a6aafb\">Enraged State</font>: <font color=\"a6aafb\">Motivation</font> HP recovery is increased to 200%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Despair Stomp",
+      "skill_desc": "Minotaur jumps to the target location, dealing 325<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and briefly knocking them airborne. Enemies hit will also be slowed by 40% while Minotaur enhances his Basic Attacks to deal 25<font color=\"26e407\"> (+5% Max HP)</font> extra <font color=\"fb1f1f\">Physical Damage</font> for 2s.\n\n<font color=\"a6aafb\">Enraged</font>: Increases the AOE range and the damage dealt by 25<font color=\"26e407\"> (+5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Motivation Roar",
+      "skill_desc": "Minotaur heals himself and the nearby ally with the lowest HP, recovering 220<font color=\"62f8fe\"> (+60% Total Magic Power)</font> HP for both. He also recovers an additional 8% of his <font color=\"26e407\">lost <1997></font>.\n\n<font color=\"a6aafb\">Enraged</font>: Minotaur heals himself and all nearby allied heroes."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Minoan Fury",
+      "skill_desc": "Minotaur enters <font color=\"a6aafb\">Enraged</font> state and smashes the ground 3 times. The first 2 hits deal 180<font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slow them by 60%, while the final hit deals 200<font color=\"ffe63c\"> (+85% Total Physical Attack)</font> <font color=\"ffe63c\">True Damage</font> and knocks targets airborne for 0.8s. Minotaur is immune to control effects during this attack.\n\nThe <font color=\"a6aafb\">Enraged</font> state lasts 12s and enhances Minotaur's skills for the duration."
+    }
+  ]
+}

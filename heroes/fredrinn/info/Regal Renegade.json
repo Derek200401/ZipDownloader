@@ -1,0 +1,37 @@
+{
+  "skins_name": "Regal Renegade",
+  "release": "2022-08-12",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Crystalline Armor",
+      "skill_desc": "Fredrinn gains 1 <font color=\"a6aafb\">Combo Point</font> that lasts 5s each time his skill hits a non-minion enemy, up to 4 <font color=\"a6aafb\">Combo Points</font>. His Ultimates cost different numbers of <font color=\"a6aafb\">Combo Points</font>.\n\nFredrinn stores 100% of the damage he receives as <font color=\"a6aafb\">Crystal Energy</font>, which decays after 5s at a rate of 10% <font color=\"26e407\"><1005></font> per second.\nFredrinn can convert the stored <font color=\"a6aafb\">Crystal Energy</font> into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a <font color=\"a6aafb\">Combo Point</font> resets the decaying timer."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Piercing Strike",
+      "skill_desc": "Fredrinn thrusts his sword in the target direction, dealing 125<font color=\"26e407\"> (+7% Max HP)</font> <font color=\"fba51f\">(+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 30% for 2s. His next Basic Attack gains extra attack range and deals 85<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nThis skill deals 170% damage to non-hero enemies."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Brave Assault",
+      "skill_desc": "Fredrinn dashes in the target direction, dealing 140<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3s."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Energy Eruption",
+      "skill_desc": "Fredrinn deals 210<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and taunts them for 1s. Hitting a non-minion enemy grants Fredrinn 25 <font color=\"26e407\"><1999></font> for 3s and reduces the cooldowns of <font color=\"a6aafb\">Piercing Strike</font> and <font color=\"a6aafb\">Brave Assault</font> by 75%.\nThis skill costs 1 <font color=\"a6aafb\">Combo Point</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Appraiser's Wrath",
+      "skill_desc": "Fredrinn slams his sword in the target direction (this skill can only be interrupted by Suppression), dealing 600 plus 21% of his <font color=\"a6aafb\">Crystal Energy</font> as <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area after a short delay. Enemies in the center of the area take 175% damage. This skill doubles the conversion ratio based on damage dealt to enemy heroes from stored <font color=\"a6aafb\">Crystal Energy</font> to HP.\nThis skill costs 3 <font color=\"a6aafb\">Combo Points</font>."
+    }
+  ]
+}

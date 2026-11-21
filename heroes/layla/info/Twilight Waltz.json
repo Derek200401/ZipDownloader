@@ -1,0 +1,32 @@
+{
+  "skins_name": "Twilight Waltz",
+  "release": "2023-10-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2023/10 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Malefic Gun",
+      "skill_desc": "Layla's damage increases with distance, from 100% to 115% at 6 units or farther. This effect does not apply to Turrets."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Malefic Bomb",
+      "skill_desc": "Layla fires a <font color=\"a6aafb\">Malefic Bomb</font> in the target direction, dealing 200<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hit (can Crit).\n\nIf <font color=\"a6aafb\">Malefic Bomb</font> hits an enemy, Layla's Basic Attacks and <font color=\"a6aafb\">Void Projectile</font> gain extra range for 3s. She also gains 60% Movement Speed that decays over 1.2s. The Movement Speed boost lasts twice as long if an enemy hero is hit."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Void Projectile",
+      "skill_desc": "Layla fires an orb of Malefic Energy at the target, dealing 170<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby enemies and applying a <font color=\"a6aafb\">Magic Mark</font> to the target for 3s.\nWhen Layla hits an enemy with a <font color=\"a6aafb\">Magic Mark</font>, she deals 100<font color=\"fba51f\"> (+35% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby enemies, stunning them for 0.25s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Destruction Rush",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: The range of <font color=\"a6aafb\">Void Projectile</font> and Basic Attacks is increased by 0.6 units. Layla's sight range is slightly increased each time this skill is upgraded. \n<font color=\"a6aafb\">Active</font>: Layla fires a blast of Malefic Energy in the target direction, dealing 500<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line."
+    }
+  ]
+}

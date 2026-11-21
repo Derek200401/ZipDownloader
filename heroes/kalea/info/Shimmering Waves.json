@@ -1,0 +1,32 @@
+{
+  "skins_name": "Shimmering Waves",
+  "release": "2025-03-19",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Surge of Life",
+      "skill_desc": "After casting a skill, Kalea creates a <font color=\"a6aafb\">Water Zone</font> on the ground. When Kalea casts a skill within this zone, she absorbs it to enhance her next 3 Basic Attacks with different effects and gains 60% Movement Speed for 1s:\n<font color=\"a6aafb\">First Basic Attack</font>: Kalea dashes to the target, dealing <font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n<font color=\"a6aafb\">Second Basic Attack</font>: Kalea unleashes a flurry of attacks, dealing 140 (+8*Hero Level)<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and recovering <font color=\"26e407\"> (+12% Max HP)</font>  <font color=\"62f8fe\">(+80% Total Magic Power)</font> HP to herself and the nearby ally with the lowest HP.\n<font color=\"a6aafb\">Third Basic Attack</font>: Kalea strikes around the target with her tail, dealing 120 (+12*Hero Level)<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and creating a new <font color=\"a6aafb\">Water Zone</font>. (Enhanced Basic Attacks are not affected by Attack Speed.)\n<font color=\"A4AAC7\">Control effects can affect Kalea during the third Enhanced Basic Attack, but cannot interrupt it.</font>"
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Wavebreaker",
+      "skill_desc": "Kalea slams her fist into the ground, creating a wave that deals 200<font color=\"26e407\"> (+5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slows them by 40% for 1.5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Tidal Strike",
+      "skill_desc": "Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s (unaffected by Resilience) while dealing 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nIf she collides with an obstacle or touches the edge of a <font color=\"a6aafb\">Water Zone</font> during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking enemies airborne for 0.6s (unaffected by Resilience)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Tsunami Slam",
+      "skill_desc": "Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300<font color=\"26e407\"> (+14% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby enemies."
+    }
+  ]
+}

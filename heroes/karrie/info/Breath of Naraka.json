@@ -1,0 +1,30 @@
+{
+  "skins_name": "Breath of Naraka",
+  "release": "2025-02-07",
+  "availability": "Limited",
+  "rarity": "Grand",
+  "label": "Kishin Densetsu",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Lightwheel Mark",
+      "skill_desc": "Karrie's Basic Attacks and skills apply a stack of <font color=\"a6aafb\">Lightwheel Mark</font> on hit.\nOnce a target has 5 stacks of <font color=\"a6aafb\">Lightwheel Marks</font>, the marks will turn into a lightwheel, dealing <font color=\"ffe63c\">True Damage</font> equal to 5 of the target's <font color=\"26e407\"><1005></font> to them (only up to 5 damage against creeps)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Spinning Lightwheel",
+      "skill_desc": "Karrie releases a sphere of surging energy in the target direction, dealing 250<font color=\"fba51f\"> (+20% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing 150<font color=\"fba51f\"> (+10% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slowing them by 80% for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Phantom Step",
+      "skill_desc": "Karrie dashes in the target direction while throwing a lightwheel at the nearest enemy, dealing 150<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and applying a stack of <font color=\"a6aafb\">Lightwheel Mark</font> on them.\n\nWhen in <font color=\"a6aafb\">Dual Wield</font> state, Karrie throws two lightwheels instead."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Speedy Lightwheel",
+      "skill_desc": "Karrie enters <font color=\"a6aafb\">Dual Wield</font> state for 10s, gaining 30% Movement Speed. Each Basic Attack deals 50<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and throws 2 lightwheels that inherit a portion of Attack Effects."
+    }
+  ]
+}

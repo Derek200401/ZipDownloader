@@ -1,0 +1,32 @@
+{
+  "skins_name": "Exoracial Executer",
+  "release": "2017-12-12",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Shadow of Styx",
+      "skill_desc": "Helcurt remains in <font color=\"a6aafb\">Prowler</font> state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating <font color=\"fba51f\"> (+30% Total Physical Attack)</font> HP if he has not dealt any damage.\nHe gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4s upon being spotted and leaves <font color=\"a6aafb\">Prowler</font> state 0.75s later.\nAny hero killed after being hit by Helcurt leaves a <font color=\"a6aafb\">dark fog</font> that explodes and spreads with a cooldown of 10s. Helcurt <font color=\"a6aafb\">Conceals</font> himself while within the <font color=\"a6aafb\">dark fog</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Hidden Terror",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: When Helcurt is in the <font color=\"a6aafb\">Prowler</font> state, <font color=\"a6aafb\">Terrify</font> also affects enemy heroes hit and briefly reveals them. Its cooldown decreases 3 times as fast as normal.\n<font color=\"a6aafb\">Active</font>: Helcurt blinks to the target location and deals 150<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area, reducing their Movement Speed by 60% for 0.75s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Deadly Stinger",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Helcurt gains 1 <font color=\"a6aafb\">Deadly Stinger</font> for every 1.5s spent in <font color=\"a6aafb\">Prowler</font> state or on each Basic Attack. Up to 5 <font color=\"a6aafb\">Deadly Stingers</font> can be stored.\n\n<font color=\"a6aafb\">Active</font>: Helcurt fires all <font color=\"a6aafb\">Deadly Stingers</font> forward, each dealing 180<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies (minions and creeps take only 70% of the damage).\n<font color=\"a6aafb\">Deadly Stinger</font> counts as a Basic Attack but cannot Crit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Dark Night Falls",
+      "skill_desc": "Helcurt summons the Dark Night, reducing all enemies' sight range and blocking ally vision sharing for 3s. During Dark Night, Helcurt gains 40% extra Movement Speed.\n\nThe Dark Night makes it easier for Helcurt to leave enemies' sight range."
+    }
+  ]
+}

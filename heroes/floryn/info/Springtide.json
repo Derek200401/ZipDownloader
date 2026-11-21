@@ -1,0 +1,32 @@
+{
+  "skins_name": "Springtide",
+  "release": "2021-09-22",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Dew",
+      "skill_desc": "Dew's <font color=\"a6aafb\">Lantern</font> will permanently increase Floryn's attributes by a small amount.\n\nAfter leaving combat for 5s, Floryn can share the <font color=\"a6aafb\">Flower of Hope</font> with an allied hero (30s cooldown), which will grant them a 100<font color=\"62f8fe\"> (+70% Total Magic Power)</font> shield each time they are healed by Floryn.\n\nFloryn will never sell the <font color=\"a6aafb\">Lantern</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Sow",
+      "skill_desc": "Floryn tosses an Energy Seed at the target enemy, dealing 180<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their <font color=\"26e407\">HP</font> by 175<font color=\"62f8fe\"> (+90% Total Magic Power)</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Sprout",
+      "skill_desc": "Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing 175<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and stunning them for 0.5s (and revealing their positions briefly)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Bloom",
+      "skill_desc": "Floryn resonates with Dew's power, recovering 250<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"26e407\">HP</font> for all allied heroes 2 time(s) no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s."
+    }
+  ]
+}

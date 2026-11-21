@@ -1,0 +1,32 @@
+{
+  "skins_name": "Kannagi",
+  "release": "2023-11-01",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Windtalk",
+      "skill_desc": "Vale gains 1 stack of <font color=\"a6aafb\">Windtalk</font> each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Wind Blade",
+      "skill_desc": "Vale unleashes two wind blades toward the left and right of a target area, each dealing 250<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Windblow",
+      "skill_desc": "Vale sends a whirlwind in the target direction, dealing 350<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and knocking them airborne for 0.8s (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, it will remain for 1.6s while continuously dealing a total of 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in range."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Windstorm",
+      "skill_desc": "Vale summons a windstorm at the target location, dealing a total of 150<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1s, the windstorm will explode, dealing 900<font color=\"62f8fe\"> (+240% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\n\nThe remaining whirlwinds will also be pulled into the center."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Commandment",
+  "release": "2018-04-25",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Wings of Lightning",
+      "skill_desc": "Kaja's skill damage applies the <font color=\"a6aafb\">Paralysis</font> effect to enemy units, briefly slowing heroes or summoned units and reducing their damage by 8% for 5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ring of Order",
+      "skill_desc": "Kaja summons a ring of Primal Lightning that expands and returns to him.\nEnemies hit take 160<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and recover 78<font color=\"62f8fe\"> (+45% Total Magic Power)</font> HP to Kaja. Healing from subsequent hits is reduced to 33%."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Soaring Wings",
+      "skill_desc": "Kaja dashes to the target area, gaining Control Immunity during the dash. On arrival, he deals 250<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, knocking back and stunning nearby enemies for 0.5s, then enters the <font color=\"a6aafb\">Soaring</font> state.\nThe <font color=\"a6aafb\">Soaring</font> state lasts 6.6s. During this time, he ignores obstacles and gains 15% Movement Speed, but his turn radius is restricted. He can use Basic Attacks while moving, dealing 100<font color=\"62f8fe\"> (+25% Total Magic Power)</font> (+ 2% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> to surrounding enemies. Each Basic Attack hit extends the <font color=\"a6aafb\">Soaring</font> state by 0.2s.\nUpon entering the <font color=\"a6aafb\">Soaring</font> state, the cooldown of <font color=\"a6aafb\">Soaring Wings</font> is reduced to 4s (unaffected by Cooldown Reduction). Hitting an enemy with <font color=\"a6aafb\">Soaring Wings</font> extends the <font color=\"a6aafb\">Soaring</font> state by 2.6s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Divine Binding",
+      "skill_desc": "Kaja hurls a <font color=\"a6aafb\">Primal Lightning Lasso</font> at the target area. After a 0.5s delay, all enemy heroes remaining in the area take 360<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and are trapped for 2.5s.\n\nWhile active, Kaja can drag the lasso, shrinking its radius and pulling enemies at the boundary along with him (does not interrupt their skills)."
+    }
+  ]
+}

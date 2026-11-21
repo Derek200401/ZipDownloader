@@ -1,0 +1,32 @@
+{
+  "skins_name": "Emerald Guardian",
+  "release": "2018-11-22",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "other": "M3 Pass"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Deadly Thorns",
+      "skill_desc": "Whenever Belerick takes 50 or more damage, he has a 25% chance to shoot the nearest enemy unit, dealing 55 (+5*Hero Level) (+ 1.8% of his <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> (scales with level). This attack can be triggered once every 0.4s.\n\nHis HP obtained from equipment and emblems is increased by 30%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ancient Seed",
+      "skill_desc": "Belerick releases vines in a designated direction, dealing 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the path and slowing them by 25%. Ancient Seeds left by the vines will erupt into thorns after 0.8s, dealing 200<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies on the path and taunting them for 1.2s.\n\nDeals 80% extra damage against Minions."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Nature's Strike",
+      "skill_desc": "Belerick gains 80% Movement Speed (decays over 2s) and enhances his next Basic Attack.\n\nThe enhanced Basic Attack deals 300<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slows the target by 60% for 1.4s. Belerick also recovers HP equal to <font color=\"26e407\">240 + 10% of his <1998></font>.\n\nEach time <font color=\"a6aafb\">Deadly Thorns</font> is triggered, this skill's cooldown is reduced by 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Wrath of Dryad",
+      "skill_desc": "Belerick conjures spreading vines around him, dealing 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the area 4 times, taunting and slowing them for 1.5s."
+    }
+  ]
+}

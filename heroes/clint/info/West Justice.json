@@ -1,0 +1,33 @@
+{
+  "skins_name": "West Justice",
+  "release": "2016",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "15000",
+    "ticket": "399"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Double Shot",
+      "skill_desc": "After each skill cast, Clint's next Basic Attack within 4s penetrates a line of enemies, dealing 150<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. This damage can trigger Attack Effects, and the part affected by <font color=\"fba51f\"><1020></font> can Crit."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Quick Draw",
+      "skill_desc": "Clint rapidly fires 5 bullets in the target direction, each dealing 250<font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the enemy hit.\nThe bullets spread evenly across a fan-shaped area. Enemies hit by multiple bullets take reduced damage from each bullet after the first."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Trapping Recoil",
+      "skill_desc": "Clint shoots a trap net in the target direction, slightly jumping back while dealing 140<font color=\"fba51f\"> (+30% Total Physical Attack)</font><font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hit and immobilizing them for 1.2s.\n\nSuccessfully hitting an enemy reduces the cooldown of this skill by 40%."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Grenade Bombardment",
+      "skill_desc": "Clint launches a grenade in the target direction that explodes on the first enemy hit, dealing 280<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 50% for 0.5s.\n\nClint gains a grenade charge every 10s (up to 3)."
+    }
+  ]
+}

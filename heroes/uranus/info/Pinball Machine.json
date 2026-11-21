@@ -1,0 +1,32 @@
+{
+  "skins_name": "Pinball Machine",
+  "release": "2022-05-25",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Radiance",
+      "skill_desc": "Each time Uranus takes damage, he gains a stack of <font color=\"a6aafb\">Radiance</font>. Each stack recovers 1.2-11.2 HP (increases with level) every 0.8s for 10s, up to 20 stacks.\nUranus's Basic Attacks deal <font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"a6aafb\">(+ 4-8 × Radiance stacks)</font> <font color=\"7f62fe\">Magic Damage</font> (increases with level)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ionic Edge",
+      "skill_desc": "Uranus releases 2 energy blades that orbit around him, dealing 155<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"a6aafb\">(+6 × Radiance stacks)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30% for 2s.\nEach blade can only damage the same target once."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Transcendent Ward",
+      "skill_desc": "Uranus charges to the target location, dealing 80<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies along the way, and 160<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies at the target location and slowing them by 25%. Uranus also generates a 300<font color=\"62f8fe\"> (+200% Total Magic Power)</font> shield for 4s.\n\nThe shield explodes at the end of its duration or when destroyed, dealing 300<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies nearby."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Consecration",
+      "skill_desc": "Uranus unleashes the energy stored within his body, removing slow effects on himself, recovering 200 HP, and gaining 60% Movement Speed for 8s (decays over time).\n\nUranus directly gains 5 stacks of Radiance, increasing shields received and HP Regen by 20% for 8s."
+    }
+  ]
+}

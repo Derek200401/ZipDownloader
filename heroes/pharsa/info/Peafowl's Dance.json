@@ -1,0 +1,37 @@
+{
+  "skins_name": "Peafowl's Dance",
+  "release": "2018-04-22",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Spiritual Unity",
+      "skill_desc": "Every 5s to 8s (scales with <font color=\"a6aafb\">Feathered Air Strike</font> level), Verri enters the <font color=\"a6aafb\">Hunting</font> state. On Pharsa's next attack against an enemy hero, Verri deals extra <font color=\"7f62fe\">Magic Damage</font> equal to 8% of the target's <font color=\"26e407\"><1005></font> (+ 1% per 200 <font color=\"62f8fe\"><1030></font>) and slows them by 60% for 1s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Curse of Crow",
+      "skill_desc": "Pharsa unleashes a blast of magic at the target location, dealing 300<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and marking them for 4s.\n\nWhen Pharsa hits a marked enemy with a Basic Attack or active skill, the mark is consumed, stunning them for 1s.\n\nMarked enemies will have their positions revealed."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Energy Impact",
+      "skill_desc": "Pharsa releases magic energy in the target direction, dealing 475<font color=\"62f8fe\"> (+145% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Feathered Air Strike",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Each level-up reduces <font color=\"a6aafb\">Spiritual Unity</font>'s interval by 1s.\n<font color=\"a6aafb\">Active</font>: Pharsa takes flight for 8s and bombards the target area, dealing 530<font color=\"62f8fe\"> (+160% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within. This skill can be cast up to 4 times during the flight."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Wings by Wings",
+      "skill_desc": "Pharsa turns into mist and wraps around Verri, gaining 150% extra Movement Speed (decays over time) and the ability to fly over terrain for 5s.\n\nThis state ends immediately when she is controlled or uses a Basic Attack or skill."
+    }
+  ]
+}

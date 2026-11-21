@@ -1,0 +1,32 @@
+{
+  "skins_name": "Blazing Shadow",
+  "release": "2020-12-20",
+  "availability": "Available",
+  "rarity": "Deluxe",
+  "label": "Blazing Bounties",
+  "price": {
+    "dm": "899"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Starmoon Casket",
+      "skill_desc": "Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals <font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and 100<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nThe damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Frostmoon Shield",
+      "skill_desc": "Esmeralda gains a 500<font color=\"62f8fe\"> (+150% Total Magic Power)</font> shield and 40% Movement Speed that rapidly decays over 4s. Meanwhile, she gradually transforms the shields of nearby enemies into her own shield, capped at 50% of her <font color=\"26e407\"><1005></font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Stardust Dance",
+      "skill_desc": "Esmeralda waves Stardust and Frostmoon, dealing 240<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and 300<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies. Each time she deals damage to a hero, the cooldown of <font color=\"a6aafb\">Frostmoon Shield</font> is reduced by 1.5s (damaging non-hero units grants a 0.5s reduction) and the enemy's Movement Speed is reduced by 20% for 1.5s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Falling Starmoon",
+      "skill_desc": "Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer this skill is channeled, the longer the cast range.\n\n<font color=\"a6aafb\">Use Again</font>: Esmeralda casts Stardust at the target location, dealing 350<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, and then blinks to the target location and casts Frostmoon, dealing 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and immobilizing enemies in the area for 1s."
+    }
+  ]
+}

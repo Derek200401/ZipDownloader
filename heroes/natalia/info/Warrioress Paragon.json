@@ -1,0 +1,30 @@
+{
+  "skins_name": "Warrioress Paragon",
+  "release": "2024-07-31",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Assassin Instinct",
+      "skill_desc": "If Natalia stays in a bush without taking damage for 1s, she will enter <font color=\"a6aafb\">Camouflage</font> state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal 200<font color=\"fba51f\"> (+110% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> while silencing the target for 0.25s.\n\nDealing damage, taking damage or using skills will immediately end the <font color=\"a6aafb\">Camouflage</font> state, but her next Basic Attack will remain enhanced for another 1s.\n\nNatalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Claw Dash",
+      "skill_desc": "Natalia dashes in the target direction, dealing 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in her path.\n\n<font color=\"a6aafb\">Use Again</font>: Hitting an enemy allows Natalia to recast this skill within 5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Smoke Bomb",
+      "skill_desc": "Natalia releases a <font color=\"a6aafb\">Smoke Bomb</font> at her location, slowing enemies within by 25% while Natalia becomes immune to enemy Basic Attacks for 4s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "The Hunt",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Natalia gains 15% Crit Chance.\n\n<font color=\"a6aafb\">Active</font>: Natalia immediately enters the <font color=\"a6aafb\">Assassin Instinct</font> state. She can store up to 2 Ultimate charges, and each charge has a recharge time of 30s. Killing creeps reduces the remaining recharge time by 50% of the full recharge time."
+    }
+  ]
+}

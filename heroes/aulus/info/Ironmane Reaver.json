@@ -1,0 +1,32 @@
+{
+  "skins_name": "Ironmane Reaver",
+  "release": "2024-09-10",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S34",
+  "price": {
+    "other": "Season 34"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Fighting Spirit",
+      "skill_desc": "Whenever Aulus deals skill damage to a unit, he gains an enhanced Basic Attack for 2s (capped at 4s).\nEnhanced Basic Attack: Aulus raises his axe and slams it into the ground, dealing 120 (+12*Hero Level)<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a line and recovering 15<font color=\"fba51f\"> (+20% Total Physical Attack)</font> HP. Enemies hit are slowed by 10% for 1s. Aulus also gains 0.5 Attack Range and 20% Attack Speed for 1s.\nEnhanced Basic Attack deals 240 (+24*Hero Level)<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to creeps."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Aulus, Charge!",
+      "skill_desc": "Aulus starts accumulating <font color=\"a6aafb\">Fighting Spirit</font>, removes all slow effects, and gains 30% extra Movement Speed for 5s.\n\nIf Aulus does not take high-level control effects within 2s, he will enter the <font color=\"a6aafb\">Enraged</font> state and gain Control Immunity."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "The Power of Axe",
+      "skill_desc": "Aulus swings his axe, dealing 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area and stunning them for 0.3s.\n\n<font color=\"a6aafb\">Use Again</font>: Aulus dashes forward and smashes the ground, dealing 240<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Cleaving Axe",
+      "skill_desc": "Aulus repeatedly swings his axe at nearby enemies, dealing 150<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing 450<font color=\"fba51f\"> (+180% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a large area.\n\nDuring this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Frost Wing",
+  "release": "2025-04-03",
+  "availability": "Available",
+  "rarity": "Deluxe",
+  "label": "Dragon Tamer",
+  "price": {
+    "dm": "899"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Aerial Dominance",
+      "skill_desc": "Kimmy can move and aim in different directions while using her Spray Gun, but she cannot lock onto a specific target. Each <font color=\"a6aafb\">Chemical Bolt</font> deals <font color=\"fba51f\"> (+18% Total Physical Attack)</font> <font color=\"62f8fe\">(+24% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Hitting enemy heroes or non-hero units restores 6 / 3 Starlium, respectively. At max Starlium, she continuously consumes it to enhance her Basic Attacks, making them deal <font color=\"fba51f\"> (+22.5% Total Physical Attack)</font> <font color=\"62f8fe\">(+30% Total Magic Power)</font> damage and pierce targets (enhanced Basic Attacks only benefit from 50% Spell Vamp).\nKimmy can keep moving while shooting and does not benefit from Attack Speed Bonus. Every 1% Attack Speed gained is converted to 1 <font color=\"62f8fe\"><1030></font>.\nKimmy's Basic Attacks only deal 60% damage to Turrets."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Anti-Grav Thruster",
+      "skill_desc": "Kimmy uses her jetpack to take flight, removing and becoming immune to slow effects. She can pass through terrain and gains 120% extra Movement Speed that decays over 1s. During the flight, she continuously fires 4 <font color=\"a6aafb\">Chemical Bolts</font> at nearby enemies, each dealing 20<font color=\"fba51f\"> (+25% Total Physical Attack)</font> <font color=\"62f8fe\">(+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing them by 50% for 0.5s.\nKimmy does not consume Starlium during flight."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Starlium Beam",
+      "skill_desc": "Kimmy fires a <font color=\"a6aafb\">Starlium Beam</font> in the target direction, immobilizing enemies in its path and dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> for 1s.\nEach enemy hero hit grants 20 Starlium."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Traction Pulse",
+      "skill_desc": "Kimmy charges up and fires a <font color=\"a6aafb\">Traction Pulse</font> in the target direction. Upon hitting an enemy or reaching its max range, it explodes, dealing 150<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"62f8fe\">(+54% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and creating a force field that slows enemies within by 50%.\n\nAfter 1s, the field contracts, pulling enemy heroes within it to its center and dealing 15% of their <font color=\"26e407\">current <1005></font> as <font color=\"7f62fe\">Magic Damage</font>. It also slows them by 50% for 2s. Each enemy hero hit grants Kimmy 40 Starlium."
+    }
+  ]
+}

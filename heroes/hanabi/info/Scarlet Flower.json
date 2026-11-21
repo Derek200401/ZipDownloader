@@ -1,0 +1,33 @@
+{
+  "skins_name": "Scarlet Flower",
+  "release": "2018-04-17",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Ninjutsu: Petal Barrage",
+      "skill_desc": "Hanabi's Basic Attacks and skills launch <font color=\"a6aafb\">Petal Blades</font> upon hitting a target, dealing 30% damage and bouncing up to 4 times to nearby enemies. <font color=\"a6aafb\">Petal Blades</font> launched by Basic Attacks inherit Attack Effects.\nIf bounces from the same Basic Attack or skill hit the same target multiple times, subsequent bounces deal 30% less damage."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Ninjutsu: Equinox",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Whenever Hanabi has a shield from any source, she is immune to control effects.\n<font color=\"a6aafb\">Active</font>: Hanabi gains a 300<font color=\"fba51f\"> (+40% Total Physical Attack)</font> shield for 5s. When the shield is active, she gains 20% Movement Speed and 25% Attack Speed, and 20% of her damage dealt to enemy heroes is added to this shield (only 10% of the damage dealt to non-hero units is added). This shield cannot exceed 50% of her <font color=\"26e407\"><1005></font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ninjutsu: Soul Scroll",
+      "skill_desc": "Hanabi fires the energy Kunai in the targeted direction, dealing 350<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way and reducing their Movement Speed by 60% for 1s. Enemy units hit will also be marked, allowing Hanabi's next Bounce Damage from Basic Attacks to deal 30<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> on them with no damage decay."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Forbidden Jutsu: Higanbana",
+      "skill_desc": "Hanabi throws Higanbana in the targeted direction, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hero hit and immobilizing them for 0.8s. After 1s, Higanbana will bloom at the location of the first hit, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies. Subsequent hits on the same target decay to 30% damage."
+    }
+  ]
+}

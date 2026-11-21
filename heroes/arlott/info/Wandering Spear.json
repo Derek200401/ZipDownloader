@@ -1,0 +1,32 @@
+{
+  "skins_name": "Wandering Spear",
+  "release": "2023-02-14",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Demon Gaze",
+      "skill_desc": "Arlott possesses a demonic eye that will <font color=\"a6aafb\">Mark</font> enemy units near Arlott that become affected by control effects for 7s.\nThe eye will also automatically <font color=\"a6aafb\">Mark</font> a nearby enemy hero in vision every 7s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Dauntless Strike",
+      "skill_desc": "Arlott swings his lance forward, dealing 200<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and briefly stunning targets in an area. Targets hit by the farther part of the AOE will be stunned for 1s instead."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Vengeance",
+      "skill_desc": "Arlott charges at an enemy, dealing 135<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> (this skill cannot be interrupted during movement).\nIf Arlott's target is <font color=\"a6aafb\">Marked</font>, he gains a brief burst of Movement Speed, and this skill will deal double damage, immediately refresh its cooldown, and recover 70<font color=\"fba51f\"> (+60% Total Physical Attack)</font> HP to Arlott (only restores 50% of that amount when used on a non-hero unit)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Final Slash",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Each level-up reduces <font color=\"a6aafb\">Demon Gaze</font>'s interval by 1s.\n<font color=\"a6aafb\">Active</font>: Arlott cleaves forward, dealing 400<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area, knocking them back to the edge of the swing, and briefly revealing their location (can only be interrupted by Suppression)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "skins_name": "Daybreak Halo",
+  "release": "2025-10-03",
+  "availability": "Limited",
+  "rarity": "Grand",
+  "label": "The Aspirants",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Super Magic",
+      "skill_desc": "Guinevere deals 25% extra damage to airborne enemies. Her Basic Attacks also deal <font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nGuinevere gains <font color=\"a6aafb\">Super Magic</font> stacks each time she deals damage. At max stacks, her next Basic Attack becomes a guided attack, dealing 80<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"62f8fe\">(+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and recovering <font color=\"26e407\">80 (+ 8% of her <1998>)</font>.\nEnemies hit by Guinevere's skills or enhanced Basic Attack are marked for 5s. Enemies with 3 marks are knocked airborne when hit by <font color=\"a6aafb\">Violet Requiem</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Energy Wave",
+      "skill_desc": "Guinevere releases an energy orb in the target direction, dealing 300<font color=\"62f8fe\"> (+125% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing enemies by 25% for 1.2s.\nSuccessfully hitting an enemy reduces all her skill cooldowns by 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Spatial Migration",
+      "skill_desc": "Guinevere leaps to the target location, dealing 250<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. Enemy heroes and Creeps hit will be knocked airborne for 1s and take 125<font color=\"62f8fe\"> (+50% Total Magic Power)</font> additional <font color=\"7f62fe\">Magic Damage</font>.\n<font color=\"a6aafb\">Use Again</font>: Guinevere blinks toward the target direction and leaves an illusion behind. If the illusion takes damage by hero, it restores Super Magic for Guinevere and explodes after 1.5s, dealing 100<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Violet Requiem",
+      "skill_desc": "Guinevere creates a force field around her, gaining Control Immunity while attacking nearby enemies 11 times within 2s, dealing 880<font color=\"62f8fe\"> (+385% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> in total.\nAirborne enemies hit will be knocked airborne again, up to 8 additional times."
+    }
+  ]
+}

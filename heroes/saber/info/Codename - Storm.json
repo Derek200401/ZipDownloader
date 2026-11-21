@@ -1,0 +1,32 @@
+{
+  "skins_name": "Codename - Storm",
+  "release": "2017",
+  "availability": "Available",
+  "rarity": "Supreme",
+  "label": "Legend",
+  "price": {
+    "mc": "200"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Enemy's Bane",
+      "skill_desc": "Each time Saber deals damage, he reduces the target's <font color=\"fba51f\"><1060></font> by 3-8 for 5s (up to 5 stacks)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Orbiting Swords",
+      "skill_desc": "Saber releases 5 swords that orbit around him and deal 75<font color=\"fba51f\"> (+25% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies on hit. The swords will retract back to him after the duration.\n\nWhile active, Sword attacks deal 200<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and 50% damage to enemies along the path (damage reduced to 50% against minions). Each sword attack reduces the cooldowns of <font color=\"a6aafb\">Orbiting Swords</font> by 0.5s and <font color=\"a6aafb\">Charge</font> by 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Charge",
+      "skill_desc": "Saber dashes in the target direction, dealing 75<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the path.\n\nAfter the dash, he gains an <font color=\"a6aafb\">Enhanced Basic Attack</font> that allows him to charge at the target, dealing 75<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 60% for 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Triple Sweep",
+      "skill_desc": "Saber charges at the target enemy hero, knocking them airborne for 1.2s (unaffected by Resilience). He strikes them 3 times over the duration, dealing 120<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> with the first 2 strikes and 240<font color=\"fba51f\"> (+160% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> with the third."
+    }
+  ]
+}

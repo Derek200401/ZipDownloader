@@ -1,0 +1,30 @@
+{
+  "skins_name": "Ryu (Outfit 2)",
+  "release": null,
+  "availability": "Limited",
+  "rarity": null,
+  "label": "Street Fighter",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Champ Stance",
+      "skill_desc": "Paquito gains a stack each time he casts a skill. At 3 stacks, he enters the <font color=\"a6aafb\">Champ Stance</font> and enhances his next skill.\nPaquito's enhanced skills have no cooldown and deal (+2*Hero Level)% extra damage to minions.\n\nAfter casting any enhanced skill, Paquito gains 60% Movement Speed and (+2*Hero Level)% Damage Reduction for 1.2s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Heavy Left Punch",
+      "skill_desc": "Paquito throws a punch in the target direction, dealing 210<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and gaining a 150<font color=\"fba51f\"> (+135% Total Physical Attack)</font> shield.\n\n<font color=\"a6aafb\">Champ Stance</font>: The damage is increased to 350<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, and the shield value is increased to 140% for 2.5s (normal and enhanced shields can stack)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Jab",
+      "skill_desc": "Paquito dashes forward and throws a jab, dealing 200<font color=\"fba51f\"> (+165% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and at the destination.\n\n<font color=\"a6aafb\">Champ Stance</font>: Paquito's jab becomes fiercer, dealing 300<font color=\"fba51f\"> (+210% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit.\nThe jab stops upon hitting a hero or creep."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Knockout Strike",
+      "skill_desc": "Paquito launches an elbow strike at enemies in the target direction, dealing 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back to the destination.\nHe then throws a haymaker, dealing 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 75% for 1s, before darting backward.\n\n<font color=\"a6aafb\">Champ Stance</font>: After knocking enemies back to the destination, Paquito launches an uppercut instead, dealing 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them airborne for 0.5s."
+    }
+  ]
+}

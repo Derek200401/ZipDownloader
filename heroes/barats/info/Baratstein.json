@@ -1,0 +1,32 @@
+{
+  "skins_name": "Baratstein",
+  "release": "2021-10-30",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Halloween",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Big Guy",
+      "skill_desc": "Detona gains a stack of <font color=\"a6aafb\">Big Guy</font> for 12s each time it or Barats damages an enemy with their skills (up to 10 stacks). Each stack of <font color=\"a6aafb\">Big Guy</font> increases Detona's size and grants 4 - 10 <font color=\"26e407\"><1999></font> (scales with the level of <font color=\"a6aafb\">Detona's Welcome</font>). At max stacks, Detona gains 20% extra Resilience, and its Basic Attacks are replaced with <font color=\"a6aafb\">Trample</font>, which deals <font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"26e407\">(+3.5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a circular area, slows them by 40% for 0.2s, and refreshes the duration of <font color=\"a6aafb\">Big Guy</font> with each hit."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "So-Called Teamwork",
+      "skill_desc": "Detona spits contaminated oil in the target direction, dealing 60<font color=\"26e407\"> (+7% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area. Barats then ignites the oil with a firecracker, dealing 120<font color=\"fba51f\"> (+180% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area (only 50% damage to Creeps).\n\nThe area of effect of <font color=\"a6aafb\">So-Called Teamwork</font> increases with the number of <font color=\"a6aafb\">Big Guy</font> stacks."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Missile \"Expert\"",
+      "skill_desc": "Barats fires two missiles at the target location, dealing 100<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing enemies by 40% for 1s. The missiles expel fumes from their exhausts upon landing, dealing 100<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a rectangular area and pushing them toward Barats."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Detona's Welcome",
+      "skill_desc": "After a short delay, Detona charges in the target direction, dealing 120<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"26e407\">(+1.2% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hit, devouring and suppressing them for 1.2s, then spitting them out. If the spat‑out target hits an enemy hero or a wall, it triggers an explosion. The target and nearby enemies take an additional 180<font color=\"fba51f\"> (+105% Total Physical Attack)</font> <font color=\"26e407\">(+5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> and are stunned for 1s.\n\nDuring the skill, Barats becomes immune to control effects. If the cast is canceled or the skill misses, 50% of the skill cooldown is refunded.\nIf Detona successfully devours an enemy, he immediately gains max stacks of <font color=\"a6aafb\">Big Guy</font>."
+    }
+  ]
+}

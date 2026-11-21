@@ -1,0 +1,32 @@
+{
+  "skins_name": "Girl Scout",
+  "release": "2018-02-06",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mecha Suppression",
+      "skill_desc": "Each time Jawhead deals damage to an enemy hero or a Creep, he inflicts a stack of Mecha Suppression on them for 3s (up to 6 stacks). Each stack of Mecha Suppression increases all damage dealt to the target by 2% (limited to 50% for Creeps)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Smart Missiles",
+      "skill_desc": "Jawhead launches up to 12 missiles at random nearby enemies over 5s, each missile dealing 135<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the enemy hit."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Ejector",
+      "skill_desc": "Jawhead gains 30% Movement Speed and a 500<font color=\"fba51f\"> (+100% Total Physical Attack)</font> shield for 5s.\n\n<font color=\"a6aafb\">Use Again</font>: Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing 300<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and stunning them for 0.5s. Can be used on allied heroes and they will not take damage."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Unstoppable Force",
+      "skill_desc": "Jawhead charges into the target enemy hero, dealing 350<font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge."
+    }
+  ]
+}

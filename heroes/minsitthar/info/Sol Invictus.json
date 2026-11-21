@@ -1,0 +1,30 @@
+{
+  "skins_name": "Sol Invictus",
+  "release": "2024-03",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mark of the King",
+      "skill_desc": "Minsitthar's Basic Attacks and skills apply a stack of <font color=\"a6aafb\">Mark of the King</font>, up to 5 stacks. Upon reaching max stacks, the next attack detonates all <font color=\"a6aafb\">Mark of the King</font> stacks, dealing <font color=\"fb1f1f\">Physical Damage</font> equal to 400<font color=\"26e407\"> (+6% Max HP)</font> of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 400<font color=\"26e407\"> (+6% Max HP)</font> HP. Can only trigger once every 6s on the same target."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Spear of Glory",
+      "skill_desc": "Minsitthar thrusts the <font color=\"a6aafb\">Spear of Glory</font> forward, dealing 175<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing enemies hit by 30%. Enemy heroes hit by the spear tip are stunned for 0.3s.\n\nAfter a short delay, Minsitthar pulls the spear back, dealing 175<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to all enemies in its path and pulling enemy heroes toward him. Pulled heroes are stunned for up to 0.8s based on the distance pulled."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Shield Assault",
+      "skill_desc": "Minsitthar awakens the power in his shield and releases it, dealing 100<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2s). Meanwhile, he enters <font color=\"a6aafb\">Phalanx</font> state for 3s, reducing damage taken from the front by 25% and enhancing his Basic Attack to swiftly strike an area in front of him for 100<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per hit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "King's Calling",
+      "skill_desc": "Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal <font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to them.\nEnemies in the field are slowed by 30% and cannot use movement skills."
+    }
+  ]
+}

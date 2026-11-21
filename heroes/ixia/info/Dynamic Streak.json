@@ -1,0 +1,32 @@
+{
+  "skins_name": "Dynamic Streak",
+  "release": "2024-03-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2024/03 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Siphon Starlium",
+      "skill_desc": "Ixia's Basic Attacks and skills apply a stack of <font color=\"a6aafb\">Starlium Charge</font> to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of <font color=\"a6aafb\">Starlium Charge</font>, the attack consumes the stacks and is replaced by <font color=\"a6aafb\">Siphon Starlium</font>, dealing <font color=\"fba51f\"> (+150% Total Physical Attack)</font> <font color=\"26e407\"><88 200></font> +(+10*Hero Level) <font color=\"fb1f1f\">Physical Damage</font> to the target. Ixia recovers HP equal to the damage dealt (only 10<font color=\"26e407\"> <88 150></font>% against non-hero units) and slows the target by 25% for 1s.\n<font color=\"a6aafb\">Siphon Starlium</font> can hit all enemies in front of Ixia within her Basic Attack range, but it cannot Crit.\nIxia's Basic Attacks cannot trigger Lifesteal."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Dual Beam",
+      "skill_desc": "Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 100<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a rectangular area. When hitting enemy heroes, Ixia gains 50% Movement Speed for 2s.\nEnemies hit by both beams will take double damage."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Star Helix",
+      "skill_desc": "Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies. After a short delay, it pulls enemies in range to the center line and deals 200<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Full Barrage",
+      "skill_desc": "Ixia reassembles her weapon into 6 smaller weapons and enters the <font color=\"a6aafb\">Full Barrage</font> state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her, but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and <font color=\"a6aafb\">Siphon Starlium</font> will fire simultaneously with her normal Basic Attacks."
+    }
+  ]
+}

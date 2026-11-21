@@ -1,0 +1,37 @@
+{
+  "skins_name": "X Factor",
+  "release": "2021-03-19",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Mechanical Genius",
+      "skill_desc": "Beatrix's talent for mechanics allowed her to produce 4 weapons of truly awe-inspiring firepower.\n\n<font color=\"a6aafb\">Renner</font> Basic Attack - Longshot: Fires a powerful shot in the target's direction, dealing <font color=\"fba51f\"> (+365% Total Physical Attack)</font> -<font color=\"fba51f\"> (+400% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first target hit (75% damage against creeps). This shot can be dodged or blocked by others.\n\nBeatrix cannot Crit. She converts every 1% Crit Chance into 2 <font color=\"fba51f\"><1020></font>.\nShe gains Spell Vamp equal to 100% of her Lifesteal."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Masterful Gunner",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Beatrix can carry 2 weapons at once, increasing her <font color=\"fba51f\"><1020></font> by 5.\n<font color=\"a6aafb\">Active</font>: Beatrix takes 0.5s to swap her primary weapon with the secondary weapon, gaining a new Basic Attack and Ultimate."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Tactical Reposition",
+      "skill_desc": "Beatrix rolls forward while fully reloading her current weapon."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Renner's Apathy",
+      "skill_desc": "Beatrix calmly sets up <font color=\"a6aafb\">Renner</font> on the battlefield and takes aim. When releasing the skill, she deals 700<font color=\"fba51f\"> (+280% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the first enemy hit.\n\nBeatrix can aim for up to 8s, and she can cancel it early to reduce the cooldown by 50%.\n\nThis shot can penetrate Minions and only deals 75% damage to non-hero units."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Need Backup",
+      "skill_desc": "Having escaped battle for 3s, Beatrix can call for her butler Morgan to provide her with a backup weapons crate.\nBeatrix must then choose two from the crate to serve as her primary and secondary weapons.\nHer weapon selection is interrupted if she commits any action or is controlled during this period."
+    }
+  ]
+}

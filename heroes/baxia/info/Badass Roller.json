@@ -1,0 +1,32 @@
+{
+  "skins_name": "Badass Roller",
+  "release": "2020-07",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Baxia Mark",
+      "skill_desc": "Baxia activates the \"Baxia Mark\" permanently, reducing the final damage received by 15 (+1*Hero Level).\nAt the same time, Baxia will reduce the Shield and HP Regen of enemies hit by his skills by 40% for 4s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Baxia-Shield Unity",
+      "skill_desc": "Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal 300<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to it and nearby enemies, stunning the target for 0.8s and slightly knocking nearby enemies back.\nDuring the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike this hero, dealing 375<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to this hero and nearby enemies, stunning the target hit for 1.5s, and slightly knocking other nearby enemy targets back."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Shield of Spirit",
+      "skill_desc": "Baxia throws out his shield, dealing 120<font color=\"62f8fe\"> (+100% Total Magic Power)</font> (+ 5% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> to enemies along the way, marking them for 5s, and slowing them by 50% for 1s. The shield disappears upon hitting the first enemy hero or creep.\nBaxia can cast the skill again in a short while. If an enemy hero or creep is hit by the skill, the skill's cooldown will be reduced to 15%."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Tortoise’s Puissance",
+      "skill_desc": "Baxia holds his shield to the front and begins sprinting frantically, gaining 30% extra Movement Speed for 10s while leaving a lava path behind. Enemies on the path will take 40<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and be slowed by 15% for 0.5s every 0.5s.\nFor the duration, the Damage Reduction effect from <font color=\"a6aafb\">Baxia Mark</font> is increased to 200%."
+    }
+  ]
+}

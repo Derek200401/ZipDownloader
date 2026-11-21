@@ -1,0 +1,32 @@
+{
+  "skins_name": "Nightmare Count",
+  "release": "2025-06-03",
+  "availability": "Available",
+  "rarity": "Deluxe",
+  "label": "Epic",
+  "price": {
+    "dm": "899"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "The Oath Keeper",
+      "skill_desc": "Leomord's Basic Attacks and skills grant him 25 <font color=\"a6aafb\">Oath Keeper</font> energy each time they deal damage to targets. When the energy reaches 100, his next Basic Attack deals 200% Crit Damage and restores 100<font color=\"ffe63c\"> (+10*Hero Level)</font><font color=\"26e407\"> (+15% Extra Max HP)</font> HP.\nLeomord's Basic Attacks cannot normally Crit, and every 1% Crit Chance is converted into 1% Crit Damage.\n<font color=\"a6aafb\">Mounted State</font>: Each <font color=\"a6aafb\">Oath Keeper</font> energy gain is increased by 200%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Momentum",
+      "skill_desc": "Leomord begins channeling, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to 500<font color=\"fba51f\"> (+180% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit (scales with channeling time; increased to 140% against creeps except the Turtle and Lord) and slowing them by 40% for 1s.\n\n<font color=\"a6aafb\">Use Again</font>: Cast the skill again to cancel the channeling and immediately perform the thrust."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Decimation Assault",
+      "skill_desc": "Leomord charges in a designated direction, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way and slowing them by 30% for 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Phantom Steed",
+      "skill_desc": "Leomord summons <font color=\"a6aafb\">Barbiel</font> to rush to him, knocking back and dealing 100<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to all enemies in its path.\nIf <font color=\"a6aafb\">Barbiel</font> comes in contact with Leomord, they will enter the Mounted State, gaining 50% Movement Speed that decays over 2s.\n<font color=\"a6aafb\">Mounted State</font>: Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30 <font color=\"26e407\"><1999></font>. This lasts 10s."
+    }
+  ]
+}

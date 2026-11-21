@@ -1,0 +1,32 @@
+{
+  "skins_name": "Violet Spear",
+  "release": "2023-05-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2023/05 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Spear of Quiescence",
+      "skill_desc": "Moskov's Basic Attacks can penetrate the target and deal <font color=\"fba51f\"> (+68% Total Physical Attack)</font>-<font color=\"fba51f\"> (+110% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies behind them (scales with hero level).\nEach Basic Attack hit reduces the cooldowns of <font color=\"a6aafb\">Abyss Walker</font> by 0.8s and <font color=\"a6aafb\">Spear of Misery</font> by 0.8s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Abyss Walker",
+      "skill_desc": "Moskov teleports to the target location, increasing his Attack Speed to 1.15 times its normal value for 3s. During this time, his Basic Attacks deal <font color=\"fba51f\"> (+10% Total Physical Attack)</font> damage to enemies behind the primary target."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Spear of Misery",
+      "skill_desc": "Moskov launches a powerful strike at the target enemy hero or creep, dealing 300<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, knocking them back, and revealing their position for 2s.\n\nIf the target collides with an enemy hero when knocked back, they'll both take 200<font color=\"fba51f\"> (+30% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and be stunned for 1.2s. The target is also stunned for the same duration if they collide with a wall."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Spear of Destruction",
+      "skill_desc": "After a short delay, Moskov throws the <font color=\"a6aafb\">Spear of Destruction</font> in the target direction, dealing 340<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path. Enemies behind the first enemy hero hit take 10% extra damage. All enemies hit are slowed by 50% for 1s. The slow duration increases with the spear's travel distance, up to 3s.\nWhen <font color=\"a6aafb\">Spear of Destruction</font> hits an enemy hero, it creates a shadow behind them and resets <font color=\"a6aafb\">Abyss Walker</font>'s cooldown.\n<font color=\"a6aafb\">Use Again</font>: Moskov casts <font color=\"a6aafb\">Abyss Walker</font> from the shadow's location (shares a cooldown with Skill 1)."
+    }
+  ]
+}

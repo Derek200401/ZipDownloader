@@ -1,0 +1,32 @@
+{
+  "skins_name": "Viscount",
+  "release": "2017-12-01",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "StarLight",
+  "price": {
+    "other": "2017/12 StarLight Member"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Pursuit",
+      "skill_desc": "After each skill cast, Alucard's next Basic Attack allows him to dash to the target and deal <font color=\"fba51f\"> (+125% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n\n<font color=\"a6aafb\">Demon Hunter</font>: Alucard deals 110% damage to creeps."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Groundsplitter",
+      "skill_desc": "Alucard jumps to the target area and slashes, dealing 270<font color=\"fba51f\"> (+85% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within the area and slowing them by 40% for 2s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Whirling Smash",
+      "skill_desc": "Alucard launches a whirling slash, dealing 345<font color=\"fba51f\"> (+120% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Fission Wave",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: Alucard permanently gains 10% Hybrid Lifesteal.\n\n<font color=\"a6aafb\">Active</font>: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and <font color=\"26e407\"><1999></font> by 10. He gains 10 <font color=\"26e407\"><1999></font> for each enemy hero hit and reduces the cooldown of his other skills to 50% for 6s.\n\n<font color=\"a6aafb\">Use Again</font>: Alucard releases a powerful shockwave forward, dealing 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    }
+  ]
+}

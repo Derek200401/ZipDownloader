@@ -1,0 +1,30 @@
+{
+  "skins_name": "ONIC PH",
+  "release": "2025-09-20",
+  "availability": "Limited",
+  "rarity": "Deluxe",
+  "label": "Champion",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Humph, Joy's Angry!",
+      "skill_desc": "Joy becomes <font color=\"a6aafb\">Angry!</font> each time her skill hits a non-Minion enemy, dealing 100<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and increasing her Movement Speed by 60% that decays over 4s (hitting the <font color=\"a6aafb\">Leonin Crystal</font> will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.\n\nJoy's Basic Attack will deal 65<font color=\"fba51f\"> (+65% Total Physical Attack)</font>  <font color=\"62f8fe\">(+65% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Look, Leonin Crystal!",
+      "skill_desc": "Joy summons a <font color=\"a6aafb\">Leonin Crystal</font> at the target location, dealing 200<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and slowing them by 30% for 1s. The <font color=\"a6aafb\">Leonin Crystal</font> lasts up to 2s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Meow, Rhythm of Joy!",
+      "skill_desc": "Joy dashes in the target direction, dealing 120<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in her path. Hitting an enemy or the <font color=\"a6aafb\">Leonin Crystal</font> allows Joy to cast this skill again within 0.8s and gain 1 <font color=\"a6aafb\">Beat Energy</font>. Casting this skill on the beat increases the skill damage by 100% and grants a 80<font color=\"62f8fe\"> (+60% Total Magic Power)</font> shield that lasts 3s.\n\nThis skill can be cast up to 4 times in succession."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Ha, Electrifying Beats!",
+      "skill_desc": "Joy gains 15<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"26e407\"><1999></font> and 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> each time to nearby enemies.\nEach <font color=\"a6aafb\">Meow, Rhythm of Joy!</font> cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with <font color=\"a6aafb\">Meow, Rhythm of Joy!</font>, Joy also gains 40% Spell Vamp while this skill is active.\n\nThis skill unlocks when Joy acquires <font color=\"a6aafb\">Beat Energy</font>. Casting this skill with 3 <font color=\"a6aafb\">Beat Energy</font> will remove all debuffs and make her immune to slow effects while this skill is active."
+    }
+  ]
+}

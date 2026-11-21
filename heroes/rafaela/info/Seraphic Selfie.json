@@ -1,0 +1,30 @@
+{
+  "skins_name": "Seraphic Selfie",
+  "release": "2023",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "AS",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Divine Resurrection",
+      "skill_desc": "Rafaela can cast a special skill every 10s. After channeling for 2.5s, she instantly resurrects an ally and increases their Movement Speed by 30% for 5s (taking damage from heroes and Legend Creeps interrupts channeling and puts the skill on base cooldown).\nThis skill's cooldown is increased by 600% of the target's remaining respawn time, capped at 240s. This skill is not affected by Cooldown Reduction."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Light of Retribution",
+      "skill_desc": "Rafaela strikes the three nearest enemies with <font color=\"a6aafb\">Light of Retribution</font>, dealing them 350<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by <font color=\"a6aafb\">Light of Retribution</font> again within 6s will take 20% extra damage (this effect stacks up to 3 times)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Holy Healing",
+      "skill_desc": "Rafaela calls upon Holy Light, recovering 100<font color=\"62f8fe\"> (+35% Total Magic Power)</font> HP to nearby allied heroes, plus an additional 150<font color=\"62f8fe\"> (+65% Total Magic Power)</font> HP to herself and the most injured allied hero in range. She also increases the Movement Speed of nearby allied heroes by 30% and grants Slow Immunity for 1s.\nEvery 10 <font color=\"62f8fe\"><1030></font> increases the Movement Speed bonus by 1%."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Holy Baptism",
+      "skill_desc": "Rafaela unleashes the true power of <font color=\"a6aafb\">Holy Light</font> in the target direction, dealing 460<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in a line and stunning them for 1.2s."
+    }
+  ]
+}

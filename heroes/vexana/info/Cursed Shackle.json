@@ -1,0 +1,32 @@
+{
+  "skins_name": "Cursed Shackle",
+  "release": "2019-06-19",
+  "availability": "Limited",
+  "rarity": "Common",
+  "label": "S12",
+  "price": {
+    "other": "Season 12"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Nether Touch",
+      "skill_desc": "Vexana and her <font color=\"a6aafb\">Eternal Guard</font> inflict <font color=\"a6aafb\">Nether Touch</font> on enemies hit.\n\nThe mark lasts 5s and causes the affected enemy to explode upon death, dealing 108-500<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies (base damage scales with level)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Deathly Grasp",
+      "skill_desc": "Vexana unleashes a <font color=\"a6aafb\">Deathly Grasp</font> in the target direction, dealing 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in its path. It stops upon hitting an enemy hero, <font color=\"a6aafb\">Terrifying</font> and knocking them back. After a short delay, it explodes, dealing 200<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to nearby enemies and <font color=\"a6aafb\">Terrifying</font> them for 1s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Cursed Blast",
+      "skill_desc": "Vexana marks the target area with the power of the undead, striking it after a 0.8s delay and dealing 580<font color=\"62f8fe\"> (+165% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Eternal Guard",
+      "skill_desc": "Vexana summons an <font color=\"a6aafb\">Eternal Guard</font> at the target location, dealing 480<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and knocking them airborne for 0.8s. The <font color=\"a6aafb\">Eternal Guard</font> then joins Vexana in battle for 15s. Its attacks deal 200<font color=\"62f8fe\"> (+40% Total Magic Power)</font> (+ 5% target's <font color=\"26e407\"><1005></font>) <font color=\"7f62fe\">Magic Damage</font> and illustrations Damage in a large area."
+    }
+  ]
+}

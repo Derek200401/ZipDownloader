@@ -1,0 +1,30 @@
+{
+  "skins_name": "Maelstrom Lurker",
+  "release": null,
+  "availability": "Limited",
+  "rarity": null,
+  "label": "Elite",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Frigid Breath",
+      "skill_desc": "Atlas generates <font color=\"a6aafb\">Frigid Breath</font> around him for 4s each time he casts a skill. Enemies affected by <font color=\"a6aafb\">Frigid Breath</font> will have their Movement Speed gradually reduced over 2s, after which they'll be frozen for 0.5s.\n\nAtlas gains 20<font color=\"26e407\"> (+0.5% Extra Max HP)</font> extra <font color=\"26e407\"><1999></font> when <font color=\"a6aafb\">Frigid Breath</font> is present."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Annihilate",
+      "skill_desc": "Atlas smashes the ground and causes 3 explosions, dealing 400<font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies.\n\n<font color=\"a6aafb\">Ejected State</font>: If Atlas is ejected from his Mecha Sentry, both he and his Mecha will cast Annihilate."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Perfect Match",
+      "skill_desc": "Atlas enters <font color=\"a6aafb\">Ejected State</font>, gaining 30% Movement Speed and immunity to Slowing Effects. In this state, the Mecha Sentry will follow the pilot at an increasing speed (can only be controlled by Suppression). Once they meet, Atlas will return to the Mecha, dealing 320<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies nearby and stunning them for 0.8s.\n<font color=\"a6aafb\">Ejected State</font>: Atlas and his Mecha share the same HP bar and reduce 50% of the damage taken in this state."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Fatal Links",
+      "skill_desc": "Atlas hurls chains around and starts to channel (can only be interrupted by Suppression), dealing 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemy heroes hit and slowing them by 40% for 3s.\nRelease the skill while channeling: Atlas will drag the targets toward him and plunk them down on the designated location, dealing 360<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>.\nUse this skill in <font color=\"a6aafb\">Ejected State</font>: The Mecha Sentry will return to Atlas immediately, but the stun effect will be replaced by 40% Slowing Effect."
+    }
+  ]
+}

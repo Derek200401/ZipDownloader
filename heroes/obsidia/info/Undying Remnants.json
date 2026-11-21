@@ -1,0 +1,32 @@
+{
+  "skins_name": "Undying Remnants",
+  "release": "2025-09-17",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Return to Bone",
+      "skill_desc": "Obsidia gains <font color=\"a6aafb\">Bone Energy</font> whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units or Turrets. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps.\nWhen <font color=\"a6aafb\">Bone Energy</font> reaches 30, it forms a <font color=\"a6aafb\">Bone Shard</font>, up to 25 shards. When Obsidia uses Basic Attacks, all <font color=\"a6aafb\">Bone Shards</font> strike the target, each dealing <font color=\"fba51f\"> (+6% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and inheriting 6% Attack Effects.\nKilling an enemy hero directly grants 1 <font color=\"a6aafb\">Bone Shard(s)</font>.\nObsidia's Basic Attacks deal 70<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, inheriting 100% Attack Effects."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Abyssal Bone Needle",
+      "skill_desc": "Obsidia launches an <font color=\"a6aafb\">Abyssal Bone Needle</font>, dealing 325<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and triggering <font color=\"a6aafb\">Return to Bone</font> on the first enemy hero struck."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Phantom Shadowmeld",
+      "skill_desc": "Obsidia descends into the Abyss and enters <font color=\"a6aafb\">Shadowmeld Form</font>, gaining 500% Movement Speed for 0.3s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Hunt of Bone",
+      "skill_desc": "Obsidia shoots <font color=\"a6aafb\">Bones of Wrath</font> in the target direction, dealing 125<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and briefly stunning the first enemy hero hit before pulling herself to the target. The <font color=\"a6aafb\">Bones of Wrath</font> tethers Obsidia to the enemy, preventing her from moving more than 4 units away. While tethered, the enemy cannot use mobility skills, and their movement drags Obsidia along. Obsidia also gains 5 temporary <font color=\"a6aafb\">Bone Shards</font> stacks and a shield equal to 200 (+ 25 per <font color=\"a6aafb\">Bone Shard</font> stack). This effect lasts 3s.\n\nWhile tethered, Obsidia can move through obstacles and use Basic Attacks while moving. <font color=\"a6aafb\">Phantom Shadowmeld</font> is also enhanced: its duration increases to 1s, and its cooldown is reduced to 33%."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "skins_name": "Tribal Howl",
+  "release": "2020-09-28",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "We Are Friends",
+      "skill_desc": "Kupa recovers 10% Max HP per second after not taking damage for 5s. When Kupa dies, Popol can <font color=\"a6aafb\">Pray</font> for 3s to revive it. Cooldown: 30s.\n\nKupa has 3500<font color=\"ffe63c\"> (+350*Hero Level)</font> Max HP and inherits 100% of Popol's other attributes and equipment effects.\nKupa deals 77 <font color=\"ffe63c\">(+3*Hero Level)</font> extra <font color=\"ffe63c\">True Damage</font> to creeps."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Bite 'em, Kupa!",
+      "skill_desc": "Popol throws a spear at the target, signaling Kupa to attack and dealing 80<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Kupa then bites the target, dealing 40<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 99% for 0.75s.\nWhile marked by the spear, whenever Popol or Kupa hits the target with a Basic Attack, both gain 7% Attack Speed and 3% Movement Speed for 4s (up to 3 stacks).\n<font color=\"a6aafb\">Alpha Wolf Form</font>: Kupa strikes fiercely, dealing 120<font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby enemies and knocking them airborne for 0.5s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Kupa, Help!",
+      "skill_desc": "Popol calls Kupa back and gains a 240<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> shield. He can then ride Kupa for 1.5s, gaining 250 Movement Speed while mounted. Kupa also continuously recovers 20% of its Max HP.\nPopol can use a Basic Attack to end the <font color=\"a6aafb\">Mounted</font> state early. After returning, Kupa follows Popol until Popol attacks an enemy.\n<font color=\"a6aafb\">Alpha Wolf Form</font>: Shield effect increases to 125%, and Kupa recovers full HP while <font color=\"a6aafb\">Mounted</font>."
+    },
+    {
+      "skill_type": "3rd",
+      "skill_name": "Popol's Surprise",
+      "skill_desc": "Popol sets a trap. After a short delay, it immobilizes the enemy stepping on it for 1s. It then explodes to create a frost zone for 4s, which continuously slows enemies within by 20%.\n\nPopol gains a trap charge every 22s (up to 3 charges). Up to 4 traps can exist at the same time, each lasting up to 60s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "We Are Angry!",
+      "skill_desc": "Popol and Kupa enter the <font color=\"a6aafb\">Enraged</font> state for 9s.\nDuring this time, Kupa turns into <font color=\"a6aafb\">Alpha Wolf Form</font>."
+    }
+  ]
+}

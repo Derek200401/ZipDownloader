@@ -1,0 +1,32 @@
+{
+  "skins_name": "Furious Tiger",
+  "release": "2018",
+  "availability": "Available",
+  "rarity": "Exceptional",
+  "label": "Special",
+  "price": {
+    "dm": "749"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Only Fast",
+      "skill_desc": "After traveling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 90%, and reduces their <font color=\"fba51f\"><1060></font> by 10 (+1*Hero Level) for 3s (up to 2 stacks)."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Jeet Kune Do",
+      "skill_desc": "Chou strikes in the target direction, dealing 180<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne.\n\nHitting an enemy hero with the 3rd cast resets the cooldown of <font color=\"a6aafb\">Shunpo</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Shunpo",
+      "skill_desc": "Chou charges in the target direction, gaining Control Immunity and a 200<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> shield."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "The Way of Dragon",
+      "skill_desc": "Chou strikes a roundhouse kick at the target enemy hero, dealing them 400<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back.\n\nCast the skill again to chase up the target, dealing a total of 480<font color=\"fba51f\"> (+240% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    }
+  ]
+}

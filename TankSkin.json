@@ -1,0 +1,633 @@
+{
+  "Akai": [
+    {
+      "skins_name": "Panda Warrior"
+    },
+    {
+      "skins_name": "Summer Party"
+    },
+    {
+      "skins_name": "Monk"
+    },
+    {
+      "skins_name": "Akazonae Samurai"
+    },
+    {
+      "skins_name": "Imperial Assassin"
+    },
+    {
+      "skins_name": "Stream Recluse"
+    },
+    {
+      "skins_name": "Street Enforcer"
+    },
+    {
+      "skins_name": "Kung Fu Panda"
+    },
+    {
+      "skins_name": "Pumpkin Brawler"
+    },
+    {
+      "skins_name": "Marvelous Maestro"
+    }
+  ],
+  "Alice": [
+    {
+      "skins_name": "Queen of Blood"
+    },
+    {
+      "skins_name": "Spirit Woman"
+    },
+    {
+      "skins_name": "Wizardry Teacher"
+    },
+    {
+      "skins_name": "Divine Owl"
+    },
+    {
+      "skins_name": "Steam Glider"
+    },
+    {
+      "skins_name": "Jade Empress"
+    },
+    {
+      "skins_name": "Darknet Temptress"
+    },
+    {
+      "skins_name": "Dreaming Monarch"
+    }
+  ],
+  "Atlas": [
+    {
+      "skins_name": "Ocean Gladiator"
+    },
+    {
+      "skins_name": "Reactor Core"
+    },
+    {
+      "skins_name": "Fuel Turbine"
+    },
+    {
+      "skins_name": "Space Mech"
+    },
+    {
+      "skins_name": "Rune of Sentinel"
+    },
+    {
+      "skins_name": "Mecha Infernus"
+    },
+    {
+      "skins_name": "Sunken Curse"
+    },
+    {
+      "skins_name": "Maelstrom Lurker"
+    }
+  ],
+  "Barats": [
+    {
+      "skins_name": "Dino Rider"
+    },
+    {
+      "skins_name": "Armored Lizard"
+    },
+    {
+      "skins_name": "Toy Rex"
+    },
+    {
+      "skins_name": "Baratstein"
+    },
+    {
+      "skins_name": "War Chief"
+    },
+    {
+      "skins_name": "Sunken Predator"
+    },
+    {
+      "skins_name": "Scalding Predator"
+    }
+  ],
+  "Baxia": [
+    {
+      "skins_name": "Mystic Tortoise"
+    },
+    {
+      "skins_name": "Wild Totem"
+    },
+    {
+      "skins_name": "Badass Roller"
+    },
+    {
+      "skins_name": "Ba-tender"
+    },
+    {
+      "skins_name": "Black Tortoise"
+    },
+    {
+      "skins_name": "Dauntless Shield"
+    },
+    {
+      "skins_name": "Aegis of Honor"
+    },
+    {
+      "skins_name": "Ba Rista"
+    }
+  ],
+  "Belerick": [
+    {
+      "skins_name": "Guard of Nature"
+    },
+    {
+      "skins_name": "Tiger's Claw"
+    },
+    {
+      "skins_name": "Torch Guardian"
+    },
+    {
+      "skins_name": "The Deep One"
+    },
+    {
+      "skins_name": "Emerald Guardian"
+    },
+    {
+      "skins_name": "Arbiter of Stars"
+    },
+    {
+      "skins_name": "Smouldering Fortress"
+    }
+  ],
+  "Carmilla": [
+    {
+      "skins_name": "Shadow of Twilight"
+    },
+    {
+      "skins_name": "Wisteria Countess"
+    },
+    {
+      "skins_name": "Magician Girl"
+    },
+    {
+      "skins_name": "Phantom Countess"
+    },
+    {
+      "skins_name": "Astral Arcana"
+    }
+  ],
+  "Chip": [
+    {
+      "skins_name": "Phase Technician"
+    },
+    {
+      "skins_name": "Nexus Engineer"
+    },
+    {
+      "skins_name": "Badlands Hiatus"
+    }
+  ],
+  "Edith": [
+    {
+      "skins_name": "Ancient Guard"
+    },
+    {
+      "skins_name": "Celestial Safeguard"
+    },
+    {
+      "skins_name": "Ancient Warden"
+    },
+    {
+      "skins_name": "Red Bastion"
+    },
+    {
+      "skins_name": "Beyond the Clouds Edith"
+    },
+    {
+      "skins_name": "Prismatic Sentinel"
+    },
+    {
+      "skins_name": "Golden Warden"
+    }
+  ],
+  "Esmeralda": [
+    {
+      "skins_name": "Astrologer"
+    },
+    {
+      "skins_name": "Ruddy Dusk"
+    },
+    {
+      "skins_name": "Poison Vine"
+    },
+    {
+      "skins_name": "Lady Thief"
+    },
+    {
+      "skins_name": "Cleopatra"
+    },
+    {
+      "skins_name": "Blazing Shadow"
+    },
+    {
+      "skins_name": "The Foreseer"
+    },
+    {
+      "skins_name": "Light Envoy"
+    },
+    {
+      "skins_name": "Astral Muse"
+    }
+  ],
+  "Franco": [
+    {
+      "skins_name": "Frozen Warrior"
+    },
+    {
+      "skins_name": "Quantum Vanguard"
+    },
+    {
+      "skins_name": "Captain of the Lost"
+    },
+    {
+      "skins_name": "Masterchef"
+    },
+    {
+      "skins_name": "Apocalypse"
+    },
+    {
+      "skins_name": "Locomotive"
+    },
+    {
+      "skins_name": "Wheatfield Nightmare"
+    },
+    {
+      "skins_name": "Valhalla Ruler"
+    },
+    {
+      "skins_name": "Blazing Axe"
+    },
+    {
+      "skins_name": "Bone Crusher"
+    },
+    {
+      "skins_name": "King of Hell"
+    }
+  ],
+  "Fredrinn": [
+    {
+      "skins_name": "Rogue Appraiser"
+    },
+    {
+      "skins_name": "Regal Renegade"
+    },
+    {
+      "skins_name": "Jewel Connoisseur"
+    },
+    {
+      "skins_name": "Neobeast Fredrinn"
+    },
+    {
+      "skins_name": "SPARKLE Fredrinn"
+    },
+    {
+      "skins_name": "Royal Marshal"
+    },
+    {
+      "skins_name": "Winter Marshal"
+    }
+  ],
+  "Gatotkaca": [
+    {
+      "skins_name": "Mighty Legend"
+    },
+    {
+      "skins_name": "Mighty Guardian"
+    },
+    {
+      "skins_name": "Arhat King"
+    },
+    {
+      "skins_name": "Sentinel"
+    },
+    {
+      "skins_name": "Spark"
+    },
+    {
+      "skins_name": "Tide Preserver"
+    },
+    {
+      "skins_name": "Nutcracker Monarch"
+    },
+    {
+      "skins_name": "Solar Spark"
+    },
+    {
+      "skins_name": "Iron Steel"
+    }
+  ],
+  "Gloo": [
+    {
+      "skins_name": "Swamp Spirits"
+    },
+    {
+      "skins_name": "Verdant Enchanter"
+    },
+    {
+      "skins_name": "Jellyman"
+    },
+    {
+      "skins_name": "Patrick"
+    },
+    {
+      "skins_name": "Abominable Snowgloo"
+    }
+  ],
+  "Grock": [
+    {
+      "skins_name": "Tremor of the Deep"
+    },
+    {
+      "skins_name": "Fortress Titan"
+    },
+    {
+      "skins_name": "Grave Guardian"
+    },
+    {
+      "skins_name": "Castle Guard"
+    },
+    {
+      "skins_name": "V.E.N.O.M. Monitor Lizard"
+    },
+    {
+      "skins_name": "Iceland Golem"
+    },
+    {
+      "skins_name": "Codename: Rhino"
+    },
+    {
+      "skins_name": "Ancient Golem"
+    },
+    {
+      "skins_name": "Wasteland Psycho"
+    }
+  ],
+  "Hilda": [
+    {
+      "skins_name": "Power of Megalith"
+    },
+    {
+      "skins_name": "Power of Wildness"
+    },
+    {
+      "skins_name": "Flower of the Wastes"
+    },
+    {
+      "skins_name": "Sacred Guard"
+    },
+    {
+      "skins_name": "Aries"
+    },
+    {
+      "skins_name": "Bass Craze"
+    },
+    {
+      "skins_name": "Guardian Battalion"
+    }
+  ],
+  "Hylos": [
+    {
+      "skins_name": "Grand Warden"
+    },
+    {
+      "skins_name": "Abyssal Shaman"
+    },
+    {
+      "skins_name": "Phantom Seer"
+    },
+    {
+      "skins_name": "Jungle Watcher"
+    },
+    {
+      "skins_name": "Iron Steed"
+    },
+    {
+      "skins_name": "Bloodhoof Marauder"
+    },
+    {
+      "skins_name": "Lord of the Tundra"
+    }
+  ],
+  "Johnson": [
+    {
+      "skins_name": "Wild Engine"
+    },
+    {
+      "skins_name": "Fire Chief"
+    },
+    {
+      "skins_name": "S.A.B.E.R. Automata"
+    },
+    {
+      "skins_name": "Jeepney Racer"
+    },
+    {
+      "skins_name": "Wreck King"
+    },
+    {
+      "skins_name": "Death Ride"
+    },
+    {
+      "skins_name": "Optimus Prime"
+    },
+    {
+      "skins_name": "Starblazer"
+    },
+    {
+      "skins_name": "Sovereign of Realms"
+    }
+  ],
+  "Khufra": [
+    {
+      "skins_name": "Desert Tyrant"
+    },
+    {
+      "skins_name": "Desert Owl"
+    },
+    {
+      "skins_name": "Apophis"
+    },
+    {
+      "skins_name": "Gentleman Thief"
+    },
+    {
+      "skins_name": "Volcanic Overlord"
+    },
+    {
+      "skins_name": "Dreadful Clown"
+    },
+    {
+      "skins_name": "Iron Hook"
+    },
+    {
+      "skins_name": "Cursed Scroll"
+    }
+  ],
+  "Lolita": [
+    {
+      "skins_name": "Steel Elf"
+    },
+    {
+      "skins_name": "Soldier in Training"
+    },
+    {
+      "skins_name": "Impish Trickster"
+    },
+    {
+      "skins_name": "Lion Dance"
+    },
+    {
+      "skins_name": "Special Op"
+    },
+    {
+      "skins_name": "Genki Slam"
+    },
+    {
+      "skins_name": "Starwatcher"
+    },
+    {
+      "skins_name": "Astro Mallet"
+    },
+    {
+      "skins_name": "Angelic Fan"
+    }
+  ],
+  "Marcel": [
+    {
+      "skins_name": "Soul Photographer"
+    },
+    {
+      "skins_name": "Split Shadows"
+    }
+  ],
+  "Masha": [
+    {
+      "skins_name": "Wild-oats Fist"
+    },
+    {
+      "skins_name": "Winter Guard"
+    },
+    {
+      "skins_name": "Combat Maiden"
+    },
+    {
+      "skins_name": "Dragon Armor"
+    },
+    {
+      "skins_name": "Spirited Gauntlet"
+    },
+    {
+      "skins_name": "Rogue Talon"
+    },
+    {
+      "skins_name": "Mai Shiranui"
+    }
+  ],
+  "Minotaur": [
+    {
+      "skins_name": "Son of Minos"
+    },
+    {
+      "skins_name": "Bursting Yama"
+    },
+    {
+      "skins_name": "Orbiter"
+    },
+    {
+      "skins_name": "Sacred Hammer"
+    },
+    {
+      "skins_name": "Taurus"
+    },
+    {
+      "skins_name": "Dreadnought"
+    },
+    {
+      "skins_name": "Nether Overseer"
+    }
+  ],
+  "Terizla": [
+    {
+      "skins_name": "Executioner"
+    },
+    {
+      "skins_name": "Abyss Guard"
+    },
+    {
+      "skins_name": "Flare"
+    },
+    {
+      "skins_name": "Hammer Giant"
+    },
+    {
+      "skins_name": "Rustwreck"
+    },
+    {
+      "skins_name": "Flames of Judgement"
+    },
+    {
+      "skins_name": "Soulblight Tyrant"
+    }
+  ],
+  "Tigreal": [
+    {
+      "skins_name": "Warrior of Dawn"
+    },
+    {
+      "skins_name": "Dark Guardian"
+    },
+    {
+      "skins_name": "Fallen Guard"
+    },
+    {
+      "skins_name": "Wyrmslayer"
+    },
+    {
+      "skins_name": "Lightborn - Defender"
+    },
+    {
+      "skins_name": "Steel Guardian"
+    },
+    {
+      "skins_name": "Gold Baron"
+    },
+    {
+      "skins_name": "Galactic Marshal"
+    },
+    {
+      "skins_name": "Pasha of Justice"
+    },
+    {
+      "skins_name": "Celestial General"
+    }
+  ],
+  "Uranus": [
+    {
+      "skins_name": "Aethereal Defender"
+    },
+    {
+      "skins_name": "Ancient Soul"
+    },
+    {
+      "skins_name": "Mech Protector"
+    },
+    {
+      "skins_name": "Video-Game Dominator"
+    },
+    {
+      "skins_name": "Pinball Machine"
+    },
+    {
+      "skins_name": "Celestial Bastion"
+    },
+    {
+      "skins_name": "Earthen Relic"
+    }
+  ]
+}

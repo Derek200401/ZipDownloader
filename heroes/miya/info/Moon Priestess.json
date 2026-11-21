@@ -1,0 +1,30 @@
+{
+  "skins_name": "Moon Priestess",
+  "release": "2021-09",
+  "availability": "Limited",
+  "rarity": "Exceptional",
+  "label": "5th Anniversary",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Moon Blessing",
+      "skill_desc": "Each time Miya's Basic Attack hits a target, she gains 5% Attack Speed for 4s (up to 5 stacks).\n\nAt maximum stacks, each Basic Attack also summons a <font color=\"a6aafb\">Moonlight Shadow</font> to attack the target, dealing 25<font color=\"fba51f\"> (+20% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, inheriting 20% Attack Effects."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Moon Arrow",
+      "skill_desc": "Miya's Basic Attacks shoot 2 extra <font color=\"a6aafb\">Split Arrows</font>, each inheriting 30% of Attack Effects. They deal 10<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the primary target and 30% damage to other targets.\n\nThis effect lasts 4s."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Arrow of Eclipse",
+      "skill_desc": "Miya calls upon the power of <font color=\"a6aafb\">Moon Eclipse</font> in the target area, dealing 270<font color=\"fba51f\"> (+45% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within and immobilizing them for 1.2s.\n\nThe attack then splits into 6 arrows that scatter in different directions. Each arrow deals 40<font color=\"fba51f\"> (+20% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slows enemies hit by 30% for 2s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Hidden Moonlight",
+      "skill_desc": "Miya removes all debuffs and enters the <font color=\"a6aafb\">Conceal</font> state, gaining 65% Movement Speed for up to 2s (attacking ends the state early).\n\nUpon exiting the <font color=\"a6aafb\">Conceal</font> state, Miya gains maximum stacks of <font color=\"a6aafb\">Moon Blessing</font>."
+    }
+  ]
+}

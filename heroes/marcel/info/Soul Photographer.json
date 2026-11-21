@@ -1,0 +1,33 @@
+{
+  "skins_name": "Soul Photographer",
+  "release": "2026-03-21",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Platinum Snap",
+      "skill_desc": "Marcel's split soul, <font color=\"a6aafb\">Clemar</font>, enters the camera to freeze the moment. His Basic Attacks deal 50<font color=\"fba51f\"> (+40% Total Physical Attack)</font><font color=\"62f8fe\">(+40% Total Magic Defense)</font><font color=\"fba51f\">(+40% Total Physical Defense)</font> <font color=\"fb1f1f\">Physical Damage</font>. His <font color=\"26e407\">Extra <1005></font> is converted into 1.5% <font color=\"26e407\"><1999></font>.\n\n<font color=\"a6aafb\">Clemar</font> automatically snaps photos of enemy heroes near Marcel, causing a brief <font color=\"a6aafb\">Frozen Moment</font> and dealing 20 (+ 5% of <font color=\"26e407\"><1005></font>) <font color=\"ffe63c\">True Damage</font> (triggers Attack Effects). It also grants a shield of the same value to Marcel and a nearby allied hero. Cooldown: 12s per target."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Framed Moment",
+      "skill_desc": "<font color=\"a6aafb\">Clemar</font> focuses on an area around Marcel, slowing enemy heroes within by 60%.\nAfter 2.5s, he completes the shot, dealing 300<font color=\"fba51f\"> (+50% Total Physical Attack)</font><font color=\"62f8fe\">(+120% Total Magic Defense)</font><font color=\"fba51f\">(+120% Total Physical Defense)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Tracking Shot",
+      "skill_desc": "Artist inspiration time! Marcel enters the <font color=\"a6aafb\">Tracking Haste</font> state for 3s, gaining 15% Movement Speed. This bonus increases to 75% when moving toward an enemy hero.\n\n<font color=\"a6aafb\">Use Again</font>: Marcel dashes in the target direction, leaving a framing phantom behind while the <font color=\"a6aafb\">Framed Moment</font> area remains at the original location."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Golden Hour",
+      "skill_desc": "Marcel and <font color=\"a6aafb\">Clemar</font> perform a joint shoot. After a short delay, <font color=\"a6aafb\">Clemar</font> takes a wide-angle shot of the target area for 2s. During this time, Marcel enters the <font color=\"a6aafb\">Tracking Haste</font> state while inside the area. All other units in the area are put into a <font color=\"a6aafb\">Frozen Moment</font> and are immune to all effects except from Marcel. All projectiles are also frozen and will continue after a delay (targeted projectiles will deal 50% damage).\n\n<font color=\"a6aafb\">Golden Hour</font> resets the cooldown of <font color=\"a6aafb\">Platinum Snap</font> for each enemy hero.\nAllied heroes with the <font color=\"a6aafb\">Platinum Snap</font> shield can move freely within the area."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Archmagister",
+  "release": "2022-09-17",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": "Elite",
+  "price": {
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Primal Force",
+      "skill_desc": "Valentina gains 8-50 extra EXP (scales with level) each time she deals damage to an enemy hero. Cooldown: 2s.\nIf the enemy hero's level is not higher than hers, 30% of the damage dealt is converted into her HP."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Shadow Strike",
+      "skill_desc": "Valentina casts <font color=\"a6aafb\">Shadow Strike</font> in the target direction, dealing 475<font color=\"62f8fe\"> (+145% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 40% for 1s.\nEnemy heroes hit are marked with a <font color=\"a6aafb\">Shadow Sigil</font> for 4s. Marked enemies hit by <font color=\"a6aafb\">Shadow Strike</font> again are <font color=\"a6aafb\">Terrified</font> for 1s (a target can only be terrified once every 4s)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Arcane Shade",
+      "skill_desc": "Valentina dashes in the target direction, firing 3 Shadow Bolts at nearby enemies that deal 90<font color=\"62f8fe\"> (+30% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> each. She can cast this skill again within 6s (costs Mana).\n\nEach time a Shadow Bolt hits an enemy, the cooldown of <font color=\"a6aafb\">Shadow Strike</font> is reduced by 1s."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "I Am You",
+      "skill_desc": "Valentina slows the target enemy hero by 70% for 0.5s and gains the ability to cast their <font color=\"a6aafb\">Ultimate</font>. Casting the enemy's <font color=\"a6aafb\">Ultimate</font> turns her into the enemy hero's form and inherits their Basic Attack type for up to 12s (her regular skills remain unchanged unless the enemy's <font color=\"a6aafb\">Ultimate</font> has a <font color=\"a6aafb\">Morph</font> effect).\nThe stolen <font color=\"a6aafb\">Ultimate</font>'s level equals Valentina's own <font color=\"a6aafb\">Ultimate</font> level, and its cooldown is 120% of the target's (but no lower than 10s).\nIf the target is a Physical Damage hero, Valentina gains <font color=\"62f8fe\"> (+100% Total Magic Power)</font> <font color=\"fba51f\"><1020></font> for the duration. This cannot be used on an enemy Valentina."
+    }
+  ]
+}

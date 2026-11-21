@@ -1,0 +1,30 @@
+{
+  "skins_name": "Veil of the Celestials",
+  "release": "2025-01-03",
+  "availability": "Limited",
+  "rarity": "Exquisite",
+  "label": "Collector",
+  "price": {},
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Pride of Ice",
+      "skill_desc": "Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% <font color=\"26e407\"><1005></font>. This effect has a 150s cooldown.\n\nAurora's freeze effects can also affect Turrets."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Hailstone Blast",
+      "skill_desc": "Aurora summons an icy meteorite to strike at the target location, dealing 400<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slowing targets hit by 40% for 1s. Afterward, 5 hailstones fall, each dealing 40<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Frosty Breeze",
+      "skill_desc": "Aurora blows <font color=\"a6aafb\">Frosty Breeze</font> in a fan-shaped area in the target direction, dealing 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and creating a frozen area at the far end.\n\nThe area deals a total of 225<font color=\"62f8fe\"> (+75% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies within and freezes them for 1s (increases by 0.06s for every 100 <font color=\"62f8fe\"><1030></font>)."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Frigid Glacier",
+      "skill_desc": "Aurora creates a frost path in the target direction, dealing 100<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies in the path and slowing them by 80% for 1.2s.\n\nThe frost path gradually expands into a glacier that shatters at maximum size, dealing 600<font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area and freezing them for 1s (increases by 0.2s for every 100 <font color=\"62f8fe\"><1030></font>)."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "skins_name": "Savannah Cat",
+  "release": "2018-11-22",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Key Insight",
+      "skill_desc": "Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Synchro Fission",
+      "skill_desc": "Harith creates a phantom of himself in a distant location. Harith and his phantom then release <font color=\"a6aafb\">Synchro Fission</font> toward each other, dealing 150<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemy units on the path.\n\nWhen the 2 energy waves collide, they explode, dealing 450<font color=\"62f8fe\"> (+180% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to all enemies in the area.\nThis skill deals 60% extra damage to creeps (up to 1500 damage)."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Chrono Dash",
+      "skill_desc": "Harith dashes towards the target direction, gaining a 120<font color=\"62f8fe\"> (+120% Total Magic Power)</font> shield that stacks up to 3 times and enhancing his next Basic Attack. His enhanced Basic Attack deals 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"62f8fe\">(+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and slows enemies by 40%. Hitting an enemy reduces the cooldown of <font color=\"a6aafb\">Chrono Dash</font> by 3s.\n\nThe enhanced Basic Attack only deals 50<font color=\"fba51f\"> (+100% Total Physical Attack)</font><font color=\"62f8fe\">(+100% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to Turrets."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Zaman Force",
+      "skill_desc": "Harith uses his Key to summon the Zaman Force, creating a multidimensional rift. Upon appearing, it reduces the cooldown of <font color=\"a6aafb\">Chrono Dash</font> by 4s. The rift continuously slows enemy heroes in the area by 40%.\n\nWhen Harith comes into contact with the rift using <font color=\"a6aafb\">Chrono Dash</font>, he absorbs its energy, reducing the cooldown of <font color=\"a6aafb\">Synchro Fission</font> by 1s and <font color=\"a6aafb\">Chrono Dash</font> by 3s. Harith gains 15% Resilience while on the rift."
+    }
+  ]
+}

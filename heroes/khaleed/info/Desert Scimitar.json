@@ -1,0 +1,33 @@
+{
+  "skins_name": "Desert Scimitar",
+  "release": "2020-08-07",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Sand Walk",
+      "skill_desc": "Khaleed accumulates <font color=\"a6aafb\">Desert Power</font> while moving. After <font color=\"a6aafb\">Desert Power</font> is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50<font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Desert Tornado",
+      "skill_desc": "Khaleed whirls his scimitar, dealing 175<font color=\"fba51f\"> (+130% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row.\n\nThis skill deals 60% damage to Minions and Creeps."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Quicksand Guard",
+      "skill_desc": "Khaleed protects himself with quicksand, restoring HP equal to <font color=\"26e407\">60 + 5% of his <1998></font> and 10 <font color=\"a6aafb\">Desert Power</font> every 0.5s. He also gains 25% Damage Reduction for up to 4s.\n\nWhile channeling, quicksand appears beneath him, slowing the enemy by 60%.\nThis is a <font color=\"a6aafb\">Focused Cast</font>. Other control effects will interrupt this skill."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Raging Sandstorm",
+      "skill_desc": "Khaleed rides the sandstorm and charges toward a designated location, dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process.\n\nUpon reaching the destination, Khaleed will smash the ground, dealing 450<font color=\"fba51f\"> (+160% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area and stunning them for 1s, and fully charge his <font color=\"a6aafb\">Desert Power</font>."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "skins_name": "Fortress Titan",
+  "release": "2017-09-29",
+  "availability": "Available",
+  "rarity": null,
+  "label": null,
+  "price": {
+    "bp": "32000",
+    "dm": "599"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Bastion of Stone",
+      "skill_desc": "Grock gains a shield equal to 14% <font color=\"26e407\"><1005></font> and empowers the next Basic Attack to deal 4<font color=\"26e407\"> (+2% Total Physical Defense)</font>% target's <font color=\"26e407\"><1005></font> <font color=\"fb1f1f\">Physical Damage</font> (capped at 300<font color=\"ffe63c\"> (+20*Hero Level)</font> against non-hero units). Cooldown: 18s - 12s (decreases with level). This cooldown is reduced by 200% when near terrain.\nGrock's skills cannot be interrupted, and he gains 30<font color=\"ffe63c\"> (+6*Hero Level)</font>% extra <font color=\"fba51f\"><1060></font> while the shield is active."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Mighty Swing",
+      "skill_desc": "Grock strikes forward with massive force, dealing 240<font color=\"fba51f\"> (+100% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Enemies with obstacles behind them are knocked back into the obstacle, knocked airborne, and take 4<font color=\"26e407\"> (+2% Total Physical Defense)</font>% <font color=\"26e407\"><1005></font> extra <font color=\"fb1f1f\">Physical Damage</font> (capped at 300<font color=\"ffe63c\"> (+20*Hero Level)</font> against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Earthen Rampart",
+      "skill_desc": "After a brief delay, Grock summons a stone wall in the target area, dealing 100<font color=\"fba51f\"> (+60% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking enemies towards him.\n<font color=\"a6aafb\">Use Again</font>: Cancel the wall early."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Tectonic Charge",
+      "skill_desc": "Grock charges forward and gains Control Immunity, dealing 100<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1s and deals 650<font color=\"fba51f\"> (+300% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. If this skill doesn't hit terrain, 50% of its cooldown is refunded."
+    }
+  ]
+}

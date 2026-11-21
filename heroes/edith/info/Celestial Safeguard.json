@@ -1,0 +1,32 @@
+{
+  "skins_name": "Celestial Safeguard",
+  "release": "2021-12-24",
+  "availability": "Available",
+  "rarity": "Common",
+  "label": null,
+  "price": {
+    "dm": "269"
+  },
+  "skills": [
+    {
+      "skill_type": "passive",
+      "skill_name": "Overload",
+      "skill_desc": "After each skill cast, Edith and Phylax become Overloaded for 3s, during which all Basic Attacks will trigger chain lightning, dealing <font color=\"62f8fe\"> (+20% Total Magic Power)</font> (+ 3 (+0.2*Hero Level)% target's <font color=\"26e407\"><1005></font>) extra <font color=\"7f62fe\">Magic Damage</font> to up to 4 enemies.\nChain lightning damage against minions is increased to 150%."
+    },
+    {
+      "skill_type": "1st",
+      "skill_name": "Earth Shatter",
+      "skill_desc": "After a 0.75s delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction, dealing 225<font color=\"26e407\"> (+10% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit (deals 120% damage to minions) and knocking them airborne for 0.8s.\nThis skill can only be interrupted by Suppression."
+    },
+    {
+      "skill_type": "2nd",
+      "skill_name": "Onward",
+      "skill_desc": "Edith controls Phylax to charge in the target direction, dealing 90<font color=\"26e407\"> (+3% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies along the way.\n\nIf Phylax hits an enemy hero during the charge, it will stop immediately and throw them over its shoulder, dealing 108<font color=\"26e407\"> (+5% Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font>."
+    },
+    {
+      "skill_type": "ultimate",
+      "skill_name": "Primal Wrath",
+      "skill_desc": "<font color=\"a6aafb\">Passive</font>: When inside Phylax, Edith accumulates Wrath by dealing skill damage to enemies and taking damage (calculated before damage reduction).\n<font color=\"a6aafb\">Active</font>: Edith ejects herself forward from Phylax, knocking back nearby enemies and taking flight for up to 8s (gaining 30 Movement Speed). During this time, she gains new skills and can perform ranged Basic Attacks, each dealing 35<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"62f8fe\">(+25% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>. She also gains 350<font color=\"26e407\"> (+5% Max HP)</font> - 350<font color=\"26e407\"> (+20% Max HP)</font> extra shield, 50% - 150% extra Attack Speed, and 5% - 20% Hybrid Lifesteal based on accumulated Wrath, and converts each point of <font color=\"fba51f\">Extra <1060></font> and <font color=\"62f8fe\">Extra <1070></font> into 3.5 <font color=\"62f8fe\"><1030></font>."
+    }
+  ]
+}
